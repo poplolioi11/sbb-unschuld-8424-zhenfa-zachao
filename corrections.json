@@ -1,0 +1,3702 @@
+{
+  "changes": [
+    {
+      "unit": "f003-R-05",
+      "frame": 3,
+      "side": "R",
+      "before": "大者子也春得脾而不□",
+      "after": "大者子也春得脾而不療",
+      "image_sha256": "2608ce1f5ce3682936cc287b7f35e42ee262353c8679e6183e595917adde89e5",
+      "spans": [
+        {
+          "before_codepoint_range": [
+            9,
+            10
+          ],
+          "after_codepoint_range": [
+            9,
+            10
+          ],
+          "before": "□",
+          "after": "療"
+        }
+      ],
+      "image_findings": [
+        {
+          "reason": "疒下見區分為上下的內筆，最下有小形點撇，支持療。",
+          "status": "accept",
+          "image_bbox": [
+            940,
+            1050,
+            1060,
+            1287
+          ],
+          "offset": [
+            9,
+            10
+          ]
+        }
+      ]
+    },
+    {
+      "unit": "f003-L-02",
+      "frame": 3,
+      "side": "L",
+      "before": "子也夏得肺而難□",
+      "after": "子也夏得肺而難瘥",
+      "image_sha256": "2608ce1f5ce3682936cc287b7f35e42ee262353c8679e6183e595917adde89e5",
+      "spans": [
+        {
+          "before_codepoint_range": [
+            7,
+            8
+          ],
+          "after_codepoint_range": [
+            7,
+            8
+          ],
+          "before": "□",
+          "after": "瘥"
+        }
+      ],
+      "image_findings": [
+        {
+          "reason": "疒內可見差下工的短豎與底橫，支持瘥。",
+          "status": "accept",
+          "image_bbox": [
+            515,
+            860,
+            645,
+            1060
+          ],
+          "offset": [
+            7,
+            8
+          ]
+        }
+      ]
+    },
+    {
+      "unit": "f004-R-04",
+      "frame": 4,
+      "side": "R",
+      "before": "胃當令其脈遲緩如春風攏柳弦長",
+      "after": "胃當令其脈遲緩如春風{攏|擺}柳弦長",
+      "image_sha256": "fb46d6b6f9c0168009318da816e24e3f9c82f7f3810f040a42eb8240e9b712e9",
+      "spans": [
+        {
+          "before_codepoint_range": [
+            10,
+            10
+          ],
+          "after_codepoint_range": [
+            10,
+            11
+          ],
+          "before": "",
+          "after": "{"
+        },
+        {
+          "before_codepoint_range": [
+            11,
+            11
+          ],
+          "after_codepoint_range": [
+            12,
+            15
+          ],
+          "before": "",
+          "after": "|擺}"
+        }
+      ],
+      "image_findings": [
+        {
+          "reason": "風下字左有扌，右上和右下墨線相接，右旁可作不同讀法。對照 f005 同語未見足以分辨的筆畫。",
+          "status": "mark_uncertain",
+          "image_bbox": [
+            1030,
+            1130,
+            1168,
+            1440
+          ],
+          "offset": [
+            10,
+            11
+          ]
+        }
+      ]
+    },
+    {
+      "unit": "f004-L-01",
+      "frame": 4,
+      "side": "L",
+      "before": "臟{䐗|者}藏也藏精氣而不洩故滿而不",
+      "after": "臟䐗藏也藏精氣而不洩故滿而不",
+      "image_sha256": "fb46d6b6f9c0168009318da816e24e3f9c82f7f3810f040a42eb8240e9b712e9",
+      "spans": [
+        {
+          "before_codepoint_range": [
+            1,
+            2
+          ],
+          "after_codepoint_range": [
+            1,
+            1
+          ],
+          "before": "{",
+          "after": ""
+        },
+        {
+          "before_codepoint_range": [
+            3,
+            6
+          ],
+          "after_codepoint_range": [
+            2,
+            2
+          ],
+          "before": "|者}",
+          "after": ""
+        }
+      ],
+      "image_findings": [
+        {
+          "reason": "第二字左側獨立曲框內有短橫，右側另成者，支持从月从者的䐗。",
+          "status": "accept",
+          "image_bbox": [
+            635,
+            300,
+            756,
+            521
+          ],
+          "offset": [
+            1,
+            6
+          ]
+        }
+      ]
+    },
+    {
+      "unit": "f004-L-07",
+      "frame": 4,
+      "side": "L",
+      "before": "精脣乃脾之門耳為腎之竅也",
+      "after": "精唇乃脾之門耳為腎之竅也",
+      "image_sha256": "fb46d6b6f9c0168009318da816e24e3f9c82f7f3810f040a42eb8240e9b712e9",
+      "spans": [
+        {
+          "before_codepoint_range": [
+            1,
+            2
+          ],
+          "after_codepoint_range": [
+            1,
+            2
+          ],
+          "before": "脣",
+          "after": "唇"
+        }
+      ],
+      "image_findings": [
+        {
+          "reason": "最左欄精下字呈辰及底部單框口，無月部內橫，依字形用唇。",
+          "status": "accept",
+          "image_bbox": [
+            42,
+            315,
+            145,
+            447
+          ],
+          "offset": [
+            1,
+            2
+          ]
+        }
+      ]
+    },
+    {
+      "unit": "f005-R肝-02",
+      "frame": 5,
+      "side": "R肝",
+      "before": "春令東方甲乙木與膽相合脈弦長目乃肝之精面色青好食酸性發怒",
+      "after": "春令東方甲乙木與胆相合脈弦長目乃肝之精面色青好食酸性發怒",
+      "image_sha256": "54905ae21d9c166d05a5282bb77d987f17fd8fc5610dedb230cd1cfc61abf190",
+      "spans": [
+        {
+          "before_codepoint_range": [
+            8,
+            9
+          ],
+          "after_codepoint_range": [
+            8,
+            9
+          ],
+          "before": "膽",
+          "after": "胆"
+        }
+      ],
+      "image_findings": [
+        {
+          "reason": "與下月旁配單框內橫及底橫，照形錄胆。",
+          "status": "accept",
+          "image_bbox": [
+            1208,
+            604,
+            1325,
+            757
+          ],
+          "offset": [
+            8,
+            9
+          ]
+        }
+      ]
+    },
+    {
+      "unit": "f005-R脾-02",
+      "frame": 5,
+      "side": "R脾",
+      "before": "四季月中央戊己土與胃相合脈遲緩如春風攏柳唇乃脾之門面色好食",
+      "after": "四季月中{央|丑}戌己土與胃相合脈遲緩如春風{攏|擺}柳唇乃脾之門面色好食",
+      "image_sha256": "54905ae21d9c166d05a5282bb77d987f17fd8fc5610dedb230cd1cfc61abf190",
+      "spans": [
+        {
+          "before_codepoint_range": [
+            4,
+            4
+          ],
+          "after_codepoint_range": [
+            4,
+            5
+          ],
+          "before": "",
+          "after": "{"
+        },
+        {
+          "before_codepoint_range": [
+            5,
+            6
+          ],
+          "after_codepoint_range": [
+            6,
+            10
+          ],
+          "before": "戊",
+          "after": "|丑}戌"
+        },
+        {
+          "before_codepoint_range": [
+            18,
+            18
+          ],
+          "after_codepoint_range": [
+            22,
+            23
+          ],
+          "before": "",
+          "after": "{"
+        },
+        {
+          "before_codepoint_range": [
+            19,
+            19
+          ],
+          "after_codepoint_range": [
+            24,
+            27
+          ],
+          "before": "",
+          "after": "|擺}"
+        }
+      ],
+      "image_findings": [
+        {
+          "reason": "中下第一字的頂部閉合不清，暫列央／丑。次字戈旁清楚且內有見似短橫，加下己字，讀戌己；土行所列順序依圖。",
+          "status": "mark_uncertain",
+          "image_bbox": [
+            1100,
+            387,
+            1196,
+            559
+          ],
+          "offset": [
+            3,
+            7
+          ]
+        },
+        {
+          "reason": "柳上字與 f004 互有線索，扌右部連筆待辨。",
+          "status": "mark_uncertain",
+          "image_bbox": [
+            1100,
+            1190,
+            1192,
+            1420
+          ],
+          "offset": [
+            22,
+            23
+          ]
+        }
+      ]
+    },
+    {
+      "unit": "f005-R腎-02",
+      "frame": 5,
+      "side": "R腎",
+      "before": "冬令北方壬癸水與膀胱相合脈沉小耳乃腎之竅面色黑指甲青下洩足",
+      "after": "冬令北方壬癸水與膀胱相合脈沉小耳乃腎之竅面色黑指甲青下{洩|湧}足",
+      "image_sha256": "54905ae21d9c166d05a5282bb77d987f17fd8fc5610dedb230cd1cfc61abf190",
+      "spans": [
+        {
+          "before_codepoint_range": [
+            27,
+            27
+          ],
+          "after_codepoint_range": [
+            27,
+            28
+          ],
+          "before": "",
+          "after": "{"
+        },
+        {
+          "before_codepoint_range": [
+            28,
+            28
+          ],
+          "after_codepoint_range": [
+            29,
+            32
+          ],
+          "before": "",
+          "after": "|湧}"
+        }
+      ],
+      "image_findings": [
+        {
+          "reason": "下後字左氵右部因污痕難定，右中框折支持另列湧。",
+          "status": "mark_uncertain",
+          "image_bbox": [
+            888,
+            1443,
+            1000,
+            1722
+          ],
+          "offset": [
+            27,
+            28
+          ]
+        }
+      ]
+    },
+    {
+      "unit": "f005-L膽-01",
+      "frame": 5,
+      "side": "L膽",
+      "before": "膽",
+      "after": "胆",
+      "image_sha256": "54905ae21d9c166d05a5282bb77d987f17fd8fc5610dedb230cd1cfc61abf190",
+      "spans": [
+        {
+          "before_codepoint_range": [
+            0,
+            1
+          ],
+          "after_codepoint_range": [
+            0,
+            1
+          ],
+          "before": "膽",
+          "after": "胆"
+        }
+      ],
+      "image_findings": [
+        {
+          "reason": "大字右見日及下橫，左月，依形錄胆。",
+          "status": "accept",
+          "image_bbox": [
+            561,
+            463,
+            665,
+            569
+          ],
+          "offset": [
+            0,
+            1
+          ]
+        }
+      ]
+    },
+    {
+      "unit": "f005-L膽-02",
+      "frame": 5,
+      "side": "L膽",
+      "before": "肝與膽",
+      "after": "肝與胆",
+      "image_sha256": "54905ae21d9c166d05a5282bb77d987f17fd8fc5610dedb230cd1cfc61abf190",
+      "spans": [
+        {
+          "before_codepoint_range": [
+            2,
+            3
+          ],
+          "after_codepoint_range": [
+            2,
+            3
+          ],
+          "before": "膽",
+          "after": "胆"
+        }
+      ],
+      "image_findings": [
+        {
+          "reason": "右小行與下字右側為日下橫，與本組大字相合。",
+          "status": "accept",
+          "image_bbox": [
+            584,
+            693,
+            665,
+            796
+          ],
+          "offset": [
+            2,
+            3
+          ]
+        }
+      ]
+    },
+    {
+      "unit": "f006-L-05",
+      "frame": 6,
+      "side": "L",
+      "before": "口大張喘促難痊再看尺脈足踝骨",
+      "after": "口大張喘促難瘥再看尺脈足踝骨",
+      "image_sha256": "2b82f6dac04e629eb95da990f215c682a88f075b96b1726f50ef42210152634e",
+      "spans": [
+        {
+          "before_codepoint_range": [
+            6,
+            7
+          ],
+          "after_codepoint_range": [
+            6,
+            7
+          ],
+          "before": "痊",
+          "after": "瘥"
+        }
+      ],
+      "image_findings": [
+        {
+          "reason": "疒內似差，末部有工直竪接底橫，區別全的收筆。",
+          "status": "accept",
+          "image_bbox": [
+            225,
+            675,
+            327,
+            1016
+          ],
+          "offset": [
+            6,
+            7
+          ]
+        }
+      ]
+    },
+    {
+      "unit": "f007-L-01",
+      "frame": 7,
+      "side": "L",
+      "before": "肝病聲暴怒脾病思念歌唱心病{嘻|喜}",
+      "after": "肝病聲暴怒脾病思念歌唱心病嘻",
+      "image_sha256": "4da2be8db8daf57c4b03b854192ee02f3949085b4a256889ee456716a8b55480",
+      "spans": [
+        {
+          "before_codepoint_range": [
+            13,
+            14
+          ],
+          "after_codepoint_range": [
+            13,
+            13
+          ],
+          "before": "{",
+          "after": ""
+        },
+        {
+          "before_codepoint_range": [
+            15,
+            18
+          ],
+          "after_codepoint_range": [
+            14,
+            14
+          ],
+          "before": "|喜}",
+          "after": ""
+        }
+      ],
+      "image_findings": [
+        {
+          "reason": "主體喜左有分離封口小口形，近摺污損仍可見輪廓。",
+          "status": "accept",
+          "image_bbox": [
+            632,
+            1390,
+            802,
+            1650
+          ],
+          "offset": [
+            13,
+            18
+          ]
+        }
+      ]
+    },
+    {
+      "unit": "f008-L-06",
+      "frame": 8,
+      "side": "L",
+      "before": "面黑{薰|黧}{痛|瘡}目無光自汗如水腰折髮結腎",
+      "after": "面黑{薰|黧}痛目無光自汗如水腰折髮結腎",
+      "image_sha256": "12e312db6b32c53831e03407d45e05d3ed68711ee79fce5f3b4feec46b760987",
+      "spans": [
+        {
+          "before_codepoint_range": [
+            7,
+            8
+          ],
+          "after_codepoint_range": [
+            7,
+            7
+          ],
+          "before": "{",
+          "after": ""
+        },
+        {
+          "before_codepoint_range": [
+            9,
+            12
+          ],
+          "after_codepoint_range": [
+            8,
+            8
+          ],
+          "before": "|瘡}",
+          "after": ""
+        }
+      ],
+      "image_findings": [
+        {
+          "reason": "黑下首疑字上見密橫、下框劃，原讀黶的厂形不足，保留候選。",
+          "status": "retain_uncertain",
+          "image_bbox": [
+            123,
+            206,
+            254,
+            578
+          ],
+          "offset": [
+            2,
+            7
+          ]
+        },
+        {
+          "reason": "疒內有甬形，上折及下框內豎清楚。",
+          "status": "accept",
+          "image_bbox": [
+            123,
+            206,
+            254,
+            578
+          ],
+          "offset": [
+            7,
+            12
+          ]
+        }
+      ]
+    },
+    {
+      "unit": "f013-L-02",
+      "frame": 13,
+      "side": "L",
+      "before": "七情四氣有一傷欬為喘又而為嗽",
+      "after": "七情四氣有一傷發為喘又而為嗽",
+      "image_sha256": "bee5867b912cd5f0cb86d256ddf4119a56b73ec7afac170f27b3770c261caf14",
+      "spans": [
+        {
+          "before_codepoint_range": [
+            7,
+            8
+          ],
+          "after_codepoint_range": [
+            7,
+            8
+          ],
+          "before": "欬",
+          "after": "發"
+        }
+      ],
+      "image_findings": [
+        {
+          "reason": "傷下字頭為分點斜筆，下部收筆呈發形；未見欬右欠的獨立撇捺。",
+          "status": "accept",
+          "image_bbox": [
+            501,
+            688,
+            635,
+            997
+          ],
+          "offset": [
+            7,
+            8
+          ]
+        }
+      ]
+    },
+    {
+      "unit": "f013-L-04",
+      "frame": 13,
+      "side": "L",
+      "before": "肺寔風熱痰稠白其聲乾燥多咽{噬|唾|嗌}",
+      "after": "肺寔風熱痰稠白其聲乾燥多咽嗌",
+      "image_sha256": "bee5867b912cd5f0cb86d256ddf4119a56b73ec7afac170f27b3770c261caf14",
+      "spans": [
+        {
+          "before_codepoint_range": [
+            13,
+            18
+          ],
+          "after_codepoint_range": [
+            13,
+            13
+          ],
+          "before": "{噬|唾|",
+          "after": ""
+        },
+        {
+          "before_codepoint_range": [
+            19,
+            20
+          ],
+          "after_codepoint_range": [
+            14,
+            14
+          ],
+          "before": "}",
+          "after": ""
+        }
+      ],
+      "image_findings": [
+        {
+          "reason": "肺下原形上宀、中框、底撇捺，與 f022-R-04 寔可比；保留初稿。",
+          "status": "retain_variant",
+          "image_bbox": [
+            340,
+            333,
+            448,
+            473
+          ],
+          "offset": [
+            0,
+            2
+          ]
+        },
+        {
+          "reason": "口旁右下有三欄皿，上部可見益的分點，右側未見噬的竹頭。",
+          "status": "accept",
+          "image_bbox": [
+            340,
+            1415,
+            439,
+            1647
+          ],
+          "offset": [
+            13,
+            20
+          ]
+        }
+      ]
+    },
+    {
+      "unit": "f014-R-02",
+      "frame": 14,
+      "side": "R",
+      "before": "宿食謂何不克消只因体虚脾胃弱",
+      "after": "宿食謂何不克消只因躰虚脾胃弱",
+      "image_sha256": "2aee99aed67bbf5dbd4b4b11b5ef0d41e75fbcbb26dafb050ac8586b0c9252fc",
+      "spans": [
+        {
+          "before_codepoint_range": [
+            9,
+            10
+          ],
+          "after_codepoint_range": [
+            9,
+            10
+          ],
+          "before": "体",
+          "after": "躰"
+        }
+      ],
+      "image_findings": [
+        {
+          "reason": "不下字為克，右側可見為空白紙面；原讀曾以相尅的異體誤配。",
+          "status": "retain_variant",
+          "image_bbox": [
+            1268,
+            692,
+            1396,
+            833
+          ],
+          "offset": [
+            5,
+            6
+          ]
+        },
+        {
+          "reason": "因下字左部曲折多筆為身，右為本；病卷其他體字各依當處。",
+          "status": "accept",
+          "image_bbox": [
+            1282,
+            923,
+            1421,
+            1214
+          ],
+          "offset": [
+            9,
+            10
+          ]
+        }
+      ]
+    },
+    {
+      "unit": "f014-R-03",
+      "frame": 14,
+      "side": "R",
+      "before": "最怕過{食|滄}飲生冷遂成積滯不停調",
+      "after": "最怕過湌飲生冷遂成積滯不停調",
+      "image_sha256": "2aee99aed67bbf5dbd4b4b11b5ef0d41e75fbcbb26dafb050ac8586b0c9252fc",
+      "spans": [
+        {
+          "before_codepoint_range": [
+            3,
+            8
+          ],
+          "after_codepoint_range": [
+            3,
+            4
+          ],
+          "before": "{食|滄}",
+          "after": "湌"
+        }
+      ],
+      "image_findings": [
+        {
+          "reason": "過下左側水旁、右部食字形可見，未見滄之倉頂底口。",
+          "status": "accept",
+          "image_bbox": [
+            1194,
+            409,
+            1306,
+            735
+          ],
+          "offset": [
+            3,
+            8
+          ]
+        }
+      ]
+    },
+    {
+      "unit": "f014-R-04",
+      "frame": 14,
+      "side": "R",
+      "before": "吞酸嘔惡並{噯|噎}噫胸滿氣膈或熱潮",
+      "after": "吞酸嘔惡並{噯|噎|噫}噫胸滿氣膈或熱潮",
+      "image_sha256": "2aee99aed67bbf5dbd4b4b11b5ef0d41e75fbcbb26dafb050ac8586b0c9252fc",
+      "spans": [
+        {
+          "before_codepoint_range": [
+            9,
+            9
+          ],
+          "after_codepoint_range": [
+            9,
+            11
+          ],
+          "before": "",
+          "after": "|噫"
+        }
+      ],
+      "image_findings": [
+        {
+          "reason": "先後兩口旁字的右旁筆勢不同；第一字似壴族或意的改筆，保留另選。",
+          "status": "mark_uncertain",
+          "image_bbox": [
+            1091,
+            679,
+            1214,
+            913
+          ],
+          "offset": [
+            5,
+            10
+          ]
+        }
+      ]
+    },
+    {
+      "unit": "f014-R-07",
+      "frame": 14,
+      "side": "R",
+      "before": "輕者三稜紅丸子重則大黃蒔伴交",
+      "after": "輕者三稜紅丸子重則大黃{芍|蒔}伴交",
+      "image_sha256": "2aee99aed67bbf5dbd4b4b11b5ef0d41e75fbcbb26dafb050ac8586b0c9252fc",
+      "spans": [
+        {
+          "before_codepoint_range": [
+            11,
+            11
+          ],
+          "after_codepoint_range": [
+            11,
+            14
+          ],
+          "before": "",
+          "after": "{芍|"
+        },
+        {
+          "before_codepoint_range": [
+            12,
+            12
+          ],
+          "after_codepoint_range": [
+            15,
+            16
+          ],
+          "before": "",
+          "after": "}"
+        }
+      ],
+      "image_findings": [
+        {
+          "reason": "黃下疑字艸下近勺，細筆位置需再核。次字人旁右部有伴形，保留。",
+          "status": "mark_uncertain",
+          "image_bbox": [
+            786,
+            1210,
+            893,
+            1514
+          ],
+          "offset": [
+            11,
+            13
+          ]
+        }
+      ]
+    },
+    {
+      "unit": "f014-L-06",
+      "frame": 14,
+      "side": "L",
+      "before": "泛濫{逬|逆}流四肢去令人浮腫黃光輝",
+      "after": "泛濫迸流四肢去令人浮腫黃光輝",
+      "image_sha256": "2aee99aed67bbf5dbd4b4b11b5ef0d41e75fbcbb26dafb050ac8586b0c9252fc",
+      "spans": [
+        {
+          "before_codepoint_range": [
+            2,
+            7
+          ],
+          "after_codepoint_range": [
+            2,
+            3
+          ],
+          "before": "{逬|逆}",
+          "after": "迸"
+        }
+      ],
+      "image_findings": [
+        {
+          "reason": "濫下字走之內見上兩點及並列開腳，支持迸。",
+          "status": "accept",
+          "image_bbox": [
+            128,
+            217,
+            251,
+            613
+          ],
+          "offset": [
+            2,
+            7
+          ]
+        }
+      ]
+    },
+    {
+      "unit": "f015-R-06",
+      "frame": 15,
+      "side": "R",
+      "before": "水腫通用牛黃散香平散予世間稀",
+      "after": "水腫通用牛黃散香平散子世間稀",
+      "image_sha256": "6a4f7ba8e0a2ff5e83af1e476e07067367b8cb3d48183d83dab2a026396f3d14",
+      "spans": [
+        {
+          "before_codepoint_range": [
+            10,
+            11
+          ],
+          "after_codepoint_range": [
+            10,
+            11
+          ],
+          "before": "予",
+          "after": "子"
+        }
+      ],
+      "image_findings": [
+        {
+          "reason": "散下見子單鉤及中橫，未見予上方的予折點。",
+          "status": "accept",
+          "image_bbox": [
+            873,
+            1220,
+            973,
+            1375
+          ],
+          "offset": [
+            10,
+            11
+          ]
+        }
+      ]
+    },
+    {
+      "unit": "f016-L關-03",
+      "frame": 16,
+      "side": "L關",
+      "before": "足少陽膽",
+      "after": "足少陽胆",
+      "image_sha256": "51d36b4b039ae89aa3cd4c3d3d82c6d5c3fc120132bc0fb343762c3c85062015",
+      "spans": [
+        {
+          "before_codepoint_range": [
+            3,
+            4
+          ],
+          "after_codepoint_range": [
+            3,
+            4
+          ],
+          "before": "膽",
+          "after": "胆"
+        }
+      ],
+      "image_findings": [
+        {
+          "reason": "小字尾右日下另有橫，與 f005 同形。",
+          "status": "accept",
+          "image_bbox": [
+            196,
+            835,
+            264,
+            1032
+          ],
+          "offset": [
+            3,
+            4
+          ]
+        }
+      ]
+    },
+    {
+      "unit": "f018-R-05",
+      "frame": 18,
+      "side": "R",
+      "before": "膽為少陽弦脈是太陰屬土細而沉",
+      "after": "胆為少陽弦脈是太陰屬土細而沉",
+      "image_sha256": "31d8ea4c1aee2409cda8f61cd497012da9c13fca541cd989d7ce8b78efe5385c",
+      "spans": [
+        {
+          "before_codepoint_range": [
+            0,
+            1
+          ],
+          "after_codepoint_range": [
+            0,
+            1
+          ],
+          "before": "膽",
+          "after": "胆"
+        }
+      ],
+      "image_findings": [
+        {
+          "reason": "該欄首字月旁右見日及底橫，保留簡俗字形。",
+          "status": "accept",
+          "image_bbox": [
+            962,
+            189,
+            1080,
+            284
+          ],
+          "offset": [
+            0,
+            1
+          ]
+        }
+      ]
+    },
+    {
+      "unit": "f019-R-07",
+      "frame": 19,
+      "side": "R",
+      "before": "風痺麻木筋攣縮腸風腰痛與身疼",
+      "after": "風癱麻木筋攣縮腸風腰痛與身疼",
+      "image_sha256": "b000fe0a44230f95ae51454106e14897ab0c8642c6c04da7809f56b40e4c48b6",
+      "spans": [
+        {
+          "before_codepoint_range": [
+            1,
+            2
+          ],
+          "after_codepoint_range": [
+            1,
+            2
+          ],
+          "before": "痺",
+          "after": "癱"
+        }
+      ],
+      "image_findings": [
+        {
+          "reason": "風下字右形有隹豎和多橫，左上有疒，近癱。",
+          "status": "accept",
+          "image_bbox": [
+            758,
+            307,
+            864,
+            460
+          ],
+          "offset": [
+            1,
+            2
+          ]
+        }
+      ]
+    },
+    {
+      "unit": "f019-L-01",
+      "frame": 19,
+      "side": "L",
+      "before": "浮臨左尺小腸殃腰痛足痛大便強",
+      "after": "浮臨左尺小腸{疦|疚}腰痛足痛大便強",
+      "image_sha256": "b000fe0a44230f95ae51454106e14897ab0c8642c6c04da7809f56b40e4c48b6",
+      "spans": [
+        {
+          "before_codepoint_range": [
+            6,
+            7
+          ],
+          "after_codepoint_range": [
+            6,
+            11
+          ],
+          "before": "殃",
+          "after": "{疦|疚}"
+        }
+      ],
+      "image_findings": [
+        {
+          "reason": "小腸後左側疒可見，右似夬、久，排除殃的歹旁，暫列兩候。",
+          "status": "mark_uncertain",
+          "image_bbox": [
+            643,
+            602,
+            762,
+            977
+          ],
+          "offset": [
+            6,
+            7
+          ]
+        }
+      ]
+    },
+    {
+      "unit": "f019-L-05",
+      "frame": 19,
+      "side": "L",
+      "before": "膈氣痰多兼嘔血尿{驟|騎}無寢小便難",
+      "after": "膈氣痰多兼嘔血尿駛無寢小便難",
+      "image_sha256": "b000fe0a44230f95ae51454106e14897ab0c8642c6c04da7809f56b40e4c48b6",
+      "spans": [
+        {
+          "before_codepoint_range": [
+            8,
+            13
+          ],
+          "after_codepoint_range": [
+            8,
+            9
+          ],
+          "before": "{驟|騎}",
+          "after": "駛"
+        }
+      ],
+      "image_findings": [
+        {
+          "reason": "尿下左馬、右史的框與長撇捺分明，據形錄駛。",
+          "status": "accept",
+          "image_bbox": [
+            236,
+            930,
+            343,
+            1247
+          ],
+          "offset": [
+            8,
+            13
+          ]
+        }
+      ]
+    },
+    {
+      "unit": "f019-L-06",
+      "frame": 19,
+      "side": "L",
+      "before": "關脈沉兮腹虚鳴{疳|痞}氣少食怒生嗔",
+      "after": "關脈沉兮腹虚鳴痞氣少食怒生嗔",
+      "image_sha256": "b000fe0a44230f95ae51454106e14897ab0c8642c6c04da7809f56b40e4c48b6",
+      "spans": [
+        {
+          "before_codepoint_range": [
+            7,
+            10
+          ],
+          "after_codepoint_range": [
+            7,
+            7
+          ],
+          "before": "{疳|",
+          "after": ""
+        },
+        {
+          "before_codepoint_range": [
+            11,
+            12
+          ],
+          "after_codepoint_range": [
+            8,
+            8
+          ],
+          "before": "}",
+          "after": ""
+        }
+      ],
+      "image_findings": [
+        {
+          "reason": "鳴下疑字疒內上似不、下口框，支持痞。",
+          "status": "accept",
+          "image_bbox": [
+            148,
+            705,
+            247,
+            1120
+          ],
+          "offset": [
+            7,
+            12
+          ]
+        }
+      ]
+    },
+    {
+      "unit": "f020-R-02",
+      "frame": 20,
+      "side": "R",
+      "before": "陰癲足腫疝氣欬足腫麻木不相饒",
+      "after": "陰癲足腫疝氣發足腫麻木不相饒",
+      "image_sha256": "15041b0671de553081c0127f9fdee117d27f9e3fb151e9adf64a5ef2493fbe7f",
+      "spans": [
+        {
+          "before_codepoint_range": [
+            6,
+            7
+          ],
+          "after_codepoint_range": [
+            6,
+            7
+          ],
+          "before": "欬",
+          "after": "發"
+        }
+      ],
+      "image_findings": [
+        {
+          "reason": "氣下見近發的上分叉和底部收筆，缺欬右欠輪廓；陰下先前癲形候可讀，維持。",
+          "status": "accept",
+          "image_bbox": [
+            1250,
+            306,
+            1357,
+            891
+          ],
+          "offset": [
+            6,
+            7
+          ]
+        }
+      ]
+    },
+    {
+      "unit": "f020-R-04",
+      "frame": 20,
+      "side": "R",
+      "before": "寸部脈遲心氣寒吐逆咳嗽飲{漿|水}難",
+      "after": "寸部脈遲心氣寒吐逆咳嗽飲漿難",
+      "image_sha256": "15041b0671de553081c0127f9fdee117d27f9e3fb151e9adf64a5ef2493fbe7f",
+      "spans": [
+        {
+          "before_codepoint_range": [
+            12,
+            13
+          ],
+          "after_codepoint_range": [
+            12,
+            12
+          ],
+          "before": "{",
+          "after": ""
+        },
+        {
+          "before_codepoint_range": [
+            14,
+            17
+          ],
+          "after_codepoint_range": [
+            13,
+            13
+          ],
+          "before": "|水}",
+          "after": ""
+        }
+      ],
+      "image_findings": [
+        {
+          "reason": "飲下字上部小寫近將，下部水的中心縱筆及兩側伸筆另成部件。",
+          "status": "accept",
+          "image_bbox": [
+            1061,
+            1289,
+            1182,
+            1634
+          ],
+          "offset": [
+            12,
+            17
+          ]
+        }
+      ]
+    },
+    {
+      "unit": "f020-L-05",
+      "frame": 20,
+      "side": "L",
+      "before": "嗽血煩{喝|渴}大腸擁小便{驟|騎}濇條苗連",
+      "after": "嗽血煩喝大腸{擁|穢|□}小便駛瀝條苗連",
+      "image_sha256": "15041b0671de553081c0127f9fdee117d27f9e3fb151e9adf64a5ef2493fbe7f",
+      "spans": [
+        {
+          "before_codepoint_range": [
+            3,
+            4
+          ],
+          "after_codepoint_range": [
+            3,
+            3
+          ],
+          "before": "{",
+          "after": ""
+        },
+        {
+          "before_codepoint_range": [
+            5,
+            8
+          ],
+          "after_codepoint_range": [
+            4,
+            4
+          ],
+          "before": "|渴}",
+          "after": ""
+        },
+        {
+          "before_codepoint_range": [
+            10,
+            10
+          ],
+          "after_codepoint_range": [
+            6,
+            7
+          ],
+          "before": "",
+          "after": "{"
+        },
+        {
+          "before_codepoint_range": [
+            11,
+            11
+          ],
+          "after_codepoint_range": [
+            8,
+            13
+          ],
+          "before": "",
+          "after": "|穢|□}"
+        },
+        {
+          "before_codepoint_range": [
+            13,
+            19
+          ],
+          "after_codepoint_range": [
+            15,
+            17
+          ],
+          "before": "{驟|騎}濇",
+          "after": "駛瀝"
+        }
+      ],
+      "image_findings": [
+        {
+          "reason": "煩下字左可見單口框，右曷，採喝。",
+          "status": "accept",
+          "image_bbox": [
+            232,
+            471,
+            338,
+            1201
+          ],
+          "offset": [
+            3,
+            8
+          ]
+        },
+        {
+          "reason": "腸下似木或禾旁，右部連寫而雍與歲形待辨。",
+          "status": "mark_uncertain",
+          "image_bbox": [
+            232,
+            471,
+            338,
+            1201
+          ],
+          "offset": [
+            6,
+            7
+          ]
+        },
+        {
+          "reason": "便下字馬旁及史形右部，與 f019 尿下同手形。",
+          "status": "accept",
+          "image_bbox": [
+            232,
+            471,
+            338,
+            1201
+          ],
+          "offset": [
+            15,
+            20
+          ]
+        },
+        {
+          "reason": "駛後字氵旁右側見上厂及下歷類折畫，構形有別 f021 所見濇類字。",
+          "status": "accept",
+          "image_bbox": [
+            234,
+            1045,
+            339,
+            1292
+          ],
+          "offset": [
+            16,
+            17
+          ]
+        }
+      ]
+    },
+    {
+      "unit": "f020-L-07",
+      "frame": 20,
+      "side": "L",
+      "before": "肝經受熱通兩目不膽氣也傷残然",
+      "after": "肝經受熱通兩目不胆氣也傷残然",
+      "image_sha256": "15041b0671de553081c0127f9fdee117d27f9e3fb151e9adf64a5ef2493fbe7f",
+      "spans": [
+        {
+          "before_codepoint_range": [
+            8,
+            9
+          ],
+          "after_codepoint_range": [
+            8,
+            9
+          ],
+          "before": "膽",
+          "after": "胆"
+        }
+      ],
+      "image_findings": [
+        {
+          "reason": "不與氣之間左月右旦，然小寫依原欄旁注保留。",
+          "status": "accept",
+          "image_bbox": [
+            49,
+            985,
+            160,
+            1111
+          ],
+          "offset": [
+            8,
+            9
+          ]
+        }
+      ]
+    },
+    {
+      "unit": "f021-L-01",
+      "frame": 21,
+      "side": "L",
+      "before": "傷寒脈訣不與雜症相同",
+      "after": "傷寒脈訣不與襍症相同",
+      "image_sha256": "fb4566d4cb2e9c347522e2a96362b7570825f3f494022106557f19fe61352f22",
+      "spans": [
+        {
+          "before_codepoint_range": [
+            6,
+            7
+          ],
+          "after_codepoint_range": [
+            6,
+            7
+          ],
+          "before": "雜",
+          "after": "襍"
+        }
+      ],
+      "image_findings": [
+        {
+          "reason": "題字左側有衣旁點撇且右部集縱筆獨立，原件作襍。",
+          "status": "accept",
+          "image_bbox": [
+            639,
+            831,
+            770,
+            1038
+          ],
+          "offset": [
+            6,
+            7
+          ]
+        }
+      ]
+    },
+    {
+      "unit": "f021-L-07",
+      "frame": 21,
+      "side": "L",
+      "before": "沉數之時為裏熱隨之尺寸可言病",
+      "after": "沉數之時為裏熱隨之尺寸可言痾",
+      "image_sha256": "fb4566d4cb2e9c347522e2a96362b7570825f3f494022106557f19fe61352f22",
+      "spans": [
+        {
+          "before_codepoint_range": [
+            13,
+            14
+          ],
+          "after_codepoint_range": [
+            13,
+            14
+          ],
+          "before": "病",
+          "after": "痾"
+        }
+      ],
+      "image_findings": [
+        {
+          "reason": "末尾疒內有可的上橫、中央口及右鉤，支持痾。",
+          "status": "accept",
+          "image_bbox": [
+            43,
+            1518,
+            145,
+            1674
+          ],
+          "offset": [
+            13,
+            14
+          ]
+        }
+      ]
+    },
+    {
+      "unit": "f022-L-03",
+      "frame": 22,
+      "side": "L",
+      "before": "過經病後得此脈總是陰陽復{恃|持}時",
+      "after": "過經病後得此脈總是陰陽復{恃|持|將}時",
+      "image_sha256": "24f9193623cc170cfb1f358caa0d208ee3cc08b572930be6b309717a49519d70",
+      "spans": [
+        {
+          "before_codepoint_range": [
+            16,
+            16
+          ],
+          "after_codepoint_range": [
+            16,
+            18
+          ],
+          "before": "",
+          "after": "|將"
+        }
+      ],
+      "image_findings": [
+        {
+          "reason": "列末字右侧有寸近形而左墨不齊，初稿兩候與原讀將並存。",
+          "status": "mark_uncertain",
+          "image_bbox": [
+            418,
+            1367,
+            526,
+            1639
+          ],
+          "offset": [
+            12,
+            17
+          ]
+        }
+      ]
+    },
+    {
+      "unit": "f022-L-06",
+      "frame": 22,
+      "side": "L",
+      "before": "一息三至脈名遲遲則為陰病臟兮",
+      "after": "一息三至脈名遲遲則為陰病腑兮",
+      "image_sha256": "24f9193623cc170cfb1f358caa0d208ee3cc08b572930be6b309717a49519d70",
+      "spans": [
+        {
+          "before_codepoint_range": [
+            12,
+            13
+          ],
+          "after_codepoint_range": [
+            12,
+            13
+          ],
+          "before": "臟",
+          "after": "腑"
+        }
+      ],
+      "image_findings": [
+        {
+          "reason": "病下月旁右從府，內側人覆寸，非藏字疊筆。",
+          "status": "accept",
+          "image_bbox": [
+            125,
+            1282,
+            236,
+            1642
+          ],
+          "offset": [
+            12,
+            13
+          ]
+        }
+      ]
+    },
+    {
+      "unit": "f024-L-03",
+      "frame": 24,
+      "side": "L",
+      "before": "倦怠少精神食后傷風精氣別",
+      "after": "倦急少精神食后傷風精氣別",
+      "image_sha256": "2d2472e96c62472b10864d4a4a4e318363477ce0d49b306336a41991db19defb",
+      "spans": [
+        {
+          "before_codepoint_range": [
+            1,
+            2
+          ],
+          "after_codepoint_range": [
+            1,
+            2
+          ],
+          "before": "怠",
+          "after": "急"
+        }
+      ],
+      "image_findings": [
+        {
+          "reason": "倦下部件上見短斜包住彐框，下心，支持急。",
+          "status": "accept",
+          "image_bbox": [
+            433,
+            130,
+            553,
+            424
+          ],
+          "offset": [
+            1,
+            2
+          ]
+        }
+      ]
+    },
+    {
+      "unit": "f024-L-06",
+      "frame": 24,
+      "side": "L",
+      "before": "傷寒活人{賊|賦}賦",
+      "after": "傷寒活人賊賦",
+      "image_sha256": "2d2472e96c62472b10864d4a4a4e318363477ce0d49b306336a41991db19defb",
+      "spans": [
+        {
+          "before_codepoint_range": [
+            4,
+            5
+          ],
+          "after_codepoint_range": [
+            4,
+            4
+          ],
+          "before": "{",
+          "after": ""
+        },
+        {
+          "before_codepoint_range": [
+            6,
+            7
+          ],
+          "after_codepoint_range": [
+            5,
+            5
+          ],
+          "before": "|",
+          "after": ""
+        },
+        {
+          "before_codepoint_range": [
+            8,
+            10
+          ],
+          "after_codepoint_range": [
+            6,
+            6
+          ],
+          "before": "}賦",
+          "after": ""
+        }
+      ],
+      "image_findings": [
+        {
+          "reason": "第五字右有戎短交畫，下一字賦右可見武，兩字結構可分。",
+          "status": "accept",
+          "image_bbox": [
+            41,
+            647,
+            152,
+            923
+          ],
+          "offset": [
+            4,
+            9
+          ]
+        }
+      ]
+    },
+    {
+      "unit": "f026-R-01",
+      "frame": 26,
+      "side": "R",
+      "before": "夫傷寒始自太陽{遞|遂}傳陽明至於厥陰而",
+      "after": "夫傷寒始自太陽送傳陽明至於厥陰而",
+      "image_sha256": "824fef3b9f5d55c793f2955ed338f0897e4d82cbea43b2cf6e5f0a9978ecf4f7",
+      "spans": [
+        {
+          "before_codepoint_range": [
+            7,
+            12
+          ],
+          "after_codepoint_range": [
+            7,
+            8
+          ],
+          "before": "{遞|遂}",
+          "after": "送"
+        }
+      ],
+      "image_findings": [
+        {
+          "reason": "陽下有辶，內上雙點、下伸斜筆近关，採送。",
+          "status": "accept",
+          "image_bbox": [
+            1349,
+            589,
+            1504,
+            918
+          ],
+          "offset": [
+            7,
+            12
+          ]
+        }
+      ]
+    },
+    {
+      "unit": "f026-R-03",
+      "frame": 26,
+      "side": "R",
+      "before": "汗則不愈必用麻黃者以麻黃生於中{年|牟}",
+      "after": "汗則不愈必用麻黃者以麻黃生於中年",
+      "image_sha256": "824fef3b9f5d55c793f2955ed338f0897e4d82cbea43b2cf6e5f0a9978ecf4f7",
+      "spans": [
+        {
+          "before_codepoint_range": [
+            15,
+            16
+          ],
+          "after_codepoint_range": [
+            15,
+            15
+          ],
+          "before": "{",
+          "after": ""
+        },
+        {
+          "before_codepoint_range": [
+            17,
+            20
+          ],
+          "after_codepoint_range": [
+            16,
+            16
+          ],
+          "before": "|牟}",
+          "after": ""
+        }
+      ],
+      "image_findings": [
+        {
+          "reason": "中下字頭左短撇配平橫，下有長直穿橫，支持年；中年一詞涵義未裁。",
+          "status": "accept",
+          "image_bbox": [
+            1157,
+            1491,
+            1279,
+            1753
+          ],
+          "offset": [
+            15,
+            20
+          ]
+        }
+      ]
+    },
+    {
+      "unit": "f026-R-04",
+      "frame": 26,
+      "side": "R",
+      "before": "雪深五尺有麻黃處雪則不{驟|聚}蓋此藥能",
+      "after": "雪深五尺有麻黃處雪則不驟蓋此藥能",
+      "image_sha256": "824fef3b9f5d55c793f2955ed338f0897e4d82cbea43b2cf6e5f0a9978ecf4f7",
+      "spans": [
+        {
+          "before_codepoint_range": [
+            11,
+            12
+          ],
+          "after_codepoint_range": [
+            11,
+            11
+          ],
+          "before": "{",
+          "after": ""
+        },
+        {
+          "before_codepoint_range": [
+            13,
+            16
+          ],
+          "after_codepoint_range": [
+            12,
+            12
+          ],
+          "before": "|聚}",
+          "after": ""
+        }
+      ],
+      "image_findings": [
+        {
+          "reason": "不下重疊形左部有馬旁短底點，另有右部聚筆畫，採驟。",
+          "status": "accept",
+          "image_bbox": [
+            1038,
+            1042,
+            1162,
+            1384
+          ],
+          "offset": [
+            11,
+            16
+          ]
+        }
+      ]
+    },
+    {
+      "unit": "f026-R-05",
+      "frame": 26,
+      "side": "R",
+      "before": "通內陽郁外寒也陽明屬胃非通泄則不",
+      "after": "通內陽却外寒也陽明屬胃非通泄則不",
+      "image_sha256": "824fef3b9f5d55c793f2955ed338f0897e4d82cbea43b2cf6e5f0a9978ecf4f7",
+      "spans": [
+        {
+          "before_codepoint_range": [
+            3,
+            4
+          ],
+          "after_codepoint_range": [
+            3,
+            4
+          ],
+          "before": "郁",
+          "after": "却"
+        }
+      ],
+      "image_findings": [
+        {
+          "reason": "陽後前件為去，高橫、豎和末厶可辨，右部阝式收筆，按却。",
+          "status": "accept",
+          "image_bbox": [
+            967,
+            407,
+            1058,
+            556
+          ],
+          "offset": [
+            3,
+            4
+          ]
+        }
+      ]
+    },
+    {
+      "unit": "f027-R-05",
+      "frame": 27,
+      "side": "R",
+      "before": "少陰口燥咽乾下利清水太陰腸滿{啼|時}痛",
+      "after": "少陰口燥咽乾下利清水太陰腸滿{啼|時|轉}痛",
+      "image_sha256": "f053d747518112b265c30858961082d650c2b2c4abd416c6321c9666aed83fb1",
+      "spans": [
+        {
+          "before_codepoint_range": [
+            18,
+            18
+          ],
+          "after_codepoint_range": [
+            18,
+            20
+          ],
+          "before": "",
+          "after": "|轉"
+        }
+      ],
+      "image_findings": [
+        {
+          "reason": "滿下墨蝕，旁部可見橫豎交疊，三候均待核。",
+          "status": "mark_uncertain",
+          "image_bbox": [
+            947,
+            1421,
+            1073,
+            1742
+          ],
+          "offset": [
+            14,
+            19
+          ]
+        }
+      ]
+    },
+    {
+      "unit": "f028-R-04",
+      "frame": 28,
+      "side": "R",
+      "before": "嘔{通|逆}口乾苦此脈循脇絡耳眞強{勝|騰}之脈",
+      "after": "嘔通口乾苦此脈循脇絡耳眞強勝之脈",
+      "image_sha256": "023ad3f9e5c40ebc2cb022d89d796ba6d763583ad695157e38c64f183381a914",
+      "spans": [
+        {
+          "before_codepoint_range": [
+            1,
+            2
+          ],
+          "after_codepoint_range": [
+            1,
+            1
+          ],
+          "before": "{",
+          "after": ""
+        },
+        {
+          "before_codepoint_range": [
+            3,
+            6
+          ],
+          "after_codepoint_range": [
+            2,
+            2
+          ],
+          "before": "|逆}",
+          "after": ""
+        },
+        {
+          "before_codepoint_range": [
+            17,
+            18
+          ],
+          "after_codepoint_range": [
+            13,
+            13
+          ],
+          "before": "{",
+          "after": ""
+        },
+        {
+          "before_codepoint_range": [
+            19,
+            22
+          ],
+          "after_codepoint_range": [
+            14,
+            14
+          ],
+          "before": "|騰}",
+          "after": ""
+        }
+      ],
+      "image_findings": [
+        {
+          "reason": "嘔下辶內部有甬式框內兩筆，支持通。",
+          "status": "accept",
+          "image_bbox": [
+            1082,
+            111,
+            1193,
+            367
+          ],
+          "offset": [
+            1,
+            6
+          ]
+        },
+        {
+          "reason": "強下從月，右下力末筆可辨，未見馬字底點。",
+          "status": "accept",
+          "image_bbox": [
+            1081,
+            1194,
+            1198,
+            1507
+          ],
+          "offset": [
+            13,
+            18
+          ]
+        }
+      ]
+    },
+    {
+      "unit": "f028-R-06",
+      "frame": 28,
+      "side": "R",
+      "before": "此是少陽膽經尋",
+      "after": "此是少陽胆經尋",
+      "image_sha256": "023ad3f9e5c40ebc2cb022d89d796ba6d763583ad695157e38c64f183381a914",
+      "spans": [
+        {
+          "before_codepoint_range": [
+            4,
+            5
+          ],
+          "after_codepoint_range": [
+            4,
+            5
+          ],
+          "before": "膽",
+          "after": "胆"
+        }
+      ],
+      "image_findings": [
+        {
+          "reason": "少陽下左月，右側日式有方框及底橫，依原形錄胆。",
+          "status": "accept",
+          "image_bbox": [
+            870,
+            462,
+            995,
+            621
+          ],
+          "offset": [
+            4,
+            5
+          ]
+        }
+      ]
+    },
+    {
+      "unit": "f029-R-02",
+      "frame": 29,
+      "side": "R",
+      "before": "唇青四體疼脈尋陰氣絡到肝脈若不{濟|滯}",
+      "after": "唇青四體疼脈尋陰氣絡到肝脈若不{濟|滯|浮}",
+      "image_sha256": "e0ac175ba34b74973e1b10f8fa777db1d664c64a60bd4064a11a764bea8677d6",
+      "spans": [
+        {
+          "before_codepoint_range": [
+            19,
+            19
+          ],
+          "after_codepoint_range": [
+            19,
+            21
+          ],
+          "before": "",
+          "after": "|浮"
+        }
+      ],
+      "image_findings": [
+        {
+          "reason": "不下末字有清楚氵，右長筆因摺損拖墨，仍保留三候。",
+          "status": "mark_uncertain",
+          "image_bbox": [
+            1249,
+            1481,
+            1379,
+            1765
+          ],
+          "offset": [
+            15,
+            20
+          ]
+        }
+      ]
+    },
+    {
+      "unit": "f029-R-07",
+      "frame": 29,
+      "side": "R",
+      "before": "者洩大黃者下之白者表之黑者温之如",
+      "after": "者洩火黃者下之白者表之黑者温之如",
+      "image_sha256": "e0ac175ba34b74973e1b10f8fa777db1d664c64a60bd4064a11a764bea8677d6",
+      "spans": [
+        {
+          "before_codepoint_range": [
+            2,
+            3
+          ],
+          "after_codepoint_range": [
+            2,
+            3
+          ],
+          "before": "大",
+          "after": "火"
+        }
+      ],
+      "image_findings": [
+        {
+          "reason": "洩下主筆旁可見分離短點，支持火，語句保留原來欄界。",
+          "status": "accept",
+          "image_bbox": [
+            778,
+            233,
+            898,
+            533
+          ],
+          "offset": [
+            1,
+            4
+          ]
+        }
+      ]
+    },
+    {
+      "unit": "f032-L-06",
+      "frame": 32,
+      "side": "L",
+      "before": "寅申己亥日一四七有汗子午卯酉日二",
+      "after": "寅申{己|巳}亥日一四七有汗子午卯酉日二",
+      "image_sha256": "f5c5817e7e2c4b1d80cb1ab4ebe23a6af89563c1fad3086e1443379c96291261",
+      "spans": [
+        {
+          "before_codepoint_range": [
+            2,
+            2
+          ],
+          "after_codepoint_range": [
+            2,
+            3
+          ],
+          "before": "",
+          "after": "{"
+        },
+        {
+          "before_codepoint_range": [
+            3,
+            3
+          ],
+          "after_codepoint_range": [
+            4,
+            7
+          ],
+          "before": "",
+          "after": "|巳}"
+        }
+      ],
+      "image_findings": [
+        {
+          "reason": "申下字的橫折向左有近閉口差異，將巳留候，干支常識不足以代替本形。",
+          "status": "mark_uncertain",
+          "image_bbox": [
+            172,
+            263,
+            258,
+            433
+          ],
+          "offset": [
+            2,
+            4
+          ]
+        }
+      ]
+    },
+    {
+      "unit": "f033-R-07",
+      "frame": 33,
+      "side": "R",
+      "before": "前病不除三朝四日莫{躊|躕}{躇|躅}或用參蘇或",
+      "after": "前病不除三朝四日莫{躊|躕}{躇|躅|躕}或用參蘇或",
+      "image_sha256": "ec8ab00838452e8c6e9e92253e74be783defab6c3005d7657ce85d78a8688bec",
+      "spans": [
+        {
+          "before_codepoint_range": [
+            18,
+            18
+          ],
+          "after_codepoint_range": [
+            18,
+            20
+          ],
+          "before": "",
+          "after": "|躕"
+        }
+      ],
+      "image_findings": [
+        {
+          "reason": "兩字均足旁，前字多橫下寸而後字右部上方點畫與下斜曲可見，仍留候。",
+          "status": "mark_uncertain",
+          "image_bbox": [
+            781,
+            869,
+            904,
+            1244
+          ],
+          "offset": [
+            9,
+            19
+          ]
+        }
+      ]
+    },
+    {
+      "unit": "f033-L-01",
+      "frame": 33,
+      "side": "L",
+      "before": "敗毒加些良有病當舒○病傳入裏腹滿",
+      "after": "敗毒加些良{有|劑}病當舒○病傳入裏腹{滿|膈}",
+      "image_sha256": "ec8ab00838452e8c6e9e92253e74be783defab6c3005d7657ce85d78a8688bec",
+      "spans": [
+        {
+          "before_codepoint_range": [
+            5,
+            5
+          ],
+          "after_codepoint_range": [
+            5,
+            6
+          ],
+          "before": "",
+          "after": "{"
+        },
+        {
+          "before_codepoint_range": [
+            6,
+            6
+          ],
+          "after_codepoint_range": [
+            7,
+            10
+          ],
+          "before": "",
+          "after": "|劑}"
+        },
+        {
+          "before_codepoint_range": [
+            15,
+            15
+          ],
+          "after_codepoint_range": [
+            19,
+            20
+          ],
+          "before": "",
+          "after": "{"
+        },
+        {
+          "before_codepoint_range": [
+            16,
+            16
+          ],
+          "after_codepoint_range": [
+            21,
+            24
+          ],
+          "before": "",
+          "after": "|膈}"
+        }
+      ],
+      "image_findings": [
+        {
+          "reason": "良下左部近有且右側有窄直豎如刀，暫留初稿有與原讀劑。",
+          "status": "mark_uncertain",
+          "image_bbox": [
+            673,
+            471,
+            775,
+            730
+          ],
+          "offset": [
+            4,
+            6
+          ]
+        },
+        {
+          "reason": "腹下墨拖覆住左部，下方有框形折豎，兩候未能排除。",
+          "status": "mark_uncertain",
+          "image_bbox": [
+            684,
+            1475,
+            779,
+            1760
+          ],
+          "offset": [
+            18,
+            20
+          ]
+        }
+      ]
+    },
+    {
+      "unit": "f033-L-06",
+      "frame": 33,
+      "side": "L",
+      "before": "人憂病後餘熱脈未静白虎竹葉石膏搜",
+      "after": "人憂病後餘熱脈未静白虎竹葉石{膏|羔}投",
+      "image_sha256": "ec8ab00838452e8c6e9e92253e74be783defab6c3005d7657ce85d78a8688bec",
+      "spans": [
+        {
+          "before_codepoint_range": [
+            14,
+            14
+          ],
+          "after_codepoint_range": [
+            14,
+            15
+          ],
+          "before": "",
+          "after": "{"
+        },
+        {
+          "before_codepoint_range": [
+            15,
+            16
+          ],
+          "after_codepoint_range": [
+            16,
+            20
+          ],
+          "before": "搜",
+          "after": "|羔}投"
+        }
+      ],
+      "image_findings": [
+        {
+          "reason": "石下見羊型上部及底點，留膏／羔。末字扌旁右有殳式構形，讀投。",
+          "status": "mark_uncertain",
+          "image_bbox": [
+            174,
+            1478,
+            279,
+            1743
+          ],
+          "offset": [
+            13,
+            16
+          ]
+        }
+      ]
+    },
+    {
+      "unit": "f034-R-01",
+      "frame": 34,
+      "side": "R",
+      "before": "厥四逆並眞武三建加之自{忖|恃}裁○胸膈",
+      "after": "厥四逆並眞武三建加之自忖裁○胸膈",
+      "image_sha256": "c36cfa03407cd578733f1471b8219712e52149b5a1922fb7846089fffb30698f",
+      "spans": [
+        {
+          "before_codepoint_range": [
+            11,
+            12
+          ],
+          "after_codepoint_range": [
+            11,
+            11
+          ],
+          "before": "{",
+          "after": ""
+        },
+        {
+          "before_codepoint_range": [
+            13,
+            16
+          ],
+          "after_codepoint_range": [
+            12,
+            12
+          ],
+          "before": "|恃}",
+          "after": ""
+        }
+      ],
+      "image_findings": [
+        {
+          "reason": "自下左豎心及右寸直鉤、側點可見。",
+          "status": "accept",
+          "image_bbox": [
+            1394,
+            670,
+            1509,
+            1497
+          ],
+          "offset": [
+            11,
+            16
+          ]
+        }
+      ]
+    },
+    {
+      "unit": "f034-R-04",
+      "frame": 34,
+      "side": "R",
+      "before": "何梔子大黃黑奴散咽喉腫疼可須治甘",
+      "after": "何梔子大黃黑奴{散|移|影}咽喉腫疼可須治甘",
+      "image_sha256": "c36cfa03407cd578733f1471b8219712e52149b5a1922fb7846089fffb30698f",
+      "spans": [
+        {
+          "before_codepoint_range": [
+            7,
+            7
+          ],
+          "after_codepoint_range": [
+            7,
+            8
+          ],
+          "before": "",
+          "after": "{"
+        },
+        {
+          "before_codepoint_range": [
+            8,
+            8
+          ],
+          "after_codepoint_range": [
+            9,
+            14
+          ],
+          "before": "",
+          "after": "|移|影}"
+        }
+      ],
+      "image_findings": [
+        {
+          "reason": "奴下右部斜筆密疊，左部兩層框與候形仍有出入，三讀並存。",
+          "status": "mark_uncertain",
+          "image_bbox": [
+            1090,
+            748,
+            1206,
+            942
+          ],
+          "offset": [
+            7,
+            8
+          ]
+        }
+      ]
+    },
+    {
+      "unit": "f034-R-07",
+      "frame": 34,
+      "side": "R",
+      "before": "旋覆{革|花}○小便不通五苓宜猪苓八正皆",
+      "after": "旋覆{革|花|華}○小便不通五苓宜猪苓八正皆",
+      "image_sha256": "c36cfa03407cd578733f1471b8219712e52149b5a1922fb7846089fffb30698f",
+      "spans": [
+        {
+          "before_codepoint_range": [
+            6,
+            6
+          ],
+          "after_codepoint_range": [
+            6,
+            8
+          ],
+          "before": "",
+          "after": "|華"
+        }
+      ],
+      "image_findings": [
+        {
+          "reason": "覆下筆畫有頂橫、雙並直筆和中縱筆延伸，華有形似處，仍留三候。",
+          "status": "mark_uncertain",
+          "image_bbox": [
+            795,
+            92,
+            902,
+            512
+          ],
+          "offset": [
+            2,
+            7
+          ]
+        }
+      ]
+    },
+    {
+      "unit": "f034-L-01",
+      "frame": 34,
+      "side": "L",
+      "before": "曰奇大便不通蜜導法硝黃服後餘其臍",
+      "after": "曰奇大便不通{蜜|塞}導法硝黃服後熨其臍",
+      "image_sha256": "c36cfa03407cd578733f1471b8219712e52149b5a1922fb7846089fffb30698f",
+      "spans": [
+        {
+          "before_codepoint_range": [
+            6,
+            6
+          ],
+          "after_codepoint_range": [
+            6,
+            7
+          ],
+          "before": "",
+          "after": "{"
+        },
+        {
+          "before_codepoint_range": [
+            7,
+            7
+          ],
+          "after_codepoint_range": [
+            8,
+            11
+          ],
+          "before": "",
+          "after": "|塞}"
+        },
+        {
+          "before_codepoint_range": [
+            13,
+            14
+          ],
+          "after_codepoint_range": [
+            17,
+            18
+          ],
+          "before": "餘",
+          "after": "熨"
+        }
+      ],
+      "image_findings": [
+        {
+          "reason": "通下可見覆形宀及交疊內部，末筆下拖，難從底結構辨形。",
+          "status": "mark_uncertain",
+          "image_bbox": [
+            665,
+            685,
+            764,
+            905
+          ],
+          "offset": [
+            6,
+            7
+          ]
+        },
+        {
+          "reason": "後下有尉式上部，末底左右撇捺似火，支持熨。",
+          "status": "accept",
+          "image_bbox": [
+            683,
+            1389,
+            793,
+            1712
+          ],
+          "offset": [
+            17,
+            18
+          ]
+        }
+      ]
+    },
+    {
+      "unit": "f034-L-04",
+      "frame": 34,
+      "side": "L",
+      "before": "梔子柏皮同退痘茵陳極有功治蠱桃仁",
+      "after": "梔子柏皮同退疸茵陳極有功治{蠱|暑}桃仁",
+      "image_sha256": "c36cfa03407cd578733f1471b8219712e52149b5a1922fb7846089fffb30698f",
+      "spans": [
+        {
+          "before_codepoint_range": [
+            6,
+            7
+          ],
+          "after_codepoint_range": [
+            6,
+            7
+          ],
+          "before": "痘",
+          "after": "疸"
+        },
+        {
+          "before_codepoint_range": [
+            13,
+            13
+          ],
+          "after_codepoint_range": [
+            13,
+            14
+          ],
+          "before": "",
+          "after": "{"
+        },
+        {
+          "before_codepoint_range": [
+            14,
+            14
+          ],
+          "after_codepoint_range": [
+            15,
+            18
+          ],
+          "before": "",
+          "after": "|暑}"
+        }
+      ],
+      "image_findings": [
+        {
+          "reason": "退下疒內可見框、內短橫與底橫，採疸。",
+          "status": "accept",
+          "image_bbox": [
+            353,
+            634,
+            471,
+            1039
+          ],
+          "offset": [
+            6,
+            7
+          ]
+        },
+        {
+          "reason": "治桃間字形下部見小框，上部重墨。保留初稿另加原讀，待更高解析重核。",
+          "status": "mark_uncertain",
+          "image_bbox": [
+            365,
+            1379,
+            461,
+            1588
+          ],
+          "offset": [
+            12,
+            14
+          ]
+        }
+      ]
+    },
+    {
+      "unit": "f034-L-05",
+      "frame": 34,
+      "side": "L",
+      "before": "犀角類大黃甘遂解結胸○昏沉多睡萎",
+      "after": "犀角類大黃甘遂解結胸○昏沉多睡{萎|姜}",
+      "image_sha256": "c36cfa03407cd578733f1471b8219712e52149b5a1922fb7846089fffb30698f",
+      "spans": [
+        {
+          "before_codepoint_range": [
+            15,
+            15
+          ],
+          "after_codepoint_range": [
+            15,
+            16
+          ],
+          "before": "",
+          "after": "{"
+        },
+        {
+          "before_codepoint_range": [
+            16,
+            16
+          ],
+          "after_codepoint_range": [
+            17,
+            20
+          ],
+          "before": "",
+          "after": "|姜}"
+        }
+      ],
+      "image_findings": [
+        {
+          "reason": "睡下有上橫筆與女式斜筆，摺痕拖線妨礙分辨。",
+          "status": "mark_uncertain",
+          "image_bbox": [
+            253,
+            1590,
+            358,
+            1740
+          ],
+          "offset": [
+            15,
+            16
+          ]
+        }
+      ]
+    },
+    {
+      "unit": "f034-L-06",
+      "frame": 34,
+      "side": "L",
+      "before": "蕤湯煩燥不眠酸棗方少陰自利白通美",
+      "after": "附湯煩燥不眠酸棗方少陰自利白通美",
+      "image_sha256": "c36cfa03407cd578733f1471b8219712e52149b5a1922fb7846089fffb30698f",
+      "spans": [
+        {
+          "before_codepoint_range": [
+            0,
+            1
+          ],
+          "after_codepoint_range": [
+            0,
+            1
+          ],
+          "before": "蕤",
+          "after": "附"
+        }
+      ],
+      "image_findings": [
+        {
+          "reason": "欄首左部可見耳旁的雙折，右部類亻寸，支持附而非艹。",
+          "status": "accept",
+          "image_bbox": [
+            153,
+            93,
+            251,
+            246
+          ],
+          "offset": [
+            0,
+            1
+          ]
+        }
+      ]
+    },
+    {
+      "unit": "f035-R-02",
+      "frame": 35,
+      "side": "R",
+      "before": "陰白虎奪○食復勞復怎生醫枳實支子",
+      "after": "陰白虎奪○食復勞復怎生醫枳寔支子",
+      "image_sha256": "c72d23e621de898525414048f5e047583ce3b7a57bcf21ec199dd2f5c295b056",
+      "spans": [
+        {
+          "before_codepoint_range": [
+            13,
+            14
+          ],
+          "after_codepoint_range": [
+            13,
+            14
+          ],
+          "before": "實",
+          "after": "寔"
+        }
+      ],
+      "image_findings": [
+        {
+          "reason": "支上字宀下有是形和直條拖墨，記寔。",
+          "status": "accept",
+          "image_bbox": [
+            1287,
+            1273,
+            1413,
+            1736
+          ],
+          "offset": [
+            12,
+            14
+          ]
+        }
+      ]
+    },
+    {
+      "unit": "f035-R-05",
+      "frame": 35,
+      "side": "R",
+      "before": "腹痛急疼如何治桂枝加芍大黃中○吐",
+      "after": "腹痛急疼如何治桂枝加於大黃中○吐",
+      "image_sha256": "c72d23e621de898525414048f5e047583ce3b7a57bcf21ec199dd2f5c295b056",
+      "spans": [
+        {
+          "before_codepoint_range": [
+            10,
+            11
+          ],
+          "after_codepoint_range": [
+            10,
+            11
+          ],
+          "before": "芍",
+          "after": "於"
+        }
+      ],
+      "image_findings": [
+        {
+          "reason": "加下清楚見方形左部及右側二點，採於。",
+          "status": "accept",
+          "image_bbox": [
+            961,
+            1061,
+            1077,
+            1325
+          ],
+          "offset": [
+            9,
+            11
+          ]
+        }
+      ]
+    }
+  ],
+  "unresolved": [
+    {
+      "unit_id": "f003-R-03",
+      "frame": 3,
+      "before_fragment": "濇",
+      "after_fragment": "濇",
+      "basis": "見氵，右旁上有縱畫交疊、下有框及短豎。初稿代錄濇，獨立讀代錄瀇，原字精確碼位待核。",
+      "image_bbox": [
+        1150,
+        210,
+        1270,
+        456
+      ],
+      "image_sha256": "2608ce1f5ce3682936cc287b7f35e42ee262353c8679e6183e595917adde89e5"
+    },
+    {
+      "unit_id": "f003-R-06",
+      "frame": 3,
+      "before_fragment": "巳",
+      "after_fragment": "巳",
+      "basis": "同欄首夏下近巳、已，起筆閉口與直筆銜接不清，保留初稿。",
+      "image_bbox": [
+        741,
+        0,
+        1532,
+        1818
+      ],
+      "image_sha256": "2608ce1f5ce3682936cc287b7f35e42ee262353c8679e6183e595917adde89e5"
+    },
+    {
+      "unit_id": "f003-R-07",
+      "frame": 3,
+      "before_fragment": "濇",
+      "after_fragment": "濇",
+      "basis": "妻上三字同類氵旁框形，跨欄寫法比較仍不足定碼。",
+      "image_bbox": [
+        741,
+        0,
+        1532,
+        1818
+      ],
+      "image_sha256": "2608ce1f5ce3682936cc287b7f35e42ee262353c8679e6183e595917adde89e5"
+    },
+    {
+      "unit_id": "f003-L-04",
+      "frame": 3,
+      "before_fragment": "濇",
+      "after_fragment": "濇",
+      "basis": "欄首同類氵旁框形，精確碼位待核。",
+      "image_bbox": [
+        0,
+        0,
+        791,
+        1818
+      ],
+      "image_sha256": "2608ce1f5ce3682936cc287b7f35e42ee262353c8679e6183e595917adde89e5"
+    },
+    {
+      "unit_id": "f003-Lsmall-6a",
+      "frame": 3,
+      "before_fragment": "當令其脉",
+      "after_fragment": "當令其脉",
+      "basis": "右窄行可判，左窄行另存。兩行起點均位於左第六主欄不治以下。句義可能補冬條，插入點未裁。",
+      "image_bbox": [
+        120,
+        1125,
+        255,
+        1715
+      ],
+      "image_sha256": "2608ce1f5ce3682936cc287b7f35e42ee262353c8679e6183e595917adde89e5"
+    },
+    {
+      "unit_id": "f004-R-01",
+      "frame": 4,
+      "before_fragment": "濇",
+      "after_fragment": "濇",
+      "basis": "小腸後字同類氵旁框形，精確碼位待核。",
+      "image_bbox": [
+        748,
+        0,
+        1547,
+        1818
+      ],
+      "image_sha256": "fb46d6b6f9c0168009318da816e24e3f9c82f7f3810f040a42eb8240e9b712e9"
+    },
+    {
+      "unit_id": "f004-R-04",
+      "frame": 4,
+      "before_fragment": "攏",
+      "after_fragment": "{攏|擺}",
+      "basis": "風下字左有扌，右上和右下墨線相接，右旁可作不同讀法。對照 f005 同語未見足以分辨的筆畫。",
+      "image_bbox": [
+        1030,
+        1130,
+        1168,
+        1440
+      ],
+      "image_sha256": "fb46d6b6f9c0168009318da816e24e3f9c82f7f3810f040a42eb8240e9b712e9"
+    },
+    {
+      "unit_id": "f004-R-06",
+      "frame": 4,
+      "before_fragment": "濇",
+      "after_fragment": "濇",
+      "basis": "母也後字同類氵旁框形，精確碼位待核。",
+      "image_bbox": [
+        748,
+        0,
+        1547,
+        1818
+      ],
+      "image_sha256": "fb46d6b6f9c0168009318da816e24e3f9c82f7f3810f040a42eb8240e9b712e9"
+    },
+    {
+      "unit_id": "f004-L-06n",
+      "frame": 4,
+      "before_fragment": "肝",
+      "after_fragment": "肝",
+      "basis": "腎旁可讀肝，補改關係仍可有兩解，維持兩個文字位置。",
+      "image_bbox": [
+        40,
+        200,
+        755,
+        1670
+      ],
+      "image_sha256": "fb46d6b6f9c0168009318da816e24e3f9c82f7f3810f040a42eb8240e9b712e9"
+    },
+    {
+      "unit_id": "f005-R脾-02",
+      "frame": 5,
+      "before_fragment": "中央戊己",
+      "after_fragment": "中{央|丑}戌己",
+      "basis": "中下第一字的頂部閉合不清，暫列央／丑。次字戈旁清楚且內有見似短橫，加下己字，讀戌己；土行所列順序依圖。",
+      "image_bbox": [
+        1100,
+        387,
+        1196,
+        559
+      ],
+      "image_sha256": "54905ae21d9c166d05a5282bb77d987f17fd8fc5610dedb230cd1cfc61abf190"
+    },
+    {
+      "unit_id": "f005-R脾-02",
+      "frame": 5,
+      "before_fragment": "攏",
+      "after_fragment": "{攏|擺}",
+      "basis": "柳上字與 f004 互有線索，扌右部連筆待辨。",
+      "image_bbox": [
+        1100,
+        1190,
+        1192,
+        1420
+      ],
+      "image_sha256": "54905ae21d9c166d05a5282bb77d987f17fd8fc5610dedb230cd1cfc61abf190"
+    },
+    {
+      "unit_id": "f005-R肺-02",
+      "frame": 5,
+      "before_fragment": "濇",
+      "after_fragment": "濇",
+      "basis": "主欄「浮」下為氵旁框形，獨立原讀代錄不當定字。",
+      "image_bbox": [
+        967,
+        93,
+        1113,
+        1690
+      ],
+      "image_sha256": "54905ae21d9c166d05a5282bb77d987f17fd8fc5610dedb230cd1cfc61abf190"
+    },
+    {
+      "unit_id": "f005-R腎-02",
+      "frame": 5,
+      "before_fragment": "洩",
+      "after_fragment": "{洩|湧}",
+      "basis": "下後字左氵右部因污痕難定，右中框折支持另列湧。",
+      "image_bbox": [
+        888,
+        1443,
+        1000,
+        1722
+      ],
+      "image_sha256": "54905ae21d9c166d05a5282bb77d987f17fd8fc5610dedb230cd1cfc61abf190"
+    },
+    {
+      "unit_id": "f005-L三焦-02",
+      "frame": 5,
+      "before_fragment": "{三|土}",
+      "after_fragment": "{三|土}",
+      "basis": "可見末字中央豎筆及橫畫，近土。與左行起焦的連讀關係仍不足裁字。",
+      "image_bbox": [
+        400,
+        856,
+        548,
+        1109
+      ],
+      "image_sha256": "54905ae21d9c166d05a5282bb77d987f17fd8fc5610dedb230cd1cfc61abf190"
+    },
+    {
+      "unit_id": "f005-L九氣-02",
+      "frame": 5,
+      "before_fragment": "{元|无}",
+      "after_fragment": "{元|无}",
+      "basis": "兩橫和底部斜走的手寫筆畫同時可支持无與元，保留。",
+      "image_bbox": [
+        298,
+        991,
+        457,
+        1497
+      ],
+      "image_sha256": "54905ae21d9c166d05a5282bb77d987f17fd8fc5610dedb230cd1cfc61abf190"
+    },
+    {
+      "unit_id": "f005-L九氣-04",
+      "frame": 5,
+      "before_fragment": "{呆|吳|異}",
+      "after_fragment": "{呆|吳|異}",
+      "basis": "可見上框下橫與斜撇，獨立原讀暑的結構無法定讀，保留初稿候選。",
+      "image_bbox": [
+        298,
+        991,
+        457,
+        1497
+      ],
+      "image_sha256": "54905ae21d9c166d05a5282bb77d987f17fd8fc5610dedb230cd1cfc61abf190"
+    },
+    {
+      "unit_id": "f007-R-06m",
+      "frame": 7,
+      "before_fragment": "〻",
+      "after_fragment": "〻",
+      "basis": "冬下見短曲痕，圖像無法判為重文、筆勢或另符，沿初稿代理碼位。",
+      "image_bbox": [
+        786,
+        179,
+        1515,
+        1530
+      ],
+      "image_sha256": "4da2be8db8daf57c4b03b854192ee02f3949085b4a256889ee456716a8b55480"
+    },
+    {
+      "unit_id": "f008-R-05",
+      "frame": 8,
+      "before_fragment": "力之",
+      "after_fragment": "力之",
+      "basis": "力後字可見上點及長捺，底筆見之形，獨立原讀乏作別讀記錄，保留。",
+      "image_bbox": [
+        998,
+        1038,
+        1098,
+        1281
+      ],
+      "image_sha256": "12e312db6b32c53831e03407d45e05d3ed68711ee79fce5f3b4feec46b760987"
+    },
+    {
+      "unit_id": "f008-R-07",
+      "frame": 8,
+      "before_fragment": "黎",
+      "after_fragment": "黎",
+      "basis": "黑後形有分開的下部類氺筆畫，僅依現形暫存黎，精確寫形待核。",
+      "image_bbox": [
+        790,
+        112,
+        1515,
+        1730
+      ],
+      "image_sha256": "12e312db6b32c53831e03407d45e05d3ed68711ee79fce5f3b4feec46b760987"
+    },
+    {
+      "unit_id": "f008-L-03",
+      "frame": 8,
+      "before_fragment": "{□|三}",
+      "after_fragment": "{□|三}",
+      "basis": "二下別有重筆與一橫，並獨立於小日，保留另字位置。污損下是否三仍未定。",
+      "image_bbox": [
+        457,
+        306,
+        571,
+        615
+      ],
+      "image_sha256": "12e312db6b32c53831e03407d45e05d3ed68711ee79fce5f3b4feec46b760987"
+    },
+    {
+      "unit_id": "f008-L-06",
+      "frame": 8,
+      "before_fragment": "{薰|黧}",
+      "after_fragment": "{薰|黧}",
+      "basis": "黑下首疑字上見密橫、下框劃，原讀黶的厂形不足，保留候選。",
+      "image_bbox": [
+        123,
+        206,
+        254,
+        578
+      ],
+      "image_sha256": "12e312db6b32c53831e03407d45e05d3ed68711ee79fce5f3b4feec46b760987"
+    },
+    {
+      "unit_id": "f009-L-05",
+      "frame": 9,
+      "before_fragment": "子三因",
+      "after_fragment": "子三因",
+      "basis": "病月日後可見横鉤和出鉤直筆，候子，是否為別字待核。",
+      "image_bbox": [
+        0,
+        0,
+        804,
+        1818
+      ],
+      "image_sha256": "93ae3f09f2da15c106ef208a1c7d9e9a5f97bc1f90c8d98bdc42f55e2e1d0e5f"
+    },
+    {
+      "unit_id": "f010-R-06n",
+      "frame": 10,
+      "before_fragment": "{可|□}",
+      "after_fragment": "{可|□}",
+      "basis": "兼左狹窄處見墨形，落在紙邊色差旁，未能辨字或確定書寫功能。",
+      "image_bbox": [
+        739,
+        0,
+        1529,
+        1818
+      ],
+      "image_sha256": "de9713c270d115620c8408e1a98e607c36d553d21389e8ae04adcc08bdc5b467"
+    },
+    {
+      "unit_id": "f013-R-04",
+      "frame": 13,
+      "before_fragment": "殼",
+      "after_fragment": "殼",
+      "basis": "只下見上橫、覆蓋及下儿，與既錄繁體殼的精確形不一致，壳為候選。",
+      "image_bbox": [
+        738,
+        0,
+        1526,
+        1818
+      ],
+      "image_sha256": "bee5867b912cd5f0cb86d256ddf4119a56b73ec7afac170f27b3770c261caf14"
+    },
+    {
+      "unit_id": "f013-L-06",
+      "frame": 13,
+      "before_fragment": "天秋",
+      "after_fragment": "天秋",
+      "basis": "可兼後的天右有微點，與秋、金接續讀法待核，保留原欄。",
+      "image_bbox": [
+        0,
+        0,
+        788,
+        1818
+      ],
+      "image_sha256": "bee5867b912cd5f0cb86d256ddf4119a56b73ec7afac170f27b3770c261caf14"
+    },
+    {
+      "unit_id": "f014-R-04",
+      "frame": 14,
+      "before_fragment": "{噯|噎}",
+      "after_fragment": "{噯|噎|噫}",
+      "basis": "先後兩口旁字的右旁筆勢不同；第一字似壴族或意的改筆，保留另選。",
+      "image_bbox": [
+        1091,
+        679,
+        1214,
+        913
+      ],
+      "image_sha256": "2aee99aed67bbf5dbd4b4b11b5ef0d41e75fbcbb26dafb050ac8586b0c9252fc"
+    },
+    {
+      "unit_id": "f014-R-07",
+      "frame": 14,
+      "before_fragment": "蒔伴",
+      "after_fragment": "{芍|蒔}伴",
+      "basis": "黃下疑字艸下近勺，細筆位置需再核。次字人旁右部有伴形，保留。",
+      "image_bbox": [
+        786,
+        1210,
+        893,
+        1514
+      ],
+      "image_sha256": "2aee99aed67bbf5dbd4b4b11b5ef0d41e75fbcbb26dafb050ac8586b0c9252fc"
+    },
+    {
+      "unit_id": "f015-L-07",
+      "frame": 15,
+      "before_fragment": "{兮|云}",
+      "after_fragment": "{兮|云}",
+      "basis": "末字斷筆與上半兩短點分離，兮似近，仍不足排除其他寫形。",
+      "image_bbox": [
+        58,
+        1512,
+        167,
+        1651
+      ],
+      "image_sha256": "6a4f7ba8e0a2ff5e83af1e476e07067367b8cb3d48183d83dab2a026396f3d14"
+    },
+    {
+      "unit_id": "f017-R寸-06",
+      "frame": 17,
+      "before_fragment": "濇",
+      "after_fragment": "濇",
+      "basis": "小字末水旁下框可辨，上部連筆；精確碼位待核。",
+      "image_bbox": [
+        1205,
+        98,
+        1410,
+        545
+      ],
+      "image_sha256": "c98f90ba46183dabb8889567732ffadc1aac69942ea06cb30fe9fe9f72de3dc7"
+    },
+    {
+      "unit_id": "f019-R-06",
+      "frame": 19,
+      "before_fragment": "{臌|懶|餒}",
+      "after_fragment": "{臌|懶|餒}",
+      "basis": "飲食後看似月旁，右部有交寫筆畫，初稿及原讀各候選未能定字。",
+      "image_bbox": [
+        850,
+        1321,
+        977,
+        1640
+      ],
+      "image_sha256": "b000fe0a44230f95ae51454106e14897ab0c8642c6c04da7809f56b40e4c48b6"
+    },
+    {
+      "unit_id": "f019-L-01",
+      "frame": 19,
+      "before_fragment": "殃",
+      "after_fragment": "{疦|疚}",
+      "basis": "小腸後左側疒可見，右似夬、久，排除殃的歹旁，暫列兩候。",
+      "image_bbox": [
+        643,
+        602,
+        762,
+        977
+      ],
+      "image_sha256": "b000fe0a44230f95ae51454106e14897ab0c8642c6c04da7809f56b40e4c48b6"
+    },
+    {
+      "unit_id": "f019-L-04",
+      "frame": 19,
+      "before_fragment": "{臌|鼓}",
+      "after_fragment": "{臌|鼓}",
+      "basis": "胸下字可見月旁及密集右部，右末形未判，保留兩原候。",
+      "image_bbox": [
+        344,
+        934,
+        474,
+        1232
+      ],
+      "image_sha256": "b000fe0a44230f95ae51454106e14897ab0c8642c6c04da7809f56b40e4c48b6"
+    },
+    {
+      "unit_id": "f020-L-05",
+      "frame": 20,
+      "before_fragment": "擁",
+      "after_fragment": "{擁|穢|□}",
+      "basis": "腸下似木或禾旁，右部連寫而雍與歲形待辨。",
+      "image_bbox": [
+        232,
+        471,
+        338,
+        1201
+      ],
+      "image_sha256": "15041b0671de553081c0127f9fdee117d27f9e3fb151e9adf64a5ef2493fbe7f"
+    },
+    {
+      "unit_id": "f021-R濇-01",
+      "frame": 21,
+      "before_fragment": "濇",
+      "after_fragment": "濇",
+      "basis": "水旁配上岔筆及下框，精確碼位未定；維持該組標頭的既有字。",
+      "image_bbox": [
+        843,
+        579,
+        967,
+        702
+      ],
+      "image_sha256": "fb4566d4cb2e9c347522e2a96362b7570825f3f494022106557f19fe61352f22"
+    },
+    {
+      "unit_id": "f021-L-03",
+      "frame": 21,
+      "before_fragment": "頗",
+      "after_fragment": "頗",
+      "basis": "命下頁旁清楚，左部細筆有皮式捺筆候，獨立原讀殆不足定讀。",
+      "image_bbox": [
+        443,
+        1301,
+        559,
+        1650
+      ],
+      "image_sha256": "fb4566d4cb2e9c347522e2a96362b7570825f3f494022106557f19fe61352f22"
+    },
+    {
+      "unit_id": "f022-R-05",
+      "frame": 22,
+      "before_fragment": "澁",
+      "after_fragment": "澁",
+      "basis": "此字同類氵開頭下框手寫形，保留初稿代錄澁和可比圖 f021。",
+      "image_bbox": [
+        736,
+        0,
+        1523,
+        1818
+      ],
+      "image_sha256": "24f9193623cc170cfb1f358caa0d208ee3cc08b572930be6b309717a49519d70"
+    },
+    {
+      "unit_id": "f022-L-03",
+      "frame": 22,
+      "before_fragment": "{恃|持}",
+      "after_fragment": "{恃|持|將}",
+      "basis": "列末字右侧有寸近形而左墨不齊，初稿兩候與原讀將並存。",
+      "image_bbox": [
+        418,
+        1367,
+        526,
+        1639
+      ],
+      "image_sha256": "24f9193623cc170cfb1f358caa0d208ee3cc08b572930be6b309717a49519d70"
+    },
+    {
+      "unit_id": "f023-R-05",
+      "frame": 23,
+      "before_fragment": "帰",
+      "after_fragment": "{帰|帏}",
+      "basis": "邊下左部有框狀下分筆，右部帶跨過底橫的較長直筆；初稿帰及原讀帏均有近形，底線交會不足定字。",
+      "image_bbox": [
+        965,
+        1176,
+        1074,
+        1368
+      ],
+      "image_sha256": "1983b7e0597e6547defc409e689de0e5216d5375e018c9fcc418db08935509a1"
+    },
+    {
+      "unit_id": "f027-R-05",
+      "frame": 27,
+      "before_fragment": "{啼|時}",
+      "after_fragment": "{啼|時|轉}",
+      "basis": "滿下墨蝕，旁部可見橫豎交疊，三候均待核。",
+      "image_bbox": [
+        947,
+        1421,
+        1073,
+        1742
+      ],
+      "image_sha256": "f053d747518112b265c30858961082d650c2b2c4abd416c6321c9666aed83fb1"
+    },
+    {
+      "unit_id": "f028-L-04",
+      "frame": 28,
+      "before_fragment": "讝",
+      "after_fragment": "讝",
+      "basis": "乾下言旁右部見密橫與長斜，初稿讝與原讀讖保留疑義。",
+      "image_bbox": [
+        342,
+        1440,
+        475,
+        1620
+      ],
+      "image_sha256": "023ad3f9e5c40ebc2cb022d89d796ba6d763583ad695157e38c64f183381a914"
+    },
+    {
+      "unit_id": "f029-R-02",
+      "frame": 29,
+      "before_fragment": "{濟|滯}",
+      "after_fragment": "{濟|滯|浮}",
+      "basis": "不下末字有清楚氵，右長筆因摺損拖墨，仍保留三候。",
+      "image_bbox": [
+        1249,
+        1481,
+        1379,
+        1765
+      ],
+      "image_sha256": "e0ac175ba34b74973e1b10f8fa777db1d664c64a60bd4064a11a764bea8677d6"
+    },
+    {
+      "unit_id": "f031-R-04",
+      "frame": 31,
+      "before_fragment": "讝",
+      "after_fragment": "讝",
+      "basis": "言旁右部與 f028-L-04 相近，長斜收筆及上下密橫不足確立碼位。",
+      "image_bbox": [
+        1094,
+        1371,
+        1199,
+        1535
+      ],
+      "image_sha256": "4716b6ecc6ea6d0317e19e93d97dd29b5ed57521a55fe0acbceaf2271d311003"
+    },
+    {
+      "unit_id": "f031-R-07",
+      "frame": 31,
+      "before_fragment": "濇",
+      "after_fragment": "濇",
+      "basis": "長浮後字水旁下框，精確碼位待核。",
+      "image_bbox": [
+        755,
+        0,
+        1560,
+        1818
+      ],
+      "image_sha256": "4716b6ecc6ea6d0317e19e93d97dd29b5ed57521a55fe0acbceaf2271d311003"
+    },
+    {
+      "unit_id": "f031-L-03",
+      "frame": 31,
+      "before_fragment": "濇",
+      "after_fragment": "濇",
+      "basis": "沉細後字水旁下框，精確碼位待核。",
+      "image_bbox": [
+        0,
+        0,
+        805,
+        1818
+      ],
+      "image_sha256": "4716b6ecc6ea6d0317e19e93d97dd29b5ed57521a55fe0acbceaf2271d311003"
+    },
+    {
+      "unit_id": "f032-L-06",
+      "frame": 32,
+      "before_fragment": "己亥",
+      "after_fragment": "{己|巳}亥",
+      "basis": "申下字的橫折向左有近閉口差異，將巳留候，干支常識不足以代替本形。",
+      "image_bbox": [
+        172,
+        263,
+        258,
+        433
+      ],
+      "image_sha256": "f5c5817e7e2c4b1d80cb1ab4ebe23a6af89563c1fad3086e1443379c96291261"
+    },
+    {
+      "unit_id": "f033-R-07",
+      "frame": 33,
+      "before_fragment": "{躊|躕}{躇|躅}",
+      "after_fragment": "{躊|躕}{躇|躅|躕}",
+      "basis": "兩字均足旁，前字多橫下寸而後字右部上方點畫與下斜曲可見，仍留候。",
+      "image_bbox": [
+        781,
+        869,
+        904,
+        1244
+      ],
+      "image_sha256": "ec8ab00838452e8c6e9e92253e74be783defab6c3005d7657ce85d78a8688bec"
+    },
+    {
+      "unit_id": "f033-L-01",
+      "frame": 33,
+      "before_fragment": "良有",
+      "after_fragment": "良{有|劑}",
+      "basis": "良下左部近有且右側有窄直豎如刀，暫留初稿有與原讀劑。",
+      "image_bbox": [
+        673,
+        471,
+        775,
+        730
+      ],
+      "image_sha256": "ec8ab00838452e8c6e9e92253e74be783defab6c3005d7657ce85d78a8688bec"
+    },
+    {
+      "unit_id": "f033-L-01",
+      "frame": 33,
+      "before_fragment": "腹滿",
+      "after_fragment": "腹{滿|膈}",
+      "basis": "腹下墨拖覆住左部，下方有框形折豎，兩候未能排除。",
+      "image_bbox": [
+        684,
+        1475,
+        779,
+        1760
+      ],
+      "image_sha256": "ec8ab00838452e8c6e9e92253e74be783defab6c3005d7657ce85d78a8688bec"
+    },
+    {
+      "unit_id": "f033-L-06",
+      "frame": 33,
+      "before_fragment": "石膏搜",
+      "after_fragment": "石{膏|羔}投",
+      "basis": "石下見羊型上部及底點，留膏／羔。末字扌旁右有殳式構形，讀投。",
+      "image_bbox": [
+        174,
+        1478,
+        279,
+        1743
+      ],
+      "image_sha256": "ec8ab00838452e8c6e9e92253e74be783defab6c3005d7657ce85d78a8688bec"
+    },
+    {
+      "unit_id": "f034-R-04",
+      "frame": 34,
+      "before_fragment": "散",
+      "after_fragment": "{散|移|影}",
+      "basis": "奴下右部斜筆密疊，左部兩層框與候形仍有出入，三讀並存。",
+      "image_bbox": [
+        1090,
+        748,
+        1206,
+        942
+      ],
+      "image_sha256": "c36cfa03407cd578733f1471b8219712e52149b5a1922fb7846089fffb30698f"
+    },
+    {
+      "unit_id": "f034-R-07",
+      "frame": 34,
+      "before_fragment": "{革|花}",
+      "after_fragment": "{革|花|華}",
+      "basis": "覆下筆畫有頂橫、雙並直筆和中縱筆延伸，華有形似處，仍留三候。",
+      "image_bbox": [
+        795,
+        92,
+        902,
+        512
+      ],
+      "image_sha256": "c36cfa03407cd578733f1471b8219712e52149b5a1922fb7846089fffb30698f"
+    },
+    {
+      "unit_id": "f034-L-01",
+      "frame": 34,
+      "before_fragment": "蜜",
+      "after_fragment": "{蜜|塞}",
+      "basis": "通下可見覆形宀及交疊內部，末筆下拖，難從底結構辨形。",
+      "image_bbox": [
+        665,
+        685,
+        764,
+        905
+      ],
+      "image_sha256": "c36cfa03407cd578733f1471b8219712e52149b5a1922fb7846089fffb30698f"
+    },
+    {
+      "unit_id": "f034-L-04",
+      "frame": 34,
+      "before_fragment": "治蠱",
+      "after_fragment": "治{蠱|暑}",
+      "basis": "治桃間字形下部見小框，上部重墨。保留初稿另加原讀，待更高解析重核。",
+      "image_bbox": [
+        365,
+        1379,
+        461,
+        1588
+      ],
+      "image_sha256": "c36cfa03407cd578733f1471b8219712e52149b5a1922fb7846089fffb30698f"
+    },
+    {
+      "unit_id": "f034-L-05",
+      "frame": 34,
+      "before_fragment": "萎",
+      "after_fragment": "{萎|姜}",
+      "basis": "睡下有上橫筆與女式斜筆，摺痕拖線妨礙分辨。",
+      "image_bbox": [
+        253,
+        1590,
+        358,
+        1740
+      ],
+      "image_sha256": "c36cfa03407cd578733f1471b8219712e52149b5a1922fb7846089fffb30698f"
+    },
+    {
+      "unit": "f022-R-01",
+      "frame": 22,
+      "side": "R",
+      "before": "滑脈如珠流利圓定而嘔吐痛相兼",
+      "image_sha256": "24f9193623cc170cfb1f358caa0d208ee3cc08b572930be6b309717a49519d70",
+      "spans": [
+        {
+          "before_codepoint_range": [
+            7,
+            8
+          ],
+          "after_codepoint_range": [
+            7,
+            8
+          ],
+          "before": "定",
+          "after": "寔"
+        }
+      ],
+      "candidate": "滑脈如珠流利圓寔而嘔吐痛相兼",
+      "reason": "圓後字下半連筆，定、寔的內框未確定，留兩讀。"
+    },
+    {
+      "unit": "f022-R-04",
+      "frame": 22,
+      "side": "R",
+      "before": "裏症之脈為水定陰寒當審在陰經",
+      "image_sha256": "24f9193623cc170cfb1f358caa0d208ee3cc08b572930be6b309717a49519d70",
+      "spans": [
+        {
+          "before_codepoint_range": [
+            6,
+            7
+          ],
+          "after_codepoint_range": [
+            6,
+            7
+          ],
+          "before": "定",
+          "after": "寔"
+        }
+      ],
+      "candidate": "裏症之脈為水寔陰寒當審在陰經",
+      "reason": "水後見宀與中下伸筆，未能確認是否另有日框，留兩讀。"
+    },
+    {
+      "unit": "f022-L-02",
+      "frame": 22,
+      "side": "L",
+      "before": "緩無偏勝去來遲四肢柔和緩脉施",
+      "image_sha256": "24f9193623cc170cfb1f358caa0d208ee3cc08b572930be6b309717a49519d70",
+      "spans": [
+        {
+          "before_codepoint_range": [
+            12,
+            13
+          ],
+          "after_codepoint_range": [
+            12,
+            13
+          ],
+          "before": "脉",
+          "after": "躰"
+        }
+      ],
+      "candidate": "緩無偏勝去來遲四肢柔和緩躰施",
+      "reason": "緩後字的左部可見月形。保留脉作本文，躰存候。"
+    },
+    {
+      "unit": "f023-R-05",
+      "frame": 23,
+      "side": "R",
+      "before": "昏沉多困倦夢魂常在水邊帰",
+      "image_sha256": "1983b7e0597e6547defc409e689de0e5216d5375e018c9fcc418db08935509a1",
+      "spans": [
+        {
+          "before_codepoint_range": [
+            11,
+            11
+          ],
+          "after_codepoint_range": [
+            11,
+            12
+          ],
+          "before": "",
+          "after": "{"
+        },
+        {
+          "before_codepoint_range": [
+            12,
+            12
+          ],
+          "after_codepoint_range": [
+            13,
+            16
+          ],
+          "before": "",
+          "after": "|帏}"
+        }
+      ],
+      "candidate": "昏沉多困倦夢魂常在水邊{帰|帏}",
+      "reason": "末字右下見巾形，左側部件未足支持帏，保留帰與候選。"
+    }
+  ],
+  "review_counts": {
+    "source_frames": 79,
+    "body_frames": 34,
+    "inventory_only_frames": 45,
+    "blind_groups": 177,
+    "reviewed_units": 627,
+    "text_edits": 63,
+    "tracked_open_questions": 54,
+    "units_with_tracked_open_questions": 52,
+    "inline_unresolved_markers_after": 32,
+    "unit_review_statuses": {
+      "matched": 477,
+      "retained_graphic_variant": 46,
+      "deferred_with_open_question": 31,
+      "text_edited": 42,
+      "text_edited_with_open_question": 21,
+      "retained_after_comparison": 10
+    },
+    "release_changed_units": 59
+  }
+}

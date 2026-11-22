@@ -7,10 +7,10 @@
     "source": "https://resolver.staatsbibliothek-berlin.de/SBB0002B2A400000000",
     "manifest": "https://content.staatsbibliothek-berlin.de/dc/PPN1688511644/manifest",
     "language": "lzh",
-    "version": "0.1.0",
+    "version": "0.2.0",
     "date": "2026-11-22",
-    "quality_zh": "AI 輔助初錄。保留原件缺損、疑讀及全冊影像定位。未做人類全文雙校、專家審定、同儕審查或準確率量測。",
-    "quality_en": "AI-assisted initial transcription with source references and marked uncertainties. Human full-text double proofreading, expert review, peer review and accuracy measurement were not performed.",
+    "quality_zh": "逐幅回圖，比對獨立讀稿及原初錄，採用 59 項回圖訂正。疑讀、藏印或細小批注按實際可辨範圍保留。未做人類全文雙校、專家審定、同儕審查或準確率量測。",
+    "quality_en": "Source-image review compared independent observations with the initial transcription and records 59 image-supported changes. Uncertain readings remain marked. Human full-text double proofreading, expert review, peer review and accuracy measurement were not performed.",
     "editor": {
       "name": "Chu, Chen-Yu",
       "orcid": "0009-0003-9738-6914"
@@ -103,6 +103,7 @@
               "text": "五行所生",
               "bbox_xyxy": null,
               "note": "沿用試錄；分區與欄序固定",
+              "unresolved_glyphs": [],
               "role": "heading"
             },
             {
@@ -110,6 +111,7 @@
               "text": "水　天一生水為太始",
               "bbox_xyxy": null,
               "note": null,
+              "unresolved_glyphs": [],
               "role": "table-column"
             },
             {
@@ -117,6 +119,7 @@
               "text": "火　二生火為太初",
               "bbox_xyxy": null,
               "note": null,
+              "unresolved_glyphs": [],
               "role": "table-column"
             },
             {
@@ -124,6 +127,7 @@
               "text": "木　三生木為太質",
               "bbox_xyxy": null,
               "note": null,
+              "unresolved_glyphs": [],
               "role": "table-column"
             },
             {
@@ -131,6 +135,7 @@
               "text": "金　四生金為太素",
               "bbox_xyxy": null,
               "note": null,
+              "unresolved_glyphs": [],
               "role": "table-column"
             },
             {
@@ -138,6 +143,7 @@
               "text": "土　五生土為太極",
               "bbox_xyxy": null,
               "note": null,
+              "unresolved_glyphs": [],
               "role": "table-column"
             }
           ],
@@ -151,6 +157,7 @@
               "text": "相生",
               "bbox_xyxy": null,
               "note": "沿用試錄；分區與欄序固定",
+              "unresolved_glyphs": [],
               "role": "heading"
             },
             {
@@ -158,6 +165,7 @@
               "text": "水生木",
               "bbox_xyxy": null,
               "note": null,
+              "unresolved_glyphs": [],
               "role": "table-column"
             },
             {
@@ -165,6 +173,7 @@
               "text": "木生火",
               "bbox_xyxy": null,
               "note": null,
+              "unresolved_glyphs": [],
               "role": "table-column"
             },
             {
@@ -172,6 +181,7 @@
               "text": "火生土",
               "bbox_xyxy": null,
               "note": null,
+              "unresolved_glyphs": [],
               "role": "table-column"
             },
             {
@@ -179,6 +189,7 @@
               "text": "土生金",
               "bbox_xyxy": null,
               "note": null,
+              "unresolved_glyphs": [],
               "role": "table-column"
             },
             {
@@ -186,6 +197,7 @@
               "text": "金生水",
               "bbox_xyxy": null,
               "note": null,
+              "unresolved_glyphs": [],
               "role": "table-column"
             }
           ],
@@ -199,6 +211,7 @@
               "text": "相尅",
               "bbox_xyxy": null,
               "note": "沿用試錄；分區與欄序固定",
+              "unresolved_glyphs": [],
               "role": "heading"
             },
             {
@@ -206,6 +219,7 @@
               "text": "水尅火",
               "bbox_xyxy": null,
               "note": null,
+              "unresolved_glyphs": [],
               "role": "table-column"
             },
             {
@@ -213,6 +227,7 @@
               "text": "火尅金",
               "bbox_xyxy": null,
               "note": null,
+              "unresolved_glyphs": [],
               "role": "table-column"
             },
             {
@@ -220,6 +235,7 @@
               "text": "金尅木",
               "bbox_xyxy": null,
               "note": null,
+              "unresolved_glyphs": [],
               "role": "table-column"
             },
             {
@@ -227,6 +243,7 @@
               "text": "木尅土",
               "bbox_xyxy": null,
               "note": null,
+              "unresolved_glyphs": [],
               "role": "table-column"
             },
             {
@@ -234,6 +251,7 @@
               "text": "土尅水",
               "bbox_xyxy": null,
               "note": null,
+              "unresolved_glyphs": [],
               "role": "table-column"
             }
           ],
@@ -278,6 +296,7 @@
               "text": "五行四時旺相休絕死",
               "bbox_xyxy": null,
               "note": null,
+              "unresolved_glyphs": [],
               "role": "heading"
             },
             {
@@ -285,6 +304,7 @@
               "text": "春寅卯月木旺肝胆當令其脉弦長也",
               "bbox_xyxy": null,
               "note": null,
+              "unresolved_glyphs": [],
               "role": "column"
             },
             {
@@ -292,6 +312,7 @@
               "text": "脉濇浮短為鬼病在肝胆金尅木也",
               "bbox_xyxy": null,
               "note": "濇字形待核",
+              "unresolved_glyphs": [],
               "role": "column"
             },
             {
@@ -299,13 +320,15 @@
               "text": "遲緩為妻病在脾胃沉小者母也洪",
               "bbox_xyxy": null,
               "note": null,
+              "unresolved_glyphs": [],
               "role": "column"
             },
             {
               "id": "f003-R-05",
-              "text": "大者子也春得脾而不□",
+              "text": "大者子也春得脾而不療",
               "bbox_xyxy": null,
               "note": "末字療候讀",
+              "unresolved_glyphs": [],
               "role": "column"
             },
             {
@@ -313,6 +336,7 @@
               "text": "夏巳午月火旺心與小腸當令其脉洪",
               "bbox_xyxy": null,
               "note": "巳或已",
+              "unresolved_glyphs": [],
               "role": "column"
             },
             {
@@ -320,6 +344,7 @@
               "text": "大沉小為鬼病在心小腸濇短為妻",
               "bbox_xyxy": null,
               "note": "濇字形待核",
+              "unresolved_glyphs": [],
               "role": "column"
             }
           ],
@@ -333,13 +358,15 @@
               "text": "病在肺與大腸弦長者母也遲緩者",
               "bbox_xyxy": null,
               "note": null,
+              "unresolved_glyphs": [],
               "role": "column"
             },
             {
               "id": "f003-L-02",
-              "text": "子也夏得肺而難□",
+              "text": "子也夏得肺而難瘥",
               "bbox_xyxy": null,
               "note": "末字瘥候讀",
+              "unresolved_glyphs": [],
               "role": "column"
             },
             {
@@ -347,6 +374,7 @@
               "text": "秋申酉月金旺肺與大腸當令其脉浮",
               "bbox_xyxy": null,
               "note": null,
+              "unresolved_glyphs": [],
               "role": "column"
             },
             {
@@ -354,6 +382,7 @@
               "text": "濇而短洪大為鬼病在肺與大腸弦",
               "bbox_xyxy": null,
               "note": "濇字形待核",
+              "unresolved_glyphs": [],
               "role": "column"
             },
             {
@@ -361,6 +390,7 @@
               "text": "長為妻病在肝胆遲緩者母也沉小",
               "bbox_xyxy": null,
               "note": null,
+              "unresolved_glyphs": [],
               "role": "column"
             },
             {
@@ -368,6 +398,7 @@
               "text": "者子也秋見肝而不治",
               "bbox_xyxy": null,
               "note": null,
+              "unresolved_glyphs": [],
               "role": "column"
             },
             {
@@ -375,6 +406,7 @@
               "text": "冬亥子月水旺腎與膀胱洪大為妻病",
               "bbox_xyxy": null,
               "note": null,
+              "unresolved_glyphs": [],
               "role": "column"
             }
           ],
@@ -388,6 +420,7 @@
               "text": "當令其脉沉小遲緩為鬼",
               "bbox_xyxy": null,
               "note": "兩行小字位置在左葉第6欄下方，附注的插入點待核",
+              "unresolved_glyphs": [],
               "role": "inline-note"
             },
             {
@@ -395,6 +428,7 @@
               "text": "病在腎與膀胱",
               "bbox_xyxy": null,
               "note": "兩行小字的左行",
+              "unresolved_glyphs": [],
               "role": "inline-note"
             }
           ],
@@ -439,6 +473,7 @@
               "text": "在心小腸濇短者母也弦長子也冬",
               "bbox_xyxy": null,
               "note": null,
+              "unresolved_glyphs": [],
               "role": "column"
             },
             {
@@ -446,6 +481,7 @@
               "text": "見心而不治",
               "bbox_xyxy": null,
               "note": null,
+              "unresolved_glyphs": [],
               "role": "column"
             },
             {
@@ -453,13 +489,29 @@
               "text": "四季辰戌丑未月土各旺十八日脾與",
               "bbox_xyxy": null,
               "note": "「四」高於一般欄首",
+              "unresolved_glyphs": [],
               "role": "column"
             },
             {
               "id": "f004-R-04",
-              "text": "胃當令其脈遲緩如春風攏柳弦長",
+              "text": "胃當令其脈遲緩如春風{攏|擺}柳弦長",
               "bbox_xyxy": null,
               "note": null,
+              "unresolved_glyphs": [
+                {
+                  "raw_text_codepoint_range": [
+                    10,
+                    15
+                  ],
+                  "raw_text": "{攏|擺}",
+                  "raw_candidates": [
+                    "攏",
+                    "擺"
+                  ],
+                  "confidence": "unresolved",
+                  "note": "覆核裁決請見 proof-unit-coverage.private.json"
+                }
+              ],
               "role": "column"
             },
             {
@@ -467,6 +519,7 @@
               "text": "為鬼病在脾胃沉小為妻病在腎與",
               "bbox_xyxy": null,
               "note": null,
+              "unresolved_glyphs": [],
               "role": "column"
             },
             {
@@ -474,6 +527,7 @@
               "text": "膀胱洪大者母也濇短者子也",
               "bbox_xyxy": null,
               "note": null,
+              "unresolved_glyphs": [],
               "role": "column"
             },
             {
@@ -481,6 +535,7 @@
               "text": "臟腑說",
               "bbox_xyxy": null,
               "note": "近中折獨立標題，下段自左面開始",
+              "unresolved_glyphs": [],
               "role": "heading"
             }
           ],
@@ -491,9 +546,10 @@
           "units": [
             {
               "id": "f004-L-01",
-              "text": "臟{䐗|者}藏也藏精氣而不洩故滿而不",
+              "text": "臟䐗藏也藏精氣而不洩故滿而不",
               "bbox_xyxy": null,
               "note": null,
+              "unresolved_glyphs": [],
               "role": "column"
             },
             {
@@ -501,6 +557,7 @@
               "text": "實也腑者聚也聚諸物而不滿故滿",
               "bbox_xyxy": null,
               "note": null,
+              "unresolved_glyphs": [],
               "role": "column"
             },
             {
@@ -508,6 +565,7 @@
               "text": "而不滿也二者相為表裏則一身之",
               "bbox_xyxy": null,
               "note": null,
+              "unresolved_glyphs": [],
               "role": "column"
             },
             {
@@ -515,6 +573,7 @@
               "text": "管轄也",
               "bbox_xyxy": null,
               "note": null,
+              "unresolved_glyphs": [],
               "role": "column"
             },
             {
@@ -522,6 +581,7 @@
               "text": "五臟通面上五竅",
               "bbox_xyxy": null,
               "note": null,
+              "unresolved_glyphs": [],
               "role": "heading"
             },
             {
@@ -529,6 +589,7 @@
               "text": "舌為心之苗咽乃肺之系目為腎之",
               "bbox_xyxy": null,
               "note": null,
+              "unresolved_glyphs": [],
               "role": "column"
             },
             {
@@ -536,13 +597,15 @@
               "text": "肝",
               "bbox_xyxy": null,
               "note": "緊臨「腎」字之右，較小，可能為改註，連接性保留待判",
+              "unresolved_glyphs": [],
               "role": "inline-note"
             },
             {
               "id": "f004-L-07",
-              "text": "精脣乃脾之門耳為腎之竅也",
+              "text": "精唇乃脾之門耳為腎之竅也",
               "bbox_xyxy": null,
               "note": null,
+              "unresolved_glyphs": [],
               "role": "column"
             }
           ],
@@ -741,6 +804,7 @@
               "text": "五臟屬陰病為內傷為裏",
               "bbox_xyxy": null,
               "note": null,
+              "unresolved_glyphs": [],
               "role": "heading"
             }
           ],
@@ -754,6 +818,7 @@
               "text": "心",
               "bbox_xyxy": null,
               "note": null,
+              "unresolved_glyphs": [],
               "role": "table-label"
             },
             {
@@ -761,6 +826,7 @@
               "text": "夏令南方丙丁火與小腸相合其脈洪大舌乃心之苗面色紅好食苦",
               "bbox_xyxy": null,
               "note": null,
+              "unresolved_glyphs": [],
               "role": "table-column"
             },
             {
@@ -768,6 +834,7 @@
               "text": "性狂妄相反難治",
               "bbox_xyxy": null,
               "note": null,
+              "unresolved_glyphs": [],
               "role": "table-column"
             }
           ],
@@ -781,13 +848,15 @@
               "text": "肝",
               "bbox_xyxy": null,
               "note": null,
+              "unresolved_glyphs": [],
               "role": "table-label"
             },
             {
               "id": "f005-R肝-02",
-              "text": "春令東方甲乙木與膽相合脈弦長目乃肝之精面色青好食酸性發怒",
+              "text": "春令東方甲乙木與胆相合脈弦長目乃肝之精面色青好食酸性發怒",
               "bbox_xyxy": null,
               "note": null,
+              "unresolved_glyphs": [],
               "role": "table-column"
             },
             {
@@ -795,6 +864,7 @@
               "text": "相反難治",
               "bbox_xyxy": null,
               "note": null,
+              "unresolved_glyphs": [],
               "role": "table-column"
             }
           ],
@@ -808,13 +878,42 @@
               "text": "脾",
               "bbox_xyxy": null,
               "note": null,
+              "unresolved_glyphs": [],
               "role": "table-label"
             },
             {
               "id": "f005-R脾-02",
-              "text": "四季月中央戊己土與胃相合脈遲緩如春風攏柳唇乃脾之門面色好食",
+              "text": "四季月中{央|丑}戌己土與胃相合脈遲緩如春風{攏|擺}柳唇乃脾之門面色好食",
               "bbox_xyxy": null,
               "note": null,
+              "unresolved_glyphs": [
+                {
+                  "raw_text_codepoint_range": [
+                    4,
+                    9
+                  ],
+                  "raw_text": "{央|丑}",
+                  "raw_candidates": [
+                    "央",
+                    "丑"
+                  ],
+                  "confidence": "unresolved",
+                  "note": "覆核裁決請見 proof-unit-coverage.private.json"
+                },
+                {
+                  "raw_text_codepoint_range": [
+                    22,
+                    27
+                  ],
+                  "raw_text": "{攏|擺}",
+                  "raw_candidates": [
+                    "攏",
+                    "擺"
+                  ],
+                  "confidence": "unresolved",
+                  "note": "覆核裁決請見 proof-unit-coverage.private.json"
+                }
+              ],
               "role": "table-column"
             },
             {
@@ -822,6 +921,7 @@
               "text": "黃",
               "bbox_xyxy": null,
               "note": "「色」「好」右側，可能補色字後",
+              "unresolved_glyphs": [],
               "role": "inline-note"
             },
             {
@@ -829,6 +929,7 @@
               "text": "甘性多眠体重相反不治",
               "bbox_xyxy": null,
               "note": null,
+              "unresolved_glyphs": [],
               "role": "table-column"
             }
           ],
@@ -842,6 +943,7 @@
               "text": "肺",
               "bbox_xyxy": null,
               "note": null,
+              "unresolved_glyphs": [],
               "role": "table-label"
             },
             {
@@ -849,6 +951,7 @@
               "text": "秋令西方庚辛金與大腸相脈浮濇而短咽乃肺之系面色白辛好食辛性憂",
               "bbox_xyxy": null,
               "note": null,
+              "unresolved_glyphs": [],
               "role": "table-column"
             },
             {
@@ -856,6 +959,7 @@
               "text": "合",
               "bbox_xyxy": null,
               "note": "「相」「脈」間偏右，保留補筆位置",
+              "unresolved_glyphs": [],
               "role": "inline-note"
             },
             {
@@ -863,6 +967,7 @@
               "text": "愁喘嗽相反難治",
               "bbox_xyxy": null,
               "note": null,
+              "unresolved_glyphs": [],
               "role": "table-column"
             }
           ],
@@ -876,13 +981,29 @@
               "text": "腎",
               "bbox_xyxy": null,
               "note": null,
+              "unresolved_glyphs": [],
               "role": "table-label"
             },
             {
               "id": "f005-R腎-02",
-              "text": "冬令北方壬癸水與膀胱相合脈沉小耳乃腎之竅面色黑指甲青下洩足",
+              "text": "冬令北方壬癸水與膀胱相合脈沉小耳乃腎之竅面色黑指甲青下{洩|湧}足",
               "bbox_xyxy": null,
               "note": null,
+              "unresolved_glyphs": [
+                {
+                  "raw_text_codepoint_range": [
+                    27,
+                    32
+                  ],
+                  "raw_text": "{洩|湧}",
+                  "raw_candidates": [
+                    "洩",
+                    "湧"
+                  ],
+                  "confidence": "unresolved",
+                  "note": "覆核裁決請見 proof-unit-coverage.private.json"
+                }
+              ],
               "role": "table-column"
             },
             {
@@ -890,6 +1011,7 @@
               "text": "冷性吟好食鹹反難治",
               "bbox_xyxy": null,
               "note": null,
+              "unresolved_glyphs": [],
               "role": "table-column"
             }
           ],
@@ -903,6 +1025,7 @@
               "text": "六腑屬陽得病為外感為表",
               "bbox_xyxy": null,
               "note": null,
+              "unresolved_glyphs": [],
               "role": "heading"
             }
           ],
@@ -916,6 +1039,7 @@
               "text": "小腸",
               "bbox_xyxy": null,
               "note": null,
+              "unresolved_glyphs": [],
               "role": "table-label"
             },
             {
@@ -923,6 +1047,7 @@
               "text": "心與小腸",
               "bbox_xyxy": null,
               "note": "右",
+              "unresolved_glyphs": [],
               "role": "table-subcolumn"
             },
             {
@@ -930,6 +1055,7 @@
               "text": "君火也",
               "bbox_xyxy": null,
               "note": "左",
+              "unresolved_glyphs": [],
               "role": "table-subcolumn"
             }
           ],
@@ -940,16 +1066,18 @@
           "units": [
             {
               "id": "f005-L膽-01",
-              "text": "膽",
+              "text": "胆",
               "bbox_xyxy": null,
               "note": null,
+              "unresolved_glyphs": [],
               "role": "table-label"
             },
             {
               "id": "f005-L膽-02",
-              "text": "肝與膽",
+              "text": "肝與胆",
               "bbox_xyxy": null,
               "note": "右",
+              "unresolved_glyphs": [],
               "role": "table-subcolumn"
             },
             {
@@ -957,6 +1085,7 @@
               "text": "風木也",
               "bbox_xyxy": null,
               "note": "左",
+              "unresolved_glyphs": [],
               "role": "table-subcolumn"
             }
           ],
@@ -970,6 +1099,7 @@
               "text": "胃",
               "bbox_xyxy": null,
               "note": null,
+              "unresolved_glyphs": [],
               "role": "table-label"
             },
             {
@@ -977,6 +1107,7 @@
               "text": "脾與胃",
               "bbox_xyxy": null,
               "note": "右",
+              "unresolved_glyphs": [],
               "role": "table-subcolumn"
             },
             {
@@ -984,6 +1115,7 @@
               "text": "濕土也",
               "bbox_xyxy": null,
               "note": "左",
+              "unresolved_glyphs": [],
               "role": "table-subcolumn"
             }
           ],
@@ -997,6 +1129,7 @@
               "text": "大腸",
               "bbox_xyxy": null,
               "note": null,
+              "unresolved_glyphs": [],
               "role": "table-label"
             },
             {
@@ -1004,6 +1137,7 @@
               "text": "肺與大腸",
               "bbox_xyxy": null,
               "note": "右",
+              "unresolved_glyphs": [],
               "role": "table-subcolumn"
             },
             {
@@ -1011,6 +1145,7 @@
               "text": "燥金也",
               "bbox_xyxy": null,
               "note": "左",
+              "unresolved_glyphs": [],
               "role": "table-subcolumn"
             }
           ],
@@ -1024,6 +1159,7 @@
               "text": "膀胱",
               "bbox_xyxy": null,
               "note": null,
+              "unresolved_glyphs": [],
               "role": "table-label"
             },
             {
@@ -1031,6 +1167,7 @@
               "text": "腎與膀胱",
               "bbox_xyxy": null,
               "note": "右",
+              "unresolved_glyphs": [],
               "role": "table-subcolumn"
             },
             {
@@ -1038,6 +1175,7 @@
               "text": "寒水也",
               "bbox_xyxy": null,
               "note": "左",
+              "unresolved_glyphs": [],
               "role": "table-subcolumn"
             }
           ],
@@ -1051,6 +1189,7 @@
               "text": "三焦",
               "bbox_xyxy": null,
               "note": null,
+              "unresolved_glyphs": [],
               "role": "table-label"
             },
             {
@@ -1058,6 +1197,21 @@
               "text": "心包絡與{三|土}",
               "bbox_xyxy": null,
               "note": "右",
+              "unresolved_glyphs": [
+                {
+                  "raw_text_codepoint_range": [
+                    4,
+                    9
+                  ],
+                  "raw_text": "{三|土}",
+                  "raw_candidates": [
+                    "三",
+                    "土"
+                  ],
+                  "confidence": "unresolved",
+                  "note": "右"
+                }
+              ],
               "role": "table-subcolumn"
             },
             {
@@ -1065,6 +1219,7 @@
               "text": "焦相火也",
               "bbox_xyxy": null,
               "note": "左",
+              "unresolved_glyphs": [],
               "role": "table-subcolumn"
             }
           ],
@@ -1078,6 +1233,7 @@
               "text": "七情屬內傷",
               "bbox_xyxy": null,
               "note": null,
+              "unresolved_glyphs": [],
               "role": "heading"
             }
           ],
@@ -1091,6 +1247,7 @@
               "text": "九氣",
               "bbox_xyxy": null,
               "note": null,
+              "unresolved_glyphs": [],
               "role": "heading"
             },
             {
@@ -1098,6 +1255,7 @@
               "text": "○",
               "bbox_xyxy": null,
               "note": "此項右側墨圈",
+              "unresolved_glyphs": [],
               "role": "mark"
             },
             {
@@ -1105,6 +1263,21 @@
               "text": "{元|无}憂",
               "bbox_xyxy": null,
               "note": null,
+              "unresolved_glyphs": [
+                {
+                  "raw_text_codepoint_range": [
+                    0,
+                    5
+                  ],
+                  "raw_text": "{元|无}",
+                  "raw_candidates": [
+                    "元",
+                    "无"
+                  ],
+                  "confidence": "unresolved",
+                  "note": null
+                }
+              ],
               "role": "list"
             },
             {
@@ -1112,6 +1285,7 @@
               "text": "○",
               "bbox_xyxy": null,
               "note": "此項右側墨圈",
+              "unresolved_glyphs": [],
               "role": "mark"
             },
             {
@@ -1119,6 +1293,7 @@
               "text": "有寒",
               "bbox_xyxy": null,
               "note": null,
+              "unresolved_glyphs": [],
               "role": "list"
             },
             {
@@ -1126,6 +1301,7 @@
               "text": "○",
               "bbox_xyxy": null,
               "note": "此項右側墨圈",
+              "unresolved_glyphs": [],
               "role": "mark"
             },
             {
@@ -1133,6 +1309,22 @@
               "text": "{呆|吳|異}",
               "bbox_xyxy": null,
               "note": null,
+              "unresolved_glyphs": [
+                {
+                  "raw_text_codepoint_range": [
+                    0,
+                    7
+                  ],
+                  "raw_text": "{呆|吳|異}",
+                  "raw_candidates": [
+                    "呆",
+                    "吳",
+                    "異"
+                  ],
+                  "confidence": "unresolved",
+                  "note": null
+                }
+              ],
               "role": "list"
             },
             {
@@ -1140,6 +1332,7 @@
               "text": "○",
               "bbox_xyxy": null,
               "note": "此項右側墨圈",
+              "unresolved_glyphs": [],
               "role": "mark"
             },
             {
@@ -1147,6 +1340,7 @@
               "text": "勞",
               "bbox_xyxy": null,
               "note": null,
+              "unresolved_glyphs": [],
               "role": "list"
             },
             {
@@ -1154,6 +1348,7 @@
               "text": "○",
               "bbox_xyxy": null,
               "note": "此項右側墨圈",
+              "unresolved_glyphs": [],
               "role": "mark"
             }
           ],
@@ -1167,6 +1362,7 @@
               "text": "喜",
               "bbox_xyxy": null,
               "note": null,
+              "unresolved_glyphs": [],
               "role": "list-label"
             },
             {
@@ -1174,6 +1370,7 @@
               "text": "樂太",
               "bbox_xyxy": null,
               "note": "右",
+              "unresolved_glyphs": [],
               "role": "table-subcolumn"
             },
             {
@@ -1181,6 +1378,7 @@
               "text": "過",
               "bbox_xyxy": null,
               "note": "左",
+              "unresolved_glyphs": [],
               "role": "table-subcolumn"
             }
           ],
@@ -1194,6 +1392,7 @@
               "text": "怒",
               "bbox_xyxy": null,
               "note": null,
+              "unresolved_glyphs": [],
               "role": "list-label"
             },
             {
@@ -1201,6 +1400,7 @@
               "text": "惱太",
               "bbox_xyxy": null,
               "note": "右",
+              "unresolved_glyphs": [],
               "role": "table-subcolumn"
             },
             {
@@ -1208,6 +1408,7 @@
               "text": "過",
               "bbox_xyxy": null,
               "note": "左",
+              "unresolved_glyphs": [],
               "role": "table-subcolumn"
             }
           ],
@@ -1221,6 +1422,7 @@
               "text": "憂",
               "bbox_xyxy": null,
               "note": null,
+              "unresolved_glyphs": [],
               "role": "list-label"
             },
             {
@@ -1228,6 +1430,7 @@
               "text": "愁太",
               "bbox_xyxy": null,
               "note": "右",
+              "unresolved_glyphs": [],
               "role": "table-subcolumn"
             },
             {
@@ -1235,6 +1438,7 @@
               "text": "過",
               "bbox_xyxy": null,
               "note": "左",
+              "unresolved_glyphs": [],
               "role": "table-subcolumn"
             }
           ],
@@ -1248,6 +1452,7 @@
               "text": "思",
               "bbox_xyxy": null,
               "note": null,
+              "unresolved_glyphs": [],
               "role": "list-label"
             },
             {
@@ -1255,6 +1460,7 @@
               "text": "慮太",
               "bbox_xyxy": null,
               "note": "右",
+              "unresolved_glyphs": [],
               "role": "table-subcolumn"
             },
             {
@@ -1262,6 +1468,7 @@
               "text": "過",
               "bbox_xyxy": null,
               "note": "左",
+              "unresolved_glyphs": [],
               "role": "table-subcolumn"
             }
           ],
@@ -1275,6 +1482,7 @@
               "text": "悲",
               "bbox_xyxy": null,
               "note": null,
+              "unresolved_glyphs": [],
               "role": "list-label"
             },
             {
@@ -1282,6 +1490,7 @@
               "text": "哭太",
               "bbox_xyxy": null,
               "note": "右",
+              "unresolved_glyphs": [],
               "role": "table-subcolumn"
             },
             {
@@ -1289,6 +1498,7 @@
               "text": "過",
               "bbox_xyxy": null,
               "note": "左",
+              "unresolved_glyphs": [],
               "role": "table-subcolumn"
             }
           ],
@@ -1302,6 +1512,7 @@
               "text": "恐",
               "bbox_xyxy": null,
               "note": null,
+              "unresolved_glyphs": [],
               "role": "list-label"
             },
             {
@@ -1309,6 +1520,7 @@
               "text": "懼太",
               "bbox_xyxy": null,
               "note": "右",
+              "unresolved_glyphs": [],
               "role": "table-subcolumn"
             },
             {
@@ -1316,6 +1528,7 @@
               "text": "過",
               "bbox_xyxy": null,
               "note": "左",
+              "unresolved_glyphs": [],
               "role": "table-subcolumn"
             }
           ],
@@ -1329,6 +1542,7 @@
               "text": "驚",
               "bbox_xyxy": null,
               "note": null,
+              "unresolved_glyphs": [],
               "role": "list-label"
             },
             {
@@ -1336,6 +1550,7 @@
               "text": "怕太",
               "bbox_xyxy": null,
               "note": "右",
+              "unresolved_glyphs": [],
               "role": "table-subcolumn"
             },
             {
@@ -1343,6 +1558,7 @@
               "text": "過",
               "bbox_xyxy": null,
               "note": "左",
+              "unresolved_glyphs": [],
               "role": "table-subcolumn"
             }
           ],
@@ -1453,6 +1669,7 @@
               "text": "六忌屬外感",
               "bbox_xyxy": null,
               "note": "第二字見己下心形，保原寫",
+              "unresolved_glyphs": [],
               "role": "heading"
             }
           ],
@@ -1466,6 +1683,7 @@
               "text": "風",
               "bbox_xyxy": null,
               "note": null,
+              "unresolved_glyphs": [],
               "role": "table-label"
             },
             {
@@ -1473,6 +1691,7 @@
               "text": "中風",
               "bbox_xyxy": null,
               "note": "右",
+              "unresolved_glyphs": [],
               "role": "table-subcolumn"
             },
             {
@@ -1480,6 +1699,7 @@
               "text": "脈浮",
               "bbox_xyxy": null,
               "note": "左",
+              "unresolved_glyphs": [],
               "role": "table-subcolumn"
             }
           ],
@@ -1493,6 +1713,7 @@
               "text": "寒",
               "bbox_xyxy": null,
               "note": null,
+              "unresolved_glyphs": [],
               "role": "table-label"
             },
             {
@@ -1500,6 +1721,7 @@
               "text": "中寒脈",
               "bbox_xyxy": null,
               "note": "右",
+              "unresolved_glyphs": [],
               "role": "table-subcolumn"
             },
             {
@@ -1507,6 +1729,7 @@
               "text": "沉遲",
               "bbox_xyxy": null,
               "note": "左",
+              "unresolved_glyphs": [],
               "role": "table-subcolumn"
             }
           ],
@@ -1520,6 +1743,7 @@
               "text": "暑",
               "bbox_xyxy": null,
               "note": null,
+              "unresolved_glyphs": [],
               "role": "table-label"
             },
             {
@@ -1527,6 +1751,7 @@
               "text": "中暑脈",
               "bbox_xyxy": null,
               "note": "右",
+              "unresolved_glyphs": [],
               "role": "table-subcolumn"
             },
             {
@@ -1534,6 +1759,7 @@
               "text": "浮洪",
               "bbox_xyxy": null,
               "note": "左",
+              "unresolved_glyphs": [],
               "role": "table-subcolumn"
             }
           ],
@@ -1547,6 +1773,7 @@
               "text": "濕",
               "bbox_xyxy": null,
               "note": null,
+              "unresolved_glyphs": [],
               "role": "table-label"
             },
             {
@@ -1554,6 +1781,7 @@
               "text": "中濕脈",
               "bbox_xyxy": null,
               "note": "右",
+              "unresolved_glyphs": [],
               "role": "table-subcolumn"
             },
             {
@@ -1561,6 +1789,7 @@
               "text": "微弱",
               "bbox_xyxy": null,
               "note": "左",
+              "unresolved_glyphs": [],
               "role": "table-subcolumn"
             }
           ],
@@ -1574,6 +1803,7 @@
               "text": "燥",
               "bbox_xyxy": null,
               "note": null,
+              "unresolved_glyphs": [],
               "role": "table-label"
             },
             {
@@ -1581,6 +1811,7 @@
               "text": "中燥脈",
               "bbox_xyxy": null,
               "note": "右",
+              "unresolved_glyphs": [],
               "role": "table-subcolumn"
             },
             {
@@ -1588,6 +1819,7 @@
               "text": "浮數",
               "bbox_xyxy": null,
               "note": "左",
+              "unresolved_glyphs": [],
               "role": "table-subcolumn"
             }
           ],
@@ -1601,6 +1833,7 @@
               "text": "熱",
               "bbox_xyxy": null,
               "note": null,
+              "unresolved_glyphs": [],
               "role": "table-label"
             },
             {
@@ -1608,6 +1841,7 @@
               "text": "中熱脈",
               "bbox_xyxy": null,
               "note": "右",
+              "unresolved_glyphs": [],
               "role": "table-subcolumn"
             },
             {
@@ -1615,6 +1849,7 @@
               "text": "洪數",
               "bbox_xyxy": null,
               "note": "左",
+              "unresolved_glyphs": [],
               "role": "table-subcolumn"
             }
           ],
@@ -1628,6 +1863,7 @@
               "text": "望聞問切",
               "bbox_xyxy": null,
               "note": null,
+              "unresolved_glyphs": [],
               "role": "heading"
             },
             {
@@ -1635,6 +1871,7 @@
               "text": "望者望其動静看病人之形容面色",
               "bbox_xyxy": null,
               "note": null,
+              "unresolved_glyphs": [],
               "role": "column"
             },
             {
@@ -1642,6 +1879,7 @@
               "text": "強弱虚實喜見人狂言妄語面外睡",
               "bbox_xyxy": null,
               "note": null,
+              "unresolved_glyphs": [],
               "role": "column"
             },
             {
@@ -1649,6 +1887,7 @@
               "text": "者陽症也如閉目不欲人見面裏睡",
               "bbox_xyxy": null,
               "note": null,
+              "unresolved_glyphs": [],
               "role": "column"
             },
             {
@@ -1656,6 +1895,7 @@
               "text": "不言面青爪冷大便泄小便数者陰",
               "bbox_xyxy": null,
               "note": null,
+              "unresolved_glyphs": [],
               "role": "column"
             }
           ],
@@ -1669,6 +1909,7 @@
               "text": "症也聞者听人言病人素日行事在",
               "bbox_xyxy": null,
               "note": "「在」下有深色污孔，無可確認續字",
+              "unresolved_glyphs": [],
               "role": "column"
             },
             {
@@ -1676,6 +1917,7 @@
               "text": "听声息喘嗽否問者問病人何得病",
               "bbox_xyxy": null,
               "note": null,
+              "unresolved_glyphs": [],
               "role": "column"
             },
             {
@@ -1683,6 +1925,7 @@
               "text": "日",
               "bbox_xyxy": null,
               "note": "「何」與「得」之間右側",
+              "unresolved_glyphs": [],
               "role": "inline-note"
             },
             {
@@ -1690,6 +1933,7 @@
               "text": "飲食多少大小便或秘或利目認人",
               "bbox_xyxy": null,
               "note": null,
+              "unresolved_glyphs": [],
               "role": "column"
             },
             {
@@ -1697,13 +1941,15 @@
               "text": "耳听見人否眼目直視神氣已散魚",
               "bbox_xyxy": null,
               "note": null,
+              "unresolved_glyphs": [],
               "role": "column"
             },
             {
               "id": "f006-L-05",
-              "text": "口大張喘促難痊再看尺脈足踝骨",
+              "text": "口大張喘促難瘥再看尺脈足踝骨",
               "bbox_xyxy": null,
               "note": null,
+              "unresolved_glyphs": [],
               "role": "column"
             },
             {
@@ -1711,6 +1957,7 @@
               "text": "太溪脈在否切者切其原因審得輕",
               "bbox_xyxy": null,
               "note": null,
+              "unresolved_glyphs": [],
               "role": "column"
             },
             {
@@ -1718,6 +1965,7 @@
               "text": "重虚實寒熱然後擇方用藥須要",
               "bbox_xyxy": null,
               "note": null,
+              "unresolved_glyphs": [],
               "role": "column"
             },
             {
@@ -1725,6 +1973,7 @@
               "text": "斟",
               "bbox_xyxy": null,
               "note": "欄尾窄雙行之右",
+              "unresolved_glyphs": [],
               "role": "inline-note"
             },
             {
@@ -1732,6 +1981,7 @@
               "text": "酌",
               "bbox_xyxy": null,
               "note": "欄尾窄雙行之左",
+              "unresolved_glyphs": [],
               "role": "inline-note"
             }
           ],
@@ -1787,6 +2037,7 @@
               "text": "觀色",
               "bbox_xyxy": null,
               "note": null,
+              "unresolved_glyphs": [],
               "role": "heading"
             },
             {
@@ -1794,6 +2045,7 @@
               "text": "心病面色赤黑白不相當忌夏",
               "bbox_xyxy": null,
               "note": null,
+              "unresolved_glyphs": [],
               "role": "list"
             },
             {
@@ -1801,6 +2053,7 @@
               "text": "水",
               "bbox_xyxy": null,
               "note": "「黑」字右側",
+              "unresolved_glyphs": [],
               "role": "inline-note"
             },
             {
@@ -1808,6 +2061,7 @@
               "text": "金",
               "bbox_xyxy": null,
               "note": "「白」字右側",
+              "unresolved_glyphs": [],
               "role": "inline-note"
             },
             {
@@ -1815,6 +2069,7 @@
               "text": "肝病面色青黃白命已亡忌春",
               "bbox_xyxy": null,
               "note": null,
+              "unresolved_glyphs": [],
               "role": "list"
             },
             {
@@ -1822,6 +2077,7 @@
               "text": "土",
               "bbox_xyxy": null,
               "note": "「黃」字右側",
+              "unresolved_glyphs": [],
               "role": "inline-note"
             },
             {
@@ -1829,6 +2085,7 @@
               "text": "金",
               "bbox_xyxy": null,
               "note": "「白」字右側",
+              "unresolved_glyphs": [],
               "role": "inline-note"
             },
             {
@@ -1836,6 +2093,7 @@
               "text": "脾病面色黃青黑是不長忌四季",
               "bbox_xyxy": null,
               "note": null,
+              "unresolved_glyphs": [],
               "role": "list"
             },
             {
@@ -1843,6 +2101,7 @@
               "text": "木",
               "bbox_xyxy": null,
               "note": "「青」字右側",
+              "unresolved_glyphs": [],
               "role": "inline-note"
             },
             {
@@ -1850,6 +2109,7 @@
               "text": "水",
               "bbox_xyxy": null,
               "note": "「黑」字右側",
+              "unresolved_glyphs": [],
               "role": "inline-note"
             },
             {
@@ -1857,6 +2117,7 @@
               "text": "肺病面色白青紅命必傷忌秋",
               "bbox_xyxy": null,
               "note": null,
+              "unresolved_glyphs": [],
               "role": "list"
             },
             {
@@ -1864,6 +2125,7 @@
               "text": "木",
               "bbox_xyxy": null,
               "note": "「青」字右側",
+              "unresolved_glyphs": [],
               "role": "inline-note"
             },
             {
@@ -1871,6 +2133,7 @@
               "text": "火",
               "bbox_xyxy": null,
               "note": "「紅」字右側",
+              "unresolved_glyphs": [],
               "role": "inline-note"
             },
             {
@@ -1878,6 +2141,7 @@
               "text": "腎病面色黑紅黃不相當忌冬",
               "bbox_xyxy": null,
               "note": null,
+              "unresolved_glyphs": [],
               "role": "list"
             },
             {
@@ -1885,6 +2149,7 @@
               "text": "火",
               "bbox_xyxy": null,
               "note": "「紅」字右側",
+              "unresolved_glyphs": [],
               "role": "inline-note"
             },
             {
@@ -1892,6 +2157,7 @@
               "text": "土",
               "bbox_xyxy": null,
               "note": "「黃」字右側",
+              "unresolved_glyphs": [],
               "role": "inline-note"
             },
             {
@@ -1899,6 +2165,7 @@
               "text": "〻",
               "bbox_xyxy": null,
               "note": "「冬」下短曲筆的功能及碼位待判",
+              "unresolved_glyphs": [],
               "role": "mark"
             },
             {
@@ -1906,6 +2173,7 @@
               "text": "聽聲",
               "bbox_xyxy": null,
               "note": null,
+              "unresolved_glyphs": [],
               "role": "heading"
             }
           ],
@@ -1916,9 +2184,10 @@
           "units": [
             {
               "id": "f007-L-01",
-              "text": "肝病聲暴怒脾病思念歌唱心病{嘻|喜}",
+              "text": "肝病聲暴怒脾病思念歌唱心病嘻",
               "bbox_xyxy": null,
               "note": "欄末水痕遮及小部分字",
+              "unresolved_glyphs": [],
               "role": "column"
             },
             {
@@ -1926,6 +2195,7 @@
               "text": "笑肺多憂愁腎病沉吟恐懼",
               "bbox_xyxy": null,
               "note": null,
+              "unresolved_glyphs": [],
               "role": "column"
             },
             {
@@ -1933,6 +2203,7 @@
               "text": "辨味",
               "bbox_xyxy": null,
               "note": null,
+              "unresolved_glyphs": [],
               "role": "heading"
             }
           ],
@@ -1946,6 +2217,7 @@
               "text": "肝好酸",
               "bbox_xyxy": null,
               "note": "同一直欄分隔排列",
+              "unresolved_glyphs": [],
               "role": "list"
             },
             {
@@ -1953,6 +2225,7 @@
               "text": "心好苦",
               "bbox_xyxy": null,
               "note": "同一直欄分隔排列",
+              "unresolved_glyphs": [],
               "role": "list"
             },
             {
@@ -1960,6 +2233,7 @@
               "text": "肺好辛",
               "bbox_xyxy": null,
               "note": "同一直欄分隔排列",
+              "unresolved_glyphs": [],
               "role": "list"
             },
             {
@@ -1967,6 +2241,7 @@
               "text": "腎好鹹",
               "bbox_xyxy": null,
               "note": "同一直欄分隔排列",
+              "unresolved_glyphs": [],
               "role": "list"
             },
             {
@@ -1974,6 +2249,7 @@
               "text": "脾好甘",
               "bbox_xyxy": null,
               "note": "同一直欄分隔排列",
+              "unresolved_glyphs": [],
               "role": "list"
             }
           ],
@@ -1987,6 +2263,7 @@
               "text": "原夢",
               "bbox_xyxy": null,
               "note": null,
+              "unresolved_glyphs": [],
               "role": "heading"
             },
             {
@@ -1994,6 +2271,7 @@
               "text": "陽症火光明陰盛水漂流下虚夢高飛",
               "bbox_xyxy": null,
               "note": null,
+              "unresolved_glyphs": [],
               "role": "column"
             },
             {
@@ -2001,6 +2279,7 @@
               "text": "上虚夢下墜",
               "bbox_xyxy": null,
               "note": null,
+              "unresolved_glyphs": [],
               "role": "column"
             }
           ],
@@ -2045,6 +2324,7 @@
               "text": "察色死症歌",
               "bbox_xyxy": null,
               "note": null,
+              "unresolved_glyphs": [],
               "role": "heading"
             },
             {
@@ -2052,6 +2332,7 @@
               "text": "欲愈之病目皆黃",
               "bbox_xyxy": null,
               "note": null,
+              "unresolved_glyphs": [],
               "role": "line-top"
             },
             {
@@ -2059,6 +2340,7 @@
               "text": "耳目口鼻黑色起",
               "bbox_xyxy": null,
               "note": null,
+              "unresolved_glyphs": [],
               "role": "line-top"
             },
             {
@@ -2066,6 +2348,7 @@
               "text": "眼胞忽陷定知亡",
               "bbox_xyxy": null,
               "note": null,
+              "unresolved_glyphs": [],
               "role": "line-bottom"
             },
             {
@@ -2073,6 +2356,7 @@
               "text": "入口十死九難當",
               "bbox_xyxy": null,
               "note": null,
+              "unresolved_glyphs": [],
               "role": "line-bottom"
             },
             {
@@ -2080,6 +2364,7 @@
               "text": "觀五臟絕",
               "bbox_xyxy": null,
               "note": null,
+              "unresolved_glyphs": [],
               "role": "heading"
             },
             {
@@ -2087,6 +2372,7 @@
               "text": "面青腫蒼黑舌卷四肢力之泣血不止肝",
               "bbox_xyxy": null,
               "note": null,
+              "unresolved_glyphs": [],
               "role": "column"
             },
             {
@@ -2094,6 +2380,7 @@
               "text": "絕也八日命終",
               "bbox_xyxy": null,
               "note": null,
+              "unresolved_glyphs": [],
               "role": "column"
             },
             {
@@ -2101,6 +2388,7 @@
               "text": "面黑黎黃肩息直視手掌腫狂言乱語",
               "bbox_xyxy": null,
               "note": "末「語」近破損",
+              "unresolved_glyphs": [],
               "role": "column"
             }
           ],
@@ -2114,6 +2402,7 @@
               "text": "身熱心絕也一二日終",
               "bbox_xyxy": null,
               "note": null,
+              "unresolved_glyphs": [],
               "role": "column"
             },
             {
@@ -2121,6 +2410,7 @@
               "text": "臍腫滿面浮黃瀉利污衣肉腫唇反脾絕",
               "bbox_xyxy": null,
               "note": null,
+              "unresolved_glyphs": [],
               "role": "column"
             },
             {
@@ -2128,6 +2418,21 @@
               "text": "也十二{□|三}日終",
               "bbox_xyxy": null,
               "note": "「二」與「日」間有深墨與損痕，是否另字待看",
+              "unresolved_glyphs": [
+                {
+                  "raw_text_codepoint_range": [
+                    3,
+                    8
+                  ],
+                  "raw_text": "{□|三}",
+                  "raw_candidates": [
+                    "□",
+                    "三"
+                  ],
+                  "confidence": "unresolved",
+                  "note": "「二」與「日」間有深墨與損痕，是否另字待看"
+                }
+              ],
               "role": "column"
             },
             {
@@ -2135,6 +2440,7 @@
               "text": "口鼻氣出不面唇反黑似煤皮毛焦乾爪",
               "bbox_xyxy": null,
               "note": null,
+              "unresolved_glyphs": [],
               "role": "column"
             },
             {
@@ -2142,13 +2448,29 @@
               "text": "枯肺絕也三五日終",
               "bbox_xyxy": null,
               "note": null,
+              "unresolved_glyphs": [],
               "role": "column"
             },
             {
               "id": "f008-L-06",
-              "text": "面黑{薰|黧}{痛|瘡}目無光自汗如水腰折髮結腎",
+              "text": "面黑{薰|黧}痛目無光自汗如水腰折髮結腎",
               "bbox_xyxy": null,
               "note": null,
+              "unresolved_glyphs": [
+                {
+                  "raw_text_codepoint_range": [
+                    2,
+                    7
+                  ],
+                  "raw_text": "{薰|黧}",
+                  "raw_candidates": [
+                    "薰",
+                    "黧"
+                  ],
+                  "confidence": "unresolved",
+                  "note": "覆核裁決請見 proof-unit-coverage.private.json"
+                }
+              ],
               "role": "column"
             },
             {
@@ -2156,6 +2478,7 @@
               "text": "絕也四五日終",
               "bbox_xyxy": null,
               "note": null,
+              "unresolved_glyphs": [],
               "role": "column"
             }
           ],
@@ -2188,6 +2511,7 @@
               "text": "五臟病反日尅",
               "bbox_xyxy": null,
               "note": null,
+              "unresolved_glyphs": [],
               "role": "heading"
             },
             {
@@ -2195,6 +2519,7 @@
               "text": "肝怕庚辛心怕壬癸肺怕丙丁腎怕",
               "bbox_xyxy": null,
               "note": null,
+              "unresolved_glyphs": [],
               "role": "column"
             },
             {
@@ -2202,6 +2527,7 @@
               "text": "戊己脾怕甲乙",
               "bbox_xyxy": null,
               "note": null,
+              "unresolved_glyphs": [],
               "role": "column"
             },
             {
@@ -2209,6 +2535,7 @@
               "text": "病脈定生死歌",
               "bbox_xyxy": null,
               "note": null,
+              "unresolved_glyphs": [],
               "role": "heading"
             },
             {
@@ -2216,6 +2543,7 @@
               "text": "大凡看脈須看病脈病相當病易醫",
               "bbox_xyxy": null,
               "note": null,
+              "unresolved_glyphs": [],
               "role": "column"
             },
             {
@@ -2223,6 +2551,7 @@
               "text": "形病脈和人不死形和脈病死有期",
               "bbox_xyxy": null,
               "note": null,
+              "unresolved_glyphs": [],
               "role": "column"
             },
             {
@@ -2230,6 +2559,7 @@
               "text": "陰症陽脈生可許陽症陰脈死無時",
               "bbox_xyxy": null,
               "note": "末與摺縫水痕相接",
+              "unresolved_glyphs": [],
               "role": "column"
             }
           ],
@@ -2243,6 +2573,7 @@
               "text": "看病日忌",
               "bbox_xyxy": null,
               "note": null,
+              "unresolved_glyphs": [],
               "role": "heading"
             },
             {
@@ -2250,6 +2581,7 @@
               "text": "壬寅壬午連庚午甲寅乙卯己卯防",
               "bbox_xyxy": null,
               "note": "各干支間分空距",
+              "unresolved_glyphs": [],
               "role": "list"
             },
             {
@@ -2257,6 +2589,7 @@
               "text": "神仙留下此六日看人疾病替人亡",
               "bbox_xyxy": null,
               "note": null,
+              "unresolved_glyphs": [],
               "role": "column"
             },
             {
@@ -2264,6 +2597,7 @@
               "text": "算定生死",
               "bbox_xyxy": null,
               "note": null,
+              "unresolved_glyphs": [],
               "role": "heading"
             },
             {
@@ -2271,6 +2605,7 @@
               "text": "先問年甲歲數次問病月日子三因",
               "bbox_xyxy": null,
               "note": null,
+              "unresolved_glyphs": [],
               "role": "column"
             },
             {
@@ -2278,6 +2613,7 @@
               "text": "九除見安危逢三清逢六病重淹遲",
               "bbox_xyxy": null,
               "note": null,
+              "unresolved_glyphs": [],
               "role": "column"
             },
             {
@@ -2285,6 +2621,7 @@
               "text": "逢九鬼來催赴陰盧醫扁鵲亦難留",
               "bbox_xyxy": null,
               "note": null,
+              "unresolved_glyphs": [],
               "role": "column"
             }
           ],
@@ -2329,6 +2666,7 @@
               "text": "風",
               "bbox_xyxy": null,
               "note": null,
+              "unresolved_glyphs": [],
               "role": "heading"
             },
             {
@@ -2336,6 +2674,7 @@
               "text": "中風之症多般類偏枯風痱並風懿",
               "bbox_xyxy": null,
               "note": null,
+              "unresolved_glyphs": [],
               "role": "column"
             },
             {
@@ -2343,6 +2682,7 @@
               "text": "風痺四者本同宗中人心肝脾肺腎",
               "bbox_xyxy": null,
               "note": null,
+              "unresolved_glyphs": [],
               "role": "column"
             },
             {
@@ -2350,6 +2690,7 @@
               "text": "半身不隨肉頑麻不知人事昏沉睡",
               "bbox_xyxy": null,
               "note": null,
+              "unresolved_glyphs": [],
               "role": "column"
             },
             {
@@ -2357,6 +2698,7 @@
               "text": "手足抽掣痰涎壅榮衛因虚有所致",
               "bbox_xyxy": null,
               "note": null,
+              "unresolved_glyphs": [],
               "role": "column"
             },
             {
@@ -2364,6 +2706,7 @@
               "text": "治法順氣與踈風烏藥順氣當先試",
               "bbox_xyxy": null,
               "note": null,
+              "unresolved_glyphs": [],
               "role": "column"
             },
             {
@@ -2371,6 +2714,7 @@
               "text": "小續命兼排風湯甚者三生飲為良",
               "bbox_xyxy": null,
               "note": null,
+              "unresolved_glyphs": [],
               "role": "column"
             },
             {
@@ -2378,6 +2722,21 @@
               "text": "{可|□}",
               "bbox_xyxy": null,
               "note": "「兼」左緣擠寫小符，疑字留候選",
+              "unresolved_glyphs": [
+                {
+                  "raw_text_codepoint_range": [
+                    0,
+                    5
+                  ],
+                  "raw_text": "{可|□}",
+                  "raw_candidates": [
+                    "可",
+                    "□"
+                  ],
+                  "confidence": "unresolved",
+                  "note": "「兼」左緣擠寫小符，疑字留候選"
+                }
+              ],
               "role": "inline-note"
             }
           ],
@@ -2391,6 +2750,7 @@
               "text": "寒",
               "bbox_xyxy": null,
               "note": null,
+              "unresolved_glyphs": [],
               "role": "heading"
             },
             {
@@ -2398,6 +2758,7 @@
               "text": "中寒之病腎為根腎氣虚而寒易侵",
               "bbox_xyxy": null,
               "note": null,
+              "unresolved_glyphs": [],
               "role": "column"
             },
             {
@@ -2405,6 +2766,7 @@
               "text": "氣弱体虚調護失乘凉卧地也傷人",
               "bbox_xyxy": null,
               "note": null,
+              "unresolved_glyphs": [],
               "role": "column"
             },
             {
@@ -2412,6 +2774,7 @@
               "text": "四肢僵直但厥冷昏迷腹疼口失音",
               "bbox_xyxy": null,
               "note": null,
+              "unresolved_glyphs": [],
               "role": "column"
             },
             {
@@ -2419,6 +2782,7 @@
               "text": "治法之宜温散藥五積理中內湯尋",
               "bbox_xyxy": null,
               "note": null,
+              "unresolved_glyphs": [],
               "role": "column"
             },
             {
@@ -2426,6 +2790,7 @@
               "text": "暑",
               "bbox_xyxy": null,
               "note": null,
+              "unresolved_glyphs": [],
               "role": "heading"
             },
             {
@@ -2433,6 +2798,7 @@
               "text": "傷暑致出百般病人心胞絡與胃應",
               "bbox_xyxy": null,
               "note": null,
+              "unresolved_glyphs": [],
               "role": "column"
             },
             {
@@ -2440,6 +2806,7 @@
               "text": "胃氣稍虚冒暑行暑入口牙心生病",
               "bbox_xyxy": null,
               "note": null,
+              "unresolved_glyphs": [],
               "role": "column"
             }
           ],
@@ -2472,6 +2839,7 @@
               "text": "口渴心煩背悶沉或為吐瀉熱不定",
               "bbox_xyxy": null,
               "note": null,
+              "unresolved_glyphs": [],
               "role": "column"
             },
             {
@@ -2479,6 +2847,7 @@
               "text": "四肢厥冷脈微虚身体但無疼痛病",
               "bbox_xyxy": null,
               "note": null,
+              "unresolved_glyphs": [],
               "role": "column"
             },
             {
@@ -2486,6 +2855,7 @@
               "text": "驅暑和中二事先香茹五苓立堪應",
               "bbox_xyxy": null,
               "note": null,
+              "unresolved_glyphs": [],
               "role": "column"
             },
             {
@@ -2493,6 +2863,7 @@
               "text": "常服六和湯最宜外熱內寒理中正",
               "bbox_xyxy": null,
               "note": null,
+              "unresolved_glyphs": [],
               "role": "column"
             },
             {
@@ -2500,6 +2871,7 @@
               "text": "濕",
               "bbox_xyxy": null,
               "note": null,
+              "unresolved_glyphs": [],
               "role": "heading"
             },
             {
@@ -2507,6 +2879,7 @@
               "text": "問君何以知中濕染病相宜不自識",
               "bbox_xyxy": null,
               "note": null,
+              "unresolved_glyphs": [],
               "role": "column"
             },
             {
@@ -2514,6 +2887,7 @@
               "text": "非專雨水是濕根天氣地氣汗氣亦",
               "bbox_xyxy": null,
               "note": null,
+              "unresolved_glyphs": [],
               "role": "column"
             }
           ],
@@ -2527,6 +2901,7 @@
               "text": "中人身体覺沉重骨重痠麻行歩難",
               "bbox_xyxy": null,
               "note": null,
+              "unresolved_glyphs": [],
               "role": "column"
             },
             {
@@ -2534,6 +2909,7 @@
               "text": "漸加浮腫及身黃治法利便除身濕",
               "bbox_xyxy": null,
               "note": null,
+              "unresolved_glyphs": [],
               "role": "column"
             },
             {
@@ -2541,6 +2917,7 @@
               "text": "五苓除濕滲濕先加減消詳用五積",
               "bbox_xyxy": null,
               "note": null,
+              "unresolved_glyphs": [],
               "role": "column"
             },
             {
@@ -2548,6 +2925,7 @@
               "text": "又有風濕腰腿疼獨活寄生桑最奇",
               "bbox_xyxy": null,
               "note": null,
+              "unresolved_glyphs": [],
               "role": "column"
             },
             {
@@ -2555,6 +2933,7 @@
               "text": "瘧",
               "bbox_xyxy": null,
               "note": null,
+              "unresolved_glyphs": [],
               "role": "heading"
             },
             {
@@ -2562,6 +2941,7 @@
               "text": "夏傷於暑秋發瘧邪風正氣相交作",
               "bbox_xyxy": null,
               "note": null,
+              "unresolved_glyphs": [],
               "role": "column"
             },
             {
@@ -2569,6 +2949,7 @@
               "text": "又因飲食不調和生冷停痰寒熱搏",
               "bbox_xyxy": null,
               "note": null,
+              "unresolved_glyphs": [],
               "role": "column"
             }
           ],
@@ -2601,6 +2982,7 @@
               "text": "先寒後熱多有之先熱後寒亦有作",
               "bbox_xyxy": null,
               "note": null,
+              "unresolved_glyphs": [],
               "role": "column"
             },
             {
@@ -2608,6 +2990,7 @@
               "text": "一日一發為易治兩日三日難捉摸",
               "bbox_xyxy": null,
               "note": null,
+              "unresolved_glyphs": [],
               "role": "column"
             },
             {
@@ -2615,6 +2998,7 @@
               "text": "治法消痰並除暑先服柴苓湯的確",
               "bbox_xyxy": null,
               "note": null,
+              "unresolved_glyphs": [],
               "role": "column"
             },
             {
@@ -2622,6 +3006,7 @@
               "text": "次用截瘧鬼哭丹清脾飲是尋常藥",
               "bbox_xyxy": null,
               "note": null,
+              "unresolved_glyphs": [],
               "role": "column"
             },
             {
@@ -2629,6 +3014,7 @@
               "text": "霍亂吐瀉",
               "bbox_xyxy": null,
               "note": null,
+              "unresolved_glyphs": [],
               "role": "heading"
             },
             {
@@ -2636,6 +3022,7 @@
               "text": "霍亂吐瀉為何因上吐下洩脚轉筋",
               "bbox_xyxy": null,
               "note": null,
+              "unresolved_glyphs": [],
               "role": "column"
             },
             {
@@ -2643,6 +3030,7 @@
               "text": "只緣胃氣乘虚弱飲食不調原是本",
               "bbox_xyxy": null,
               "note": null,
+              "unresolved_glyphs": [],
               "role": "column"
             }
           ],
@@ -2656,6 +3044,7 @@
               "text": "日間受暑夜感寒邪氣正氣尤不分",
               "bbox_xyxy": null,
               "note": null,
+              "unresolved_glyphs": [],
               "role": "column"
             },
             {
@@ -2663,6 +3052,7 @@
               "text": "所以發而為吐瀉治療隨時要斟酌",
               "bbox_xyxy": null,
               "note": null,
+              "unresolved_glyphs": [],
               "role": "column"
             },
             {
@@ -2670,6 +3060,7 @@
               "text": "霍香正氣春冬用五積嚴寒可救人",
               "bbox_xyxy": null,
               "note": null,
+              "unresolved_glyphs": [],
               "role": "column"
             },
             {
@@ -2677,6 +3068,7 @@
               "text": "夏月霍香為要領六和秋月有靈神",
               "bbox_xyxy": null,
               "note": null,
+              "unresolved_glyphs": [],
               "role": "column"
             },
             {
@@ -2684,6 +3076,7 @@
               "text": "赤白痢疾",
               "bbox_xyxy": null,
               "note": null,
+              "unresolved_glyphs": [],
               "role": "heading"
             },
             {
@@ -2691,6 +3084,7 @@
               "text": "借問何故而成痢盖因物積並氣滯",
               "bbox_xyxy": null,
               "note": null,
+              "unresolved_glyphs": [],
               "role": "column"
             },
             {
@@ -2698,6 +3092,7 @@
               "text": "物欲出時氣不行脾胃不和飲食致",
               "bbox_xyxy": null,
               "note": null,
+              "unresolved_glyphs": [],
               "role": "column"
             }
           ],
@@ -2730,6 +3125,7 @@
               "text": "夏月過食生冷多及至秋來有如是",
               "bbox_xyxy": null,
               "note": null,
+              "unresolved_glyphs": [],
               "role": "column"
             },
             {
@@ -2737,6 +3133,7 @@
               "text": "單紅單白兼赤白醫者還從三則治",
               "bbox_xyxy": null,
               "note": null,
+              "unresolved_glyphs": [],
               "role": "column"
             },
             {
@@ -2744,6 +3141,7 @@
               "text": "單紅主熱白是冷冷熱不和成赤白",
               "bbox_xyxy": null,
               "note": null,
+              "unresolved_glyphs": [],
               "role": "column"
             },
             {
@@ -2751,6 +3149,7 @@
               "text": "紅痢解毒並香茹只殼稜莪三用得",
               "bbox_xyxy": null,
               "note": null,
+              "unresolved_glyphs": [],
               "role": "column"
             },
             {
@@ -2758,6 +3157,7 @@
               "text": "參苓白术加木香久痢不止堪可啜",
               "bbox_xyxy": null,
               "note": null,
+              "unresolved_glyphs": [],
               "role": "column"
             },
             {
@@ -2765,6 +3165,7 @@
               "text": "我有神仙換骨丹一服當先功莫測",
               "bbox_xyxy": null,
               "note": null,
+              "unresolved_glyphs": [],
               "role": "column"
             },
             {
@@ -2772,6 +3173,7 @@
               "text": "咳嗽",
               "bbox_xyxy": null,
               "note": null,
+              "unresolved_glyphs": [],
               "role": "heading"
             }
           ],
@@ -2785,13 +3187,15 @@
               "text": "肺為華盖居上膈只許清虚嫌滯塞",
               "bbox_xyxy": null,
               "note": null,
+              "unresolved_glyphs": [],
               "role": "column"
             },
             {
               "id": "f013-L-02",
-              "text": "七情四氣有一傷欬為喘又而為嗽",
+              "text": "七情四氣有一傷發為喘又而為嗽",
               "bbox_xyxy": null,
               "note": "「又」右側有微點，未判標記或雜痕",
+              "unresolved_glyphs": [],
               "role": "column"
             },
             {
@@ -2799,13 +3203,15 @@
               "text": "肺氣風寒咳痰清其聲清利無他說",
               "bbox_xyxy": null,
               "note": null,
+              "unresolved_glyphs": [],
               "role": "column"
             },
             {
               "id": "f013-L-04",
-              "text": "肺寔風熱痰稠白其聲乾燥多咽{噬|唾|嗌}",
+              "text": "肺寔風熱痰稠白其聲乾燥多咽嗌",
               "bbox_xyxy": null,
               "note": null,
+              "unresolved_glyphs": [],
               "role": "column"
             },
             {
@@ -2813,6 +3219,7 @@
               "text": "蘇沉九寶治風寒人參敗毒除風熱",
               "bbox_xyxy": null,
               "note": null,
+              "unresolved_glyphs": [],
               "role": "column"
             },
             {
@@ -2820,6 +3227,7 @@
               "text": "四季參蘇飲可兼天秋金沸稱奇絕",
               "bbox_xyxy": null,
               "note": null,
+              "unresolved_glyphs": [],
               "role": "column"
             },
             {
@@ -2827,6 +3235,7 @@
               "text": "肺痿咯血甘桔湯加上黃連真秘訣",
               "bbox_xyxy": null,
               "note": null,
+              "unresolved_glyphs": [],
               "role": "column"
             }
           ],
@@ -2859,27 +3268,46 @@
               "text": "宿食",
               "bbox_xyxy": null,
               "note": null,
+              "unresolved_glyphs": [],
               "role": "heading"
             },
             {
               "id": "f014-R-02",
-              "text": "宿食謂何不克消只因体虚脾胃弱",
+              "text": "宿食謂何不克消只因躰虚脾胃弱",
               "bbox_xyxy": null,
               "note": null,
+              "unresolved_glyphs": [],
               "role": "column"
             },
             {
               "id": "f014-R-03",
-              "text": "最怕過{食|滄}飲生冷遂成積滯不停調",
+              "text": "最怕過湌飲生冷遂成積滯不停調",
               "bbox_xyxy": null,
               "note": null,
+              "unresolved_glyphs": [],
               "role": "column"
             },
             {
               "id": "f014-R-04",
-              "text": "吞酸嘔惡並{噯|噎}噫胸滿氣膈或熱潮",
+              "text": "吞酸嘔惡並{噯|噎|噫}噫胸滿氣膈或熱潮",
               "bbox_xyxy": null,
               "note": null,
+              "unresolved_glyphs": [
+                {
+                  "raw_text_codepoint_range": [
+                    5,
+                    12
+                  ],
+                  "raw_text": "{噯|噎|噫}",
+                  "raw_candidates": [
+                    "噯",
+                    "噎",
+                    "噫"
+                  ],
+                  "confidence": "unresolved",
+                  "note": "覆核裁決請見 proof-unit-coverage.private.json"
+                }
+              ],
               "role": "column"
             },
             {
@@ -2887,6 +3315,7 @@
               "text": "或秘或利無比對或有頭疼等樣症",
               "bbox_xyxy": null,
               "note": null,
+              "unresolved_glyphs": [],
               "role": "column"
             },
             {
@@ -2894,13 +3323,29 @@
               "text": "醫治之法甚容易量人虚寔用藥高",
               "bbox_xyxy": null,
               "note": null,
+              "unresolved_glyphs": [],
               "role": "column"
             },
             {
               "id": "f014-R-07",
-              "text": "輕者三稜紅丸子重則大黃蒔伴交",
+              "text": "輕者三稜紅丸子重則大黃{芍|蒔}伴交",
               "bbox_xyxy": null,
               "note": "「黃」下蒔字候讀",
+              "unresolved_glyphs": [
+                {
+                  "raw_text_codepoint_range": [
+                    11,
+                    16
+                  ],
+                  "raw_text": "{芍|蒔}",
+                  "raw_candidates": [
+                    "芍",
+                    "蒔"
+                  ],
+                  "confidence": "unresolved",
+                  "note": "覆核裁決請見 proof-unit-coverage.private.json"
+                }
+              ],
               "role": "column"
             }
           ],
@@ -2914,6 +3359,7 @@
               "text": "虚寒脾積並感應寔熱神芎黑丸調",
               "bbox_xyxy": null,
               "note": null,
+              "unresolved_glyphs": [],
               "role": "column"
             },
             {
@@ -2921,6 +3367,7 @@
               "text": "但能依此數件用不必尋方把心操",
               "bbox_xyxy": null,
               "note": null,
+              "unresolved_glyphs": [],
               "role": "column"
             },
             {
@@ -2928,6 +3375,7 @@
               "text": "水腫",
               "bbox_xyxy": null,
               "note": null,
+              "unresolved_glyphs": [],
               "role": "heading"
             },
             {
@@ -2935,6 +3383,7 @@
               "text": "水腫之病出乎脾時醫不識亂猜疑",
               "bbox_xyxy": null,
               "note": null,
+              "unresolved_glyphs": [],
               "role": "column"
             },
             {
@@ -2942,13 +3391,15 @@
               "text": "腎水脾土兩要固脾土一虧水無圍",
               "bbox_xyxy": null,
               "note": null,
+              "unresolved_glyphs": [],
               "role": "column"
             },
             {
               "id": "f014-L-06",
-              "text": "泛濫{逬|逆}流四肢去令人浮腫黃光輝",
+              "text": "泛濫迸流四肢去令人浮腫黃光輝",
               "bbox_xyxy": null,
               "note": null,
+              "unresolved_glyphs": [],
               "role": "column"
             },
             {
@@ -2956,6 +3407,7 @@
               "text": "風腫氣腫並血腫陽水陰也要知水",
               "bbox_xyxy": null,
               "note": null,
+              "unresolved_glyphs": [],
               "role": "column"
             },
             {
@@ -2963,6 +3415,7 @@
               "text": "水",
               "bbox_xyxy": null,
               "note": "在「陰」「也」間偏右，版面可支持補注，初錄維持物理位置",
+              "unresolved_glyphs": [],
               "role": "inline-note"
             }
           ],
@@ -2995,6 +3448,7 @@
               "text": "風腫走注皮麻木氣腫隨氣消長之",
               "bbox_xyxy": null,
               "note": null,
+              "unresolved_glyphs": [],
               "role": "column"
             },
             {
@@ -3002,6 +3456,7 @@
               "text": "血腫之病如何識皮間赤腫血痕見",
               "bbox_xyxy": null,
               "note": null,
+              "unresolved_glyphs": [],
               "role": "column"
             },
             {
@@ -3009,6 +3464,7 @@
               "text": "陽水身熱陰水冷利水和脾搃治之",
               "bbox_xyxy": null,
               "note": null,
+              "unresolved_glyphs": [],
               "role": "column"
             },
             {
@@ -3016,6 +3472,7 @@
               "text": "木香流氣除三腫甚者當先用利宜",
               "bbox_xyxy": null,
               "note": null,
+              "unresolved_glyphs": [],
               "role": "column"
             },
             {
@@ -3023,13 +3480,15 @@
               "text": "陽水身熱八正散陰水身凉五苓奇",
               "bbox_xyxy": null,
               "note": null,
+              "unresolved_glyphs": [],
               "role": "column"
             },
             {
               "id": "f015-R-06",
-              "text": "水腫通用牛黃散香平散予世間稀",
+              "text": "水腫通用牛黃散香平散子世間稀",
               "bbox_xyxy": null,
               "note": null,
+              "unresolved_glyphs": [],
               "role": "column"
             },
             {
@@ -3037,6 +3496,7 @@
               "text": "七診",
               "bbox_xyxy": null,
               "note": null,
+              "unresolved_glyphs": [],
               "role": "heading"
             }
           ],
@@ -3050,6 +3510,7 @@
               "text": "凡與人診脈一定心二氣三安神四",
               "bbox_xyxy": null,
               "note": null,
+              "unresolved_glyphs": [],
               "role": "column"
             },
             {
@@ -3057,6 +3518,7 @@
               "text": "定",
               "bbox_xyxy": null,
               "note": "在二下，小字介於二、氣之間",
+              "unresolved_glyphs": [],
               "role": "inline-note"
             },
             {
@@ -3064,6 +3526,7 @@
               "text": "勿傍視五勿別思六勿言七閉目",
               "bbox_xyxy": null,
               "note": null,
+              "unresolved_glyphs": [],
               "role": "column"
             },
             {
@@ -3071,6 +3534,7 @@
               "text": "九候",
               "bbox_xyxy": null,
               "note": null,
+              "unresolved_glyphs": [],
               "role": "heading"
             },
             {
@@ -3078,6 +3542,7 @@
               "text": "寸關尺三部各有浮中沉為之九候",
               "bbox_xyxy": null,
               "note": null,
+              "unresolved_glyphs": [],
               "role": "column"
             },
             {
@@ -3085,6 +3550,7 @@
               "text": "診法",
               "bbox_xyxy": null,
               "note": null,
+              "unresolved_glyphs": [],
               "role": "heading"
             },
             {
@@ -3092,6 +3558,7 @@
               "text": "診他人之脈在我鼻中定氣一吸一",
               "bbox_xyxy": null,
               "note": null,
+              "unresolved_glyphs": [],
               "role": "column"
             },
             {
@@ -3099,6 +3566,21 @@
               "text": "呼為一息雖曰一息四至號平和{兮|云}",
               "bbox_xyxy": null,
               "note": null,
+              "unresolved_glyphs": [
+                {
+                  "raw_text_codepoint_range": [
+                    13,
+                    18
+                  ],
+                  "raw_text": "{兮|云}",
+                  "raw_candidates": [
+                    "兮",
+                    "云"
+                  ],
+                  "confidence": "unresolved",
+                  "note": null
+                }
+              ],
               "role": "column"
             }
           ],
@@ -3165,6 +3647,7 @@
               "text": "為不及人有五臟一至關乎一臟五",
               "bbox_xyxy": null,
               "note": null,
+              "unresolved_glyphs": [],
               "role": "column"
             },
             {
@@ -3172,6 +3655,7 @@
               "text": "至是理一息之氣一二三至脈沉遲",
               "bbox_xyxy": null,
               "note": null,
+              "unresolved_glyphs": [],
               "role": "column"
             },
             {
@@ -3179,6 +3663,7 @@
               "text": "也此是陰寒冷裏症也六七八至脈",
               "bbox_xyxy": null,
               "note": null,
+              "unresolved_glyphs": [],
               "role": "column"
             },
             {
@@ -3186,6 +3671,7 @@
               "text": "浮洪而數此是熱風表症也歌曰熱",
               "bbox_xyxy": null,
               "note": null,
+              "unresolved_glyphs": [],
               "role": "column"
             },
             {
@@ -3193,6 +3679,7 @@
               "text": "則生風冷氣用心指下叮嚀記",
               "bbox_xyxy": null,
               "note": null,
+              "unresolved_glyphs": [],
               "role": "column"
             },
             {
@@ -3200,6 +3687,7 @@
               "text": "生",
               "bbox_xyxy": null,
               "note": "在「冷」「氣」之間右側",
+              "unresolved_glyphs": [],
               "role": "inline-note"
             },
             {
@@ -3207,6 +3695,7 @@
               "text": "寸關尺說",
               "bbox_xyxy": null,
               "note": null,
+              "unresolved_glyphs": [],
               "role": "heading"
             },
             {
@@ -3214,6 +3703,7 @@
               "text": "自高骨至人迎一寸管上焦頭面咽",
               "bbox_xyxy": null,
               "note": null,
+              "unresolved_glyphs": [],
               "role": "column"
             }
           ],
@@ -3227,6 +3717,7 @@
               "text": "膈關者上下陰陽兩分管中焦肚腹",
               "bbox_xyxy": null,
               "note": null,
+              "unresolved_glyphs": [],
               "role": "column"
             },
             {
@@ -3234,6 +3725,7 @@
               "text": "兩脇尺者進尺澤一尺也管下焦小",
               "bbox_xyxy": null,
               "note": null,
+              "unresolved_glyphs": [],
               "role": "column"
             },
             {
@@ -3241,6 +3733,7 @@
               "text": "腹腿足也",
               "bbox_xyxy": null,
               "note": null,
+              "unresolved_glyphs": [],
               "role": "column"
             },
             {
@@ -3248,6 +3741,7 @@
               "text": "男主寸女主尺左男右女",
               "bbox_xyxy": null,
               "note": null,
+              "unresolved_glyphs": [],
               "role": "list"
             }
           ],
@@ -3261,6 +3755,7 @@
               "text": "左合",
               "bbox_xyxy": null,
               "note": null,
+              "unresolved_glyphs": [],
               "role": "table-label"
             },
             {
@@ -3268,6 +3763,7 @@
               "text": "寸",
               "bbox_xyxy": null,
               "note": "大字「左合」正下，位在接下來四窄欄上方",
+              "unresolved_glyphs": [],
               "role": "table-label"
             },
             {
@@ -3275,6 +3771,7 @@
               "text": "人迎君火",
               "bbox_xyxy": null,
               "note": null,
+              "unresolved_glyphs": [],
               "role": "table-subcolumn"
             },
             {
@@ -3282,6 +3779,7 @@
               "text": "手太陽小腸",
               "bbox_xyxy": null,
               "note": null,
+              "unresolved_glyphs": [],
               "role": "table-subcolumn"
             },
             {
@@ -3289,6 +3787,7 @@
               "text": "手少陰心經",
               "bbox_xyxy": null,
               "note": null,
+              "unresolved_glyphs": [],
               "role": "table-subcolumn"
             },
             {
@@ -3296,6 +3795,7 @@
               "text": "丙丁火脈洪",
               "bbox_xyxy": null,
               "note": null,
+              "unresolved_glyphs": [],
               "role": "table-subcolumn"
             }
           ],
@@ -3309,6 +3809,7 @@
               "text": "左關",
               "bbox_xyxy": null,
               "note": null,
+              "unresolved_glyphs": [],
               "role": "table-label"
             },
             {
@@ -3316,13 +3817,15 @@
               "text": "血海風木",
               "bbox_xyxy": null,
               "note": null,
+              "unresolved_glyphs": [],
               "role": "table-subcolumn"
             },
             {
               "id": "f016-L關-03",
-              "text": "足少陽膽",
+              "text": "足少陽胆",
               "bbox_xyxy": null,
               "note": null,
+              "unresolved_glyphs": [],
               "role": "table-subcolumn"
             },
             {
@@ -3330,6 +3833,7 @@
               "text": "足厥陰肝",
               "bbox_xyxy": null,
               "note": null,
+              "unresolved_glyphs": [],
               "role": "table-subcolumn"
             },
             {
@@ -3337,6 +3841,7 @@
               "text": "甲乙木脈",
               "bbox_xyxy": null,
               "note": null,
+              "unresolved_glyphs": [],
               "role": "table-subcolumn"
             },
             {
@@ -3344,6 +3849,7 @@
               "text": "弦長也",
               "bbox_xyxy": null,
               "note": null,
+              "unresolved_glyphs": [],
               "role": "table-subcolumn"
             }
           ],
@@ -3357,6 +3863,7 @@
               "text": "左尺",
               "bbox_xyxy": null,
               "note": null,
+              "unresolved_glyphs": [],
               "role": "table-label"
             },
             {
@@ -3364,6 +3871,7 @@
               "text": "寒水壬癸水",
               "bbox_xyxy": null,
               "note": null,
+              "unresolved_glyphs": [],
               "role": "table-subcolumn"
             },
             {
@@ -3371,6 +3879,7 @@
               "text": "足太陽膀胱",
               "bbox_xyxy": null,
               "note": null,
+              "unresolved_glyphs": [],
               "role": "table-subcolumn"
             },
             {
@@ -3378,6 +3887,7 @@
               "text": "足少陰腎經",
               "bbox_xyxy": null,
               "note": null,
+              "unresolved_glyphs": [],
               "role": "table-subcolumn"
             },
             {
@@ -3385,6 +3895,7 @@
               "text": "其脈沉石也",
               "bbox_xyxy": null,
               "note": null,
+              "unresolved_glyphs": [],
               "role": "table-subcolumn"
             },
             {
@@ -3392,6 +3903,7 @@
               "text": "男主左",
               "bbox_xyxy": null,
               "note": "下段獨占短欄",
+              "unresolved_glyphs": [],
               "role": "list"
             }
           ],
@@ -3469,6 +3981,7 @@
               "text": "右合",
               "bbox_xyxy": null,
               "note": null,
+              "unresolved_glyphs": [],
               "role": "table-label"
             },
             {
@@ -3476,6 +3989,7 @@
               "text": "寸",
               "bbox_xyxy": null,
               "note": "「右合」下有相同次級標記",
+              "unresolved_glyphs": [],
               "role": "table-label"
             },
             {
@@ -3483,6 +3997,7 @@
               "text": "氣口燥金",
               "bbox_xyxy": null,
               "note": null,
+              "unresolved_glyphs": [],
               "role": "table-subcolumn"
             },
             {
@@ -3490,6 +4005,7 @@
               "text": "手太陰肺經",
               "bbox_xyxy": null,
               "note": null,
+              "unresolved_glyphs": [],
               "role": "table-subcolumn"
             },
             {
@@ -3497,6 +4013,7 @@
               "text": "手陽明大腸",
               "bbox_xyxy": null,
               "note": null,
+              "unresolved_glyphs": [],
               "role": "table-subcolumn"
             },
             {
@@ -3504,6 +4021,7 @@
               "text": "庚辛金脈濇",
               "bbox_xyxy": null,
               "note": null,
+              "unresolved_glyphs": [],
               "role": "table-subcolumn"
             }
           ],
@@ -3517,6 +4035,7 @@
               "text": "右關",
               "bbox_xyxy": null,
               "note": null,
+              "unresolved_glyphs": [],
               "role": "table-label"
             },
             {
@@ -3524,6 +4043,7 @@
               "text": "濕土",
               "bbox_xyxy": null,
               "note": null,
+              "unresolved_glyphs": [],
               "role": "table-subcolumn"
             },
             {
@@ -3531,6 +4051,7 @@
               "text": "足太陰脾",
               "bbox_xyxy": null,
               "note": null,
+              "unresolved_glyphs": [],
               "role": "table-subcolumn"
             },
             {
@@ -3538,6 +4059,7 @@
               "text": "足陽明胃",
               "bbox_xyxy": null,
               "note": null,
+              "unresolved_glyphs": [],
               "role": "table-subcolumn"
             },
             {
@@ -3545,6 +4067,7 @@
               "text": "戊己土脈緩",
               "bbox_xyxy": null,
               "note": null,
+              "unresolved_glyphs": [],
               "role": "table-subcolumn"
             }
           ],
@@ -3558,6 +4081,7 @@
               "text": "右尺",
               "bbox_xyxy": null,
               "note": null,
+              "unresolved_glyphs": [],
               "role": "table-label"
             },
             {
@@ -3565,6 +4089,7 @@
               "text": "相火雷火",
               "bbox_xyxy": null,
               "note": null,
+              "unresolved_glyphs": [],
               "role": "table-subcolumn"
             },
             {
@@ -3572,6 +4097,7 @@
               "text": "手厥陰胞絡",
               "bbox_xyxy": null,
               "note": null,
+              "unresolved_glyphs": [],
               "role": "table-subcolumn"
             },
             {
@@ -3579,6 +4105,7 @@
               "text": "手少陽三焦",
               "bbox_xyxy": null,
               "note": null,
+              "unresolved_glyphs": [],
               "role": "table-subcolumn"
             },
             {
@@ -3586,6 +4113,7 @@
               "text": "其脈洪也",
               "bbox_xyxy": null,
               "note": null,
+              "unresolved_glyphs": [],
               "role": "table-subcolumn"
             },
             {
@@ -3593,6 +4121,7 @@
               "text": "女主右",
               "bbox_xyxy": null,
               "note": "下段獨占短欄",
+              "unresolved_glyphs": [],
               "role": "list"
             }
           ],
@@ -3606,6 +4135,7 @@
               "text": "陰陽說",
               "bbox_xyxy": null,
               "note": null,
+              "unresolved_glyphs": [],
               "role": "heading"
             },
             {
@@ -3613,6 +4143,7 @@
               "text": "陰者蔭也氣在內而奧蔭也正陰為",
               "bbox_xyxy": null,
               "note": null,
+              "unresolved_glyphs": [],
               "role": "column"
             },
             {
@@ -3620,6 +4151,7 @@
               "text": "太陰陰氣次之為少陰兩陰交盡為",
               "bbox_xyxy": null,
               "note": null,
+              "unresolved_glyphs": [],
               "role": "column"
             },
             {
@@ -3627,6 +4159,7 @@
               "text": "厥陰陽者揚也氣在外而發陽也正",
               "bbox_xyxy": null,
               "note": null,
+              "unresolved_glyphs": [],
               "role": "column"
             }
           ],
@@ -3640,6 +4173,7 @@
               "text": "陽為太陽陽氣次之為少陽兩陽相",
               "bbox_xyxy": null,
               "note": null,
+              "unresolved_glyphs": [],
               "role": "column"
             },
             {
@@ -3647,6 +4181,7 @@
               "text": "合為陽明",
               "bbox_xyxy": null,
               "note": null,
+              "unresolved_glyphs": [],
               "role": "column"
             },
             {
@@ -3654,6 +4189,7 @@
               "text": "傷寒傳足經不傳手經說",
               "bbox_xyxy": null,
               "note": null,
+              "unresolved_glyphs": [],
               "role": "heading"
             },
             {
@@ -3661,6 +4197,7 @@
               "text": "不傳者三陰不上頭目也頭乃六陽",
               "bbox_xyxy": null,
               "note": null,
+              "unresolved_glyphs": [],
               "role": "column"
             },
             {
@@ -3668,6 +4205,7 @@
               "text": "之首微陰不能勝其太陽所以三陰",
               "bbox_xyxy": null,
               "note": null,
+              "unresolved_glyphs": [],
               "role": "column"
             },
             {
@@ -3675,6 +4213,7 @@
               "text": "傷寒頭疼者鮮矣",
               "bbox_xyxy": null,
               "note": null,
+              "unresolved_glyphs": [],
               "role": "column"
             },
             {
@@ -3682,6 +4221,7 @@
               "text": "四時正氣歌",
               "bbox_xyxy": null,
               "note": null,
+              "unresolved_glyphs": [],
               "role": "heading"
             }
           ],
@@ -3695,6 +4235,7 @@
               "text": "○",
               "bbox_xyxy": null,
               "note": "左上未與文字相接的墨圈",
+              "unresolved_glyphs": [],
               "role": "mark"
             }
           ],
@@ -3727,6 +4268,7 @@
               "text": "春弦肝脈夏洪心秋浮屬肺腎冬沉",
               "bbox_xyxy": null,
               "note": null,
+              "unresolved_glyphs": [],
               "role": "column"
             },
             {
@@ -3734,6 +4276,7 @@
               "text": "惟有緩脈居四季各旺一十八日尋",
               "bbox_xyxy": null,
               "note": null,
+              "unresolved_glyphs": [],
               "role": "column"
             },
             {
@@ -3741,6 +4284,7 @@
               "text": "六經本脈歌",
               "bbox_xyxy": null,
               "note": null,
+              "unresolved_glyphs": [],
               "role": "heading"
             },
             {
@@ -3748,13 +4292,15 @@
               "text": "浮脈為表太陽經陽明屬胃脈長宗",
               "bbox_xyxy": null,
               "note": null,
+              "unresolved_glyphs": [],
               "role": "column"
             },
             {
               "id": "f018-R-05",
-              "text": "膽為少陽弦脈是太陰屬土細而沉",
+              "text": "胆為少陽弦脈是太陰屬土細而沉",
               "bbox_xyxy": null,
               "note": null,
+              "unresolved_glyphs": [],
               "role": "column"
             },
             {
@@ -3762,6 +4308,7 @@
               "text": "惟有少陰沉咽痛厥陰囊縮現微沉",
               "bbox_xyxy": null,
               "note": null,
+              "unresolved_glyphs": [],
               "role": "column"
             },
             {
@@ -3769,6 +4316,7 @@
               "text": "識得六經本病脈醫家至此道通神",
               "bbox_xyxy": null,
               "note": null,
+              "unresolved_glyphs": [],
               "role": "column"
             }
           ],
@@ -3782,6 +4330,7 @@
               "text": "四病脈歌",
               "bbox_xyxy": null,
               "note": null,
+              "unresolved_glyphs": [],
               "role": "heading"
             },
             {
@@ -3789,6 +4338,7 @@
               "text": "浮脈為陽表在經諸沉為裏痛為陰",
               "bbox_xyxy": null,
               "note": null,
+              "unresolved_glyphs": [],
               "role": "column"
             },
             {
@@ -3796,6 +4346,7 @@
               "text": "遲則為寒病在臟數為諸熱中腑侵",
               "bbox_xyxy": null,
               "note": "「中」「腑」右近有小痕，各自筆形未定",
+              "unresolved_glyphs": [],
               "role": "column"
             },
             {
@@ -3803,6 +4354,7 @@
               "text": "二十四脈總歸浮沉遲數歌",
               "bbox_xyxy": null,
               "note": null,
+              "unresolved_glyphs": [],
               "role": "heading"
             },
             {
@@ -3810,6 +4362,7 @@
               "text": "浮沉遲數脈之宗風寒冷熱主其中",
               "bbox_xyxy": null,
               "note": null,
+              "unresolved_glyphs": [],
               "role": "column"
             },
             {
@@ -3817,6 +4370,7 @@
               "text": "浮而有力當風斷或弱無力作虚称",
               "bbox_xyxy": null,
               "note": null,
+              "unresolved_glyphs": [],
               "role": "column"
             },
             {
@@ -3824,6 +4378,7 @@
               "text": "沉而有力為積聚無力厥逆氣相侵",
               "bbox_xyxy": null,
               "note": null,
+              "unresolved_glyphs": [],
               "role": "column"
             }
           ],
@@ -3856,6 +4411,7 @@
               "text": "遲而有力心寒痛無力腹內冷虚病",
               "bbox_xyxy": null,
               "note": null,
+              "unresolved_glyphs": [],
               "role": "column"
             },
             {
@@ -3863,6 +4419,7 @@
               "text": "數而有力為寔熱假若無力瘡瘍症",
               "bbox_xyxy": null,
               "note": null,
+              "unresolved_glyphs": [],
               "role": "column"
             },
             {
@@ -3870,6 +4427,7 @@
               "text": "浮脈",
               "bbox_xyxy": null,
               "note": null,
+              "unresolved_glyphs": [],
               "role": "heading"
             },
             {
@@ -3877,6 +4435,7 @@
               "text": "浮脈若居兩寸間肺風咳嗽喘促難",
               "bbox_xyxy": null,
               "note": null,
+              "unresolved_glyphs": [],
               "role": "column"
             },
             {
@@ -3884,6 +4443,7 @@
               "text": "吐咯膿血兼便秘心驚舌強語狂言",
               "bbox_xyxy": null,
               "note": null,
+              "unresolved_glyphs": [],
               "role": "column"
             },
             {
@@ -3891,13 +4451,30 @@
               "text": "浮到關中瀉泄頻上氣喘急飲食{臌|懶|餒}",
               "bbox_xyxy": null,
               "note": null,
+              "unresolved_glyphs": [
+                {
+                  "raw_text_codepoint_range": [
+                    13,
+                    20
+                  ],
+                  "raw_text": "{臌|懶|餒}",
+                  "raw_candidates": [
+                    "臌",
+                    "懶",
+                    "餒"
+                  ],
+                  "confidence": "unresolved",
+                  "note": null
+                }
+              ],
               "role": "column"
             },
             {
               "id": "f019-R-07",
-              "text": "風痺麻木筋攣縮腸風腰痛與身疼",
+              "text": "風癱麻木筋攣縮腸風腰痛與身疼",
               "bbox_xyxy": null,
               "note": null,
+              "unresolved_glyphs": [],
               "role": "column"
             }
           ],
@@ -3908,9 +4485,24 @@
           "units": [
             {
               "id": "f019-L-01",
-              "text": "浮臨左尺小腸殃腰痛足痛大便強",
+              "text": "浮臨左尺小腸{疦|疚}腰痛足痛大便強",
               "bbox_xyxy": null,
               "note": null,
+              "unresolved_glyphs": [
+                {
+                  "raw_text_codepoint_range": [
+                    6,
+                    11
+                  ],
+                  "raw_text": "{疦|疚}",
+                  "raw_candidates": [
+                    "疦",
+                    "疚"
+                  ],
+                  "confidence": "unresolved",
+                  "note": "覆核裁決請見 proof-unit-coverage.private.json"
+                }
+              ],
               "role": "column"
             },
             {
@@ -3918,6 +4510,7 @@
               "text": "腎虚膝腫痠麻木腿腫乏力又生瘡",
               "bbox_xyxy": null,
               "note": null,
+              "unresolved_glyphs": [],
               "role": "column"
             },
             {
@@ -3925,6 +4518,7 @@
               "text": "沉脈",
               "bbox_xyxy": null,
               "note": null,
+              "unresolved_glyphs": [],
               "role": "heading"
             },
             {
@@ -3932,20 +4526,37 @@
               "text": "沉脈居於寸部寒胸{臌|鼓}喘嗽飲食翻",
               "bbox_xyxy": null,
               "note": null,
+              "unresolved_glyphs": [
+                {
+                  "raw_text_codepoint_range": [
+                    8,
+                    13
+                  ],
+                  "raw_text": "{臌|鼓}",
+                  "raw_candidates": [
+                    "臌",
+                    "鼓"
+                  ],
+                  "confidence": "unresolved",
+                  "note": null
+                }
+              ],
               "role": "column"
             },
             {
               "id": "f019-L-05",
-              "text": "膈氣痰多兼嘔血尿{驟|騎}無寢小便難",
+              "text": "膈氣痰多兼嘔血尿駛無寢小便難",
               "bbox_xyxy": null,
               "note": null,
+              "unresolved_glyphs": [],
               "role": "column"
             },
             {
               "id": "f019-L-06",
-              "text": "關脈沉兮腹虚鳴{疳|痞}氣少食怒生嗔",
+              "text": "關脈沉兮腹虚鳴痞氣少食怒生嗔",
               "bbox_xyxy": null,
               "note": null,
+              "unresolved_glyphs": [],
               "role": "column"
             },
             {
@@ -3953,6 +4564,7 @@
               "text": "心腹脇痛吐紅洩手足痿痺最難任",
               "bbox_xyxy": null,
               "note": null,
+              "unresolved_glyphs": [],
               "role": "column"
             }
           ],
@@ -3985,13 +4597,15 @@
               "text": "尺部脈沉氣滯腰小便淋閉脹難消",
               "bbox_xyxy": null,
               "note": null,
+              "unresolved_glyphs": [],
               "role": "column"
             },
             {
               "id": "f020-R-02",
-              "text": "陰癲足腫疝氣欬足腫麻木不相饒",
+              "text": "陰癲足腫疝氣發足腫麻木不相饒",
               "bbox_xyxy": null,
               "note": null,
+              "unresolved_glyphs": [],
               "role": "column"
             },
             {
@@ -3999,13 +4613,15 @@
               "text": "遲脈",
               "bbox_xyxy": null,
               "note": null,
+              "unresolved_glyphs": [],
               "role": "heading"
             },
             {
               "id": "f020-R-04",
-              "text": "寸部脈遲心氣寒吐逆咳嗽飲{漿|水}難",
+              "text": "寸部脈遲心氣寒吐逆咳嗽飲漿難",
               "bbox_xyxy": null,
               "note": null,
+              "unresolved_glyphs": [],
               "role": "column"
             },
             {
@@ -4013,6 +4629,7 @@
               "text": "虚汗腹腫小便數痞膈怔忡患伏梁",
               "bbox_xyxy": null,
               "note": null,
+              "unresolved_glyphs": [],
               "role": "column"
             },
             {
@@ -4020,6 +4637,7 @@
               "text": "遲脈急急到關中痞痰虫疼食上壅",
               "bbox_xyxy": null,
               "note": null,
+              "unresolved_glyphs": [],
               "role": "column"
             },
             {
@@ -4027,6 +4645,7 @@
               "text": "下泄痰嗽筋攣縮霍乱麻木多悸驚",
               "bbox_xyxy": null,
               "note": null,
+              "unresolved_glyphs": [],
               "role": "column"
             }
           ],
@@ -4040,6 +4659,7 @@
               "text": "尺下遲遲外腎偏小便頻數滑精元",
               "bbox_xyxy": null,
               "note": null,
+              "unresolved_glyphs": [],
               "role": "column"
             },
             {
@@ -4047,6 +4667,7 @@
               "text": "臍腫軟痛陰溢汗大便溏泄豈謬言",
               "bbox_xyxy": null,
               "note": null,
+              "unresolved_glyphs": [],
               "role": "column"
             },
             {
@@ -4054,6 +4675,7 @@
               "text": "數脈",
               "bbox_xyxy": null,
               "note": null,
+              "unresolved_glyphs": [],
               "role": "heading"
             },
             {
@@ -4061,13 +4683,30 @@
               "text": "數脈為熱寸口邊頭目咽痛又狂言",
               "bbox_xyxy": null,
               "note": null,
+              "unresolved_glyphs": [],
               "role": "column"
             },
             {
               "id": "f020-L-05",
-              "text": "嗽血煩{喝|渴}大腸擁小便{驟|騎}濇條苗連",
+              "text": "嗽血煩喝大腸{擁|穢|□}小便駛瀝條苗連",
               "bbox_xyxy": null,
               "note": null,
+              "unresolved_glyphs": [
+                {
+                  "raw_text_codepoint_range": [
+                    6,
+                    13
+                  ],
+                  "raw_text": "{擁|穢|□}",
+                  "raw_candidates": [
+                    "擁",
+                    "穢",
+                    "□"
+                  ],
+                  "confidence": "unresolved",
+                  "note": "覆核裁決請見 proof-unit-coverage.private.json"
+                }
+              ],
               "role": "column"
             },
             {
@@ -4075,6 +4714,7 @@
               "text": "數",
               "bbox_xyxy": null,
               "note": "直欄「臨」上，字級較小，與大字連接待考",
+              "unresolved_glyphs": [],
               "role": "inline-note"
             },
             {
@@ -4082,13 +4722,15 @@
               "text": "臨脈臨關霍乱煩口苦乾渴並胃翻",
               "bbox_xyxy": null,
               "note": null,
+              "unresolved_glyphs": [],
               "role": "column"
             },
             {
               "id": "f020-L-07",
-              "text": "肝經受熱通兩目不膽氣也傷残然",
+              "text": "肝經受熱通兩目不胆氣也傷残然",
               "bbox_xyxy": null,
               "note": null,
+              "unresolved_glyphs": [],
               "role": "column"
             },
             {
@@ -4096,6 +4738,7 @@
               "text": "然",
               "bbox_xyxy": null,
               "note": "小字在「不」「膽」之間",
+              "unresolved_glyphs": [],
               "role": "inline-note"
             }
           ],
@@ -4239,6 +4882,7 @@
               "text": "尺脈數兮腎主壅口乾消渴不暫停",
               "bbox_xyxy": null,
               "note": null,
+              "unresolved_glyphs": [],
               "role": "column"
             },
             {
@@ -4246,6 +4890,7 @@
               "text": "小便赤閉陰濕痒大便熱秘更難通",
               "bbox_xyxy": null,
               "note": null,
+              "unresolved_glyphs": [],
               "role": "column"
             },
             {
@@ -4253,6 +4898,7 @@
               "text": "傷寒門此八脈也",
               "bbox_xyxy": null,
               "note": null,
+              "unresolved_glyphs": [],
               "role": "heading"
             }
           ],
@@ -4266,6 +4912,7 @@
               "text": "浮",
               "bbox_xyxy": null,
               "note": null,
+              "unresolved_glyphs": [],
               "role": "table-label"
             },
             {
@@ -4273,6 +4920,7 @@
               "text": "中風病在表",
               "bbox_xyxy": null,
               "note": "右",
+              "unresolved_glyphs": [],
               "role": "table-subcolumn"
             },
             {
@@ -4280,6 +4928,7 @@
               "text": "為陽",
               "bbox_xyxy": null,
               "note": "左",
+              "unresolved_glyphs": [],
               "role": "table-subcolumn"
             }
           ],
@@ -4293,6 +4942,7 @@
               "text": "沉",
               "bbox_xyxy": null,
               "note": null,
+              "unresolved_glyphs": [],
               "role": "table-label"
             },
             {
@@ -4300,6 +4950,7 @@
               "text": "食積病裏",
               "bbox_xyxy": null,
               "note": "右",
+              "unresolved_glyphs": [],
               "role": "table-subcolumn"
             },
             {
@@ -4307,6 +4958,7 @@
               "text": "為陰",
               "bbox_xyxy": null,
               "note": "左",
+              "unresolved_glyphs": [],
               "role": "table-subcolumn"
             }
           ],
@@ -4320,6 +4972,7 @@
               "text": "遲",
               "bbox_xyxy": null,
               "note": null,
+              "unresolved_glyphs": [],
               "role": "table-label"
             },
             {
@@ -4327,6 +4980,7 @@
               "text": "中寒虚冷",
               "bbox_xyxy": null,
               "note": "右",
+              "unresolved_glyphs": [],
               "role": "table-subcolumn"
             },
             {
@@ -4334,6 +4988,7 @@
               "text": "病腑為陰",
               "bbox_xyxy": null,
               "note": "左",
+              "unresolved_glyphs": [],
               "role": "table-subcolumn"
             }
           ],
@@ -4347,6 +5002,7 @@
               "text": "數",
               "bbox_xyxy": null,
               "note": null,
+              "unresolved_glyphs": [],
               "role": "table-label"
             },
             {
@@ -4354,6 +5010,7 @@
               "text": "中暑病熱在表",
               "bbox_xyxy": null,
               "note": "右",
+              "unresolved_glyphs": [],
               "role": "table-subcolumn"
             },
             {
@@ -4361,6 +5018,7 @@
               "text": "為陽",
               "bbox_xyxy": null,
               "note": "左",
+              "unresolved_glyphs": [],
               "role": "table-subcolumn"
             }
           ],
@@ -4374,6 +5032,7 @@
               "text": "滑",
               "bbox_xyxy": null,
               "note": null,
+              "unresolved_glyphs": [],
               "role": "table-label"
             },
             {
@@ -4381,6 +5040,7 @@
               "text": "為実為積病在",
               "bbox_xyxy": null,
               "note": "右",
+              "unresolved_glyphs": [],
               "role": "table-subcolumn"
             },
             {
@@ -4388,6 +5048,7 @@
               "text": "表為陽",
               "bbox_xyxy": null,
               "note": "左",
+              "unresolved_glyphs": [],
               "role": "table-subcolumn"
             }
           ],
@@ -4401,6 +5062,7 @@
               "text": "濇",
               "bbox_xyxy": null,
               "note": null,
+              "unresolved_glyphs": [],
               "role": "table-label"
             },
             {
@@ -4408,6 +5070,7 @@
               "text": "虚寒為冷為",
               "bbox_xyxy": null,
               "note": "右",
+              "unresolved_glyphs": [],
               "role": "table-subcolumn"
             },
             {
@@ -4415,6 +5078,7 @@
               "text": "陰不足病裏",
               "bbox_xyxy": null,
               "note": "左",
+              "unresolved_glyphs": [],
               "role": "table-subcolumn"
             }
           ],
@@ -4428,6 +5092,7 @@
               "text": "大",
               "bbox_xyxy": null,
               "note": null,
+              "unresolved_glyphs": [],
               "role": "table-label"
             },
             {
@@ -4435,6 +5100,7 @@
               "text": "血虚陽也",
               "bbox_xyxy": null,
               "note": "右",
+              "unresolved_glyphs": [],
               "role": "table-subcolumn"
             },
             {
@@ -4442,6 +5108,7 @@
               "text": "病表易治",
               "bbox_xyxy": null,
               "note": "左",
+              "unresolved_glyphs": [],
               "role": "table-subcolumn"
             }
           ],
@@ -4455,6 +5122,7 @@
               "text": "緩",
               "bbox_xyxy": null,
               "note": null,
+              "unresolved_glyphs": [],
               "role": "table-label"
             },
             {
@@ -4462,6 +5130,7 @@
               "text": "遲慢過經病後得此",
               "bbox_xyxy": null,
               "note": "右",
+              "unresolved_glyphs": [],
               "role": "table-subcolumn"
             },
             {
@@ -4469,6 +5138,7 @@
               "text": "脈陰陽將復愈也",
               "bbox_xyxy": null,
               "note": "左",
+              "unresolved_glyphs": [],
               "role": "table-subcolumn"
             }
           ],
@@ -4479,9 +5149,10 @@
           "units": [
             {
               "id": "f021-L-01",
-              "text": "傷寒脈訣不與雜症相同",
+              "text": "傷寒脈訣不與襍症相同",
               "bbox_xyxy": null,
               "note": null,
+              "unresolved_glyphs": [],
               "role": "heading"
             },
             {
@@ -4489,6 +5160,7 @@
               "text": "大脈為陽是血虚滿指散漫氣常餘",
               "bbox_xyxy": null,
               "note": null,
+              "unresolved_glyphs": [],
               "role": "column"
             },
             {
@@ -4496,6 +5168,7 @@
               "text": "浮大晝加為病進陰症現之命頗宜",
               "bbox_xyxy": null,
               "note": null,
+              "unresolved_glyphs": [],
               "role": "column"
             },
             {
@@ -4503,6 +5176,7 @@
               "text": "重尋不足輕舉餘如木漂浮水面兮",
               "bbox_xyxy": null,
               "note": null,
+              "unresolved_glyphs": [],
               "role": "column"
             },
             {
@@ -4510,6 +5184,7 @@
               "text": "浮緊傷寒病在表浮緩傷風用桂枝",
               "bbox_xyxy": null,
               "note": null,
+              "unresolved_glyphs": [],
               "role": "column"
             },
             {
@@ -4517,13 +5192,15 @@
               "text": "數脈頻來六至多浮而數者表邪應",
               "bbox_xyxy": null,
               "note": null,
+              "unresolved_glyphs": [],
               "role": "column"
             },
             {
               "id": "f021-L-07",
-              "text": "沉數之時為裏熱隨之尺寸可言病",
+              "text": "沉數之時為裏熱隨之尺寸可言痾",
               "bbox_xyxy": null,
               "note": null,
+              "unresolved_glyphs": [],
               "role": "column"
             }
           ],
@@ -4556,6 +5233,7 @@
               "text": "滑脈如珠流利圓定而嘔吐痛相兼",
               "bbox_xyxy": null,
               "note": "末字候讀兼。",
+              "unresolved_glyphs": [],
               "role": "column"
             },
             {
@@ -4563,6 +5241,7 @@
               "text": "不在浮沉不緩急婦人尺滑有胎言",
               "bbox_xyxy": null,
               "note": null,
+              "unresolved_glyphs": [],
               "role": "column"
             },
             {
@@ -4570,6 +5249,7 @@
               "text": "重手乃得號曰沉脈在肌膚肉應行",
               "bbox_xyxy": null,
               "note": null,
+              "unresolved_glyphs": [],
               "role": "column"
             },
             {
@@ -4577,6 +5257,7 @@
               "text": "裏症之脈為水定陰寒當審在陰經",
               "bbox_xyxy": null,
               "note": null,
+              "unresolved_glyphs": [],
               "role": "column"
             },
             {
@@ -4584,6 +5265,7 @@
               "text": "澁脈如刀刮竹皮來而蹇滯去而遲",
               "bbox_xyxy": null,
               "note": null,
+              "unresolved_glyphs": [],
               "role": "column"
             },
             {
@@ -4591,6 +5273,7 @@
               "text": "此為亡血肢逆冷血虛無汗急須醫",
               "bbox_xyxy": null,
               "note": null,
+              "unresolved_glyphs": [],
               "role": "column"
             },
             {
@@ -4598,6 +5281,7 @@
               "text": "傷寒弦脈名為陰勁若弓弦死症臨",
               "bbox_xyxy": null,
               "note": null,
+              "unresolved_glyphs": [],
               "role": "column"
             }
           ],
@@ -4611,6 +5295,7 @@
               "text": "為寒為痛為水濕半表半裏少陽經",
               "bbox_xyxy": null,
               "note": null,
+              "unresolved_glyphs": [],
               "role": "column"
             },
             {
@@ -4618,13 +5303,30 @@
               "text": "緩無偏勝去來遲四肢柔和緩脉施",
               "bbox_xyxy": null,
               "note": null,
+              "unresolved_glyphs": [],
               "role": "column"
             },
             {
               "id": "f022-L-03",
-              "text": "過經病後得此脈總是陰陽復{恃|持}時",
+              "text": "過經病後得此脈總是陰陽復{恃|持|將}時",
               "bbox_xyxy": null,
               "note": null,
+              "unresolved_glyphs": [
+                {
+                  "raw_text_codepoint_range": [
+                    12,
+                    19
+                  ],
+                  "raw_text": "{恃|持|將}",
+                  "raw_candidates": [
+                    "恃",
+                    "持",
+                    "將"
+                  ],
+                  "confidence": "unresolved",
+                  "note": "覆核裁決請見 proof-unit-coverage.private.json"
+                }
+              ],
               "role": "column"
             },
             {
@@ -4632,6 +5334,7 @@
               "text": "弦而有力名曰緊緊是寒邪痛怎當",
               "bbox_xyxy": null,
               "note": null,
+              "unresolved_glyphs": [],
               "role": "column"
             },
             {
@@ -4639,13 +5342,15 @@
               "text": "頭痛背強腰脊痛惡寒無汗症麻黃",
               "bbox_xyxy": null,
               "note": null,
+              "unresolved_glyphs": [],
               "role": "column"
             },
             {
               "id": "f022-L-06",
-              "text": "一息三至脈名遲遲則為陰病臟兮",
+              "text": "一息三至脈名遲遲則為陰病腑兮",
               "bbox_xyxy": null,
               "note": null,
+              "unresolved_glyphs": [],
               "role": "column"
             },
             {
@@ -4653,6 +5358,7 @@
               "text": "寸關尺部沉遲等此是陰經寒中之",
               "bbox_xyxy": null,
               "note": null,
+              "unresolved_glyphs": [],
               "role": "column"
             }
           ],
@@ -4685,6 +5391,7 @@
               "text": "脈歌",
               "bbox_xyxy": null,
               "note": null,
+              "unresolved_glyphs": [],
               "role": "heading"
             },
             {
@@ -4692,6 +5399,7 @@
               "text": "心脈洪大心家熱頭腦昏痛氣血結脚板",
               "bbox_xyxy": null,
               "note": null,
+              "unresolved_glyphs": [],
               "role": "column"
             },
             {
@@ -4699,6 +5407,7 @@
               "text": "心內似火燒口燥心煩渴不歇",
               "bbox_xyxy": null,
               "note": null,
+              "unresolved_glyphs": [],
               "role": "column"
             },
             {
@@ -4706,6 +5415,7 @@
               "text": "心脈微小主心虛心中驚悸流汗隨頭腦",
               "bbox_xyxy": null,
               "note": null,
+              "unresolved_glyphs": [],
               "role": "column"
             },
             {
@@ -4713,6 +5423,7 @@
               "text": "昏沉多困倦夢魂常在水邊帰",
               "bbox_xyxy": null,
               "note": null,
+              "unresolved_glyphs": [],
               "role": "column"
             },
             {
@@ -4720,6 +5431,7 @@
               "text": "肝脈洪大不調血背痛項強疼左脇手酸",
               "bbox_xyxy": null,
               "note": null,
+              "unresolved_glyphs": [],
               "role": "column"
             },
             {
@@ -4727,6 +5439,7 @@
               "text": "脚冷目赤紅行路昏暈常怕跌",
               "bbox_xyxy": null,
               "note": null,
+              "unresolved_glyphs": [],
               "role": "column"
             }
           ],
@@ -4740,6 +5453,7 @@
               "text": "肝脈微小四枝酸胆冷肝枯血氣寒頭眩",
               "bbox_xyxy": null,
               "note": null,
+              "unresolved_glyphs": [],
               "role": "column"
             },
             {
@@ -4747,6 +5461,7 @@
               "text": "目花双足軟背間常有汗漫漫",
               "bbox_xyxy": null,
               "note": null,
+              "unresolved_glyphs": [],
               "role": "column"
             },
             {
@@ -4754,6 +5469,7 @@
               "text": "腎脈洪大主腰疼背痛項強小腹膨膀胱",
               "bbox_xyxy": null,
               "note": null,
+              "unresolved_glyphs": [],
               "role": "column"
             },
             {
@@ -4761,6 +5477,7 @@
               "text": "暑熱小便赤咽乾舌苦口無涎",
               "bbox_xyxy": null,
               "note": null,
+              "unresolved_glyphs": [],
               "role": "column"
             },
             {
@@ -4768,6 +5485,7 @@
               "text": "腎脈微小下焦虛耳內嘈嘈風雨声腦痛",
               "bbox_xyxy": null,
               "note": null,
+              "unresolved_glyphs": [],
               "role": "column"
             },
             {
@@ -4775,6 +5493,7 @@
               "text": "腰疼双足腫背間盜汗出無停",
               "bbox_xyxy": null,
               "note": null,
+              "unresolved_glyphs": [],
               "role": "column"
             },
             {
@@ -4782,6 +5501,7 @@
               "text": "肺脈洪大心頭緊咳有風痰常壅盛腰痛",
               "bbox_xyxy": null,
               "note": null,
+              "unresolved_glyphs": [],
               "role": "column"
             }
           ],
@@ -4814,6 +5534,7 @@
               "text": "背疼肺又酸口渴氣急時時併",
               "bbox_xyxy": null,
               "note": null,
+              "unresolved_glyphs": [],
               "role": "column"
             },
             {
@@ -4821,6 +5542,7 @@
               "text": "肺脈微小肺家氣悶悶憂憂口又乾手寒",
               "bbox_xyxy": null,
               "note": null,
+              "unresolved_glyphs": [],
               "role": "column"
             },
             {
@@ -4828,6 +5550,7 @@
               "text": "腹內多虛弱咳嗽時時背上寒",
               "bbox_xyxy": null,
               "note": null,
+              "unresolved_glyphs": [],
               "role": "column"
             },
             {
@@ -4835,6 +5558,7 @@
               "text": "脾脈洪大心膨脹悶悶憂憂唇口焦手足",
               "bbox_xyxy": null,
               "note": null,
+              "unresolved_glyphs": [],
               "role": "column"
             },
             {
@@ -4842,6 +5566,7 @@
               "text": "後下",
               "bbox_xyxy": null,
               "note": "第一個悶字右側之側寫小字。",
+              "unresolved_glyphs": [],
               "role": "inline-note"
             },
             {
@@ -4849,6 +5574,7 @@
               "text": "軟酸多氣急無情無意過良宵",
               "bbox_xyxy": null,
               "note": null,
+              "unresolved_glyphs": [],
               "role": "column"
             },
             {
@@ -4856,6 +5582,7 @@
               "text": "脾脈微小兩眉愁飲食不思欲困常頭痛",
               "bbox_xyxy": null,
               "note": "欲及常字附近另見短墨，是否有註未定。",
+              "unresolved_glyphs": [],
               "role": "column"
             },
             {
@@ -4863,6 +5590,7 @@
               "text": "前下",
               "bbox_xyxy": null,
               "note": "飲字右上側的小字。",
+              "unresolved_glyphs": [],
               "role": "inline-note"
             }
           ],
@@ -4876,6 +5604,7 @@
               "text": "腦疼嘔頻頻食後傷寒精神損",
               "bbox_xyxy": null,
               "note": null,
+              "unresolved_glyphs": [],
               "role": "column"
             },
             {
@@ -4883,13 +5612,15 @@
               "text": "命脈洪大心胸熱潮渴三焦血氣結四枝",
               "bbox_xyxy": null,
               "note": null,
+              "unresolved_glyphs": [],
               "role": "column"
             },
             {
               "id": "f024-L-03",
-              "text": "倦怠少精神食后傷風精氣別",
+              "text": "倦急少精神食后傷風精氣別",
               "bbox_xyxy": null,
               "note": null,
+              "unresolved_glyphs": [],
               "role": "column"
             },
             {
@@ -4897,6 +5628,7 @@
               "text": "命脈微小號平和腎氣應教嘔逆多手足",
               "bbox_xyxy": null,
               "note": null,
+              "unresolved_glyphs": [],
               "role": "column"
             },
             {
@@ -4904,13 +5636,15 @@
               "text": "冷寒脾胃冷口淡無味不調和",
               "bbox_xyxy": null,
               "note": null,
+              "unresolved_glyphs": [],
               "role": "column"
             },
             {
               "id": "f024-L-06",
-              "text": "傷寒活人{賊|賦}賦",
+              "text": "傷寒活人賊賦",
               "bbox_xyxy": null,
               "note": "直寫新題，第五字待辨。",
+              "unresolved_glyphs": [],
               "role": "heading"
             }
           ],
@@ -4943,6 +5677,7 @@
               "text": "陰陽為病反覆變遷賴先師詳究之遺旨",
               "bbox_xyxy": null,
               "note": null,
+              "unresolved_glyphs": [],
               "role": "column"
             },
             {
@@ -4950,6 +5685,7 @@
               "text": "成後學診治之良詮太陽頭疼身熱脊強",
               "bbox_xyxy": null,
               "note": null,
+              "unresolved_glyphs": [],
               "role": "column"
             },
             {
@@ -4957,6 +5693,7 @@
               "text": "陽明目疼鼻乾不眠少陽耳聾脇痛寒熱",
               "bbox_xyxy": null,
               "note": null,
+              "unresolved_glyphs": [],
               "role": "column"
             },
             {
@@ -4964,6 +5701,7 @@
               "text": "嘔而口為之苦太陰腹滿自利尺寸沉而",
               "bbox_xyxy": null,
               "note": null,
+              "unresolved_glyphs": [],
               "role": "column"
             },
             {
@@ -4971,6 +5709,7 @@
               "text": "津不到咽少陰口乾舌燥厥陰煩滿囊卷",
               "bbox_xyxy": null,
               "note": null,
+              "unresolved_glyphs": [],
               "role": "column"
             },
             {
@@ -4978,6 +5717,7 @@
               "text": "一日二日可發表而散三日四日宜和解",
               "bbox_xyxy": null,
               "note": null,
+              "unresolved_glyphs": [],
               "role": "column"
             },
             {
@@ -4985,6 +5725,7 @@
               "text": "而痊五日六日便實方可議下七日八日",
               "bbox_xyxy": null,
               "note": null,
+              "unresolved_glyphs": [],
               "role": "column"
             }
           ],
@@ -4998,6 +5739,7 @@
               "text": "不解又復再傳日傳二經病名兩感經傳",
               "bbox_xyxy": null,
               "note": null,
+              "unresolved_glyphs": [],
               "role": "column"
             },
             {
@@ -5005,6 +5747,7 @@
               "text": "六日應無一痊太陽無汗太陽有汗桂枝",
               "bbox_xyxy": null,
               "note": null,
+              "unresolved_glyphs": [],
               "role": "column"
             },
             {
@@ -5012,6 +5755,7 @@
               "text": "可先小柴胡為少陽之領要大柴胡行陽",
               "bbox_xyxy": null,
               "note": null,
+              "unresolved_glyphs": [],
               "role": "column"
             },
             {
@@ -5019,6 +5763,7 @@
               "text": "明之秘堅至三陰則難拘定法或可溫而",
               "bbox_xyxy": null,
               "note": null,
+              "unresolved_glyphs": [],
               "role": "column"
             },
             {
@@ -5026,6 +5771,7 @@
               "text": "或可下宜數變以曲全生意或可而方或",
               "bbox_xyxy": null,
               "note": null,
+              "unresolved_glyphs": [],
               "role": "column"
             },
             {
@@ -5033,6 +5779,7 @@
               "text": "可圓",
               "bbox_xyxy": null,
               "note": null,
+              "unresolved_glyphs": [],
               "role": "column"
             },
             {
@@ -5040,6 +5787,7 @@
               "text": "傳經論",
               "bbox_xyxy": null,
               "note": null,
+              "unresolved_glyphs": [],
               "role": "heading"
             }
           ],
@@ -5069,9 +5817,10 @@
           "units": [
             {
               "id": "f026-R-01",
-              "text": "夫傷寒始自太陽{遞|遂}傳陽明至於厥陰而",
+              "text": "夫傷寒始自太陽送傳陽明至於厥陰而",
               "bbox_xyxy": null,
               "note": null,
+              "unresolved_glyphs": [],
               "role": "column"
             },
             {
@@ -5079,27 +5828,31 @@
               "text": "止六經既別法治不同太陽屬膀胱非發",
               "bbox_xyxy": null,
               "note": null,
+              "unresolved_glyphs": [],
               "role": "column"
             },
             {
               "id": "f026-R-03",
-              "text": "汗則不愈必用麻黃者以麻黃生於中{年|牟}",
+              "text": "汗則不愈必用麻黃者以麻黃生於中年",
               "bbox_xyxy": null,
               "note": "末字見竪筆與橫畫，所指待明。",
+              "unresolved_glyphs": [],
               "role": "column"
             },
             {
               "id": "f026-R-04",
-              "text": "雪深五尺有麻黃處雪則不{驟|聚}蓋此藥能",
+              "text": "雪深五尺有麻黃處雪則不驟蓋此藥能",
               "bbox_xyxy": null,
               "note": null,
+              "unresolved_glyphs": [],
               "role": "column"
             },
             {
               "id": "f026-R-05",
-              "text": "通內陽郁外寒也陽明屬胃非通泄則不",
+              "text": "通內陽却外寒也陽明屬胃非通泄則不",
               "bbox_xyxy": null,
               "note": null,
+              "unresolved_glyphs": [],
               "role": "column"
             },
             {
@@ -5107,6 +5860,7 @@
               "text": "愈必用大黃芒硝以利之少陽屬胆無出",
               "bbox_xyxy": null,
               "note": null,
+              "unresolved_glyphs": [],
               "role": "column"
             },
             {
@@ -5114,6 +5868,7 @@
               "text": "入道柴胡與半夏能利能汗佐以子芩非",
               "bbox_xyxy": null,
               "note": null,
+              "unresolved_glyphs": [],
               "role": "column"
             }
           ],
@@ -5127,6 +5882,7 @@
               "text": "此不解太陰屬脾中州土也性惡寒濕非",
               "bbox_xyxy": null,
               "note": null,
+              "unresolved_glyphs": [],
               "role": "column"
             },
             {
@@ -5134,6 +5890,7 @@
               "text": "乾姜白术不能溫燥少陰屬腎性畏熱燥",
               "bbox_xyxy": null,
               "note": null,
+              "unresolved_glyphs": [],
               "role": "column"
             },
             {
@@ -5141,6 +5898,7 @@
               "text": "非附子不能溫厥陰屬肝藏血養筋非溫",
               "bbox_xyxy": null,
               "note": null,
+              "unresolved_glyphs": [],
               "role": "column"
             },
             {
@@ -5148,6 +5906,7 @@
               "text": "平之藥不能潤養此經常之道也後學不",
               "bbox_xyxy": null,
               "note": null,
+              "unresolved_glyphs": [],
               "role": "column"
             },
             {
@@ -5155,6 +5914,7 @@
               "text": "知倫類妄意進餌遂致錯亂諸症蜂起夭",
               "bbox_xyxy": null,
               "note": null,
+              "unresolved_glyphs": [],
               "role": "column"
             },
             {
@@ -5162,6 +5922,7 @@
               "text": "傷人命可不辨哉且三陽病汗下和解人",
               "bbox_xyxy": null,
               "note": null,
+              "unresolved_glyphs": [],
               "role": "column"
             },
             {
@@ -5169,6 +5930,7 @@
               "text": "必知之至太陰脾經溫燥不行亦當溫利",
               "bbox_xyxy": null,
               "note": null,
+              "unresolved_glyphs": [],
               "role": "column"
             }
           ],
@@ -5201,6 +5963,7 @@
               "text": "自陽明出如溫脾丸用大黃是也少陰腎",
               "bbox_xyxy": null,
               "note": null,
+              "unresolved_glyphs": [],
               "role": "column"
             },
             {
@@ -5208,6 +5971,7 @@
               "text": "經雖用附子復用麻黃則知少陰亦自太",
               "bbox_xyxy": null,
               "note": null,
+              "unresolved_glyphs": [],
               "role": "column"
             },
             {
@@ -5215,6 +5979,7 @@
               "text": "陽出厥陰用桂自少陰出明矣及其二陽",
               "bbox_xyxy": null,
               "note": null,
+              "unresolved_glyphs": [],
               "role": "column"
             },
             {
@@ -5222,13 +5987,30 @@
               "text": "鬱閉皆當自陽明出故三陰皆有下症如",
               "bbox_xyxy": null,
               "note": null,
+              "unresolved_glyphs": [],
               "role": "column"
             },
             {
               "id": "f027-R-05",
-              "text": "少陰口燥咽乾下利清水太陰腸滿{啼|時}痛",
+              "text": "少陰口燥咽乾下利清水太陰腸滿{啼|時|轉}痛",
               "bbox_xyxy": null,
               "note": null,
+              "unresolved_glyphs": [
+                {
+                  "raw_text_codepoint_range": [
+                    14,
+                    21
+                  ],
+                  "raw_text": "{啼|時|轉}",
+                  "raw_candidates": [
+                    "啼",
+                    "時",
+                    "轉"
+                  ],
+                  "confidence": "unresolved",
+                  "note": "覆核裁決請見 proof-unit-coverage.private.json"
+                }
+              ],
               "role": "column"
             },
             {
@@ -5236,6 +6018,7 @@
               "text": "厥陰舌卷囊縮皆當下之學者宜詳審不",
               "bbox_xyxy": null,
               "note": null,
+              "unresolved_glyphs": [],
               "role": "column"
             },
             {
@@ -5243,6 +6026,7 @@
               "text": "可妄投也",
               "bbox_xyxy": null,
               "note": null,
+              "unresolved_glyphs": [],
               "role": "column"
             }
           ],
@@ -5256,6 +6040,7 @@
               "text": "傷寒六經傳變歌",
               "bbox_xyxy": null,
               "note": null,
+              "unresolved_glyphs": [],
               "role": "heading"
             },
             {
@@ -5263,6 +6048,7 @@
               "text": "傷寒一日二日間發熱頭疼及惡寒腰強",
               "bbox_xyxy": null,
               "note": null,
+              "unresolved_glyphs": [],
               "role": "column"
             },
             {
@@ -5270,6 +6056,7 @@
               "text": "脈浮真可見此病從來連腰纏無汗麻黃",
               "bbox_xyxy": null,
               "note": null,
+              "unresolved_glyphs": [],
               "role": "column"
             },
             {
@@ -5277,6 +6064,7 @@
               "text": "湯發散有汗傷風桂枝單大青龍主表裏",
               "bbox_xyxy": null,
               "note": null,
+              "unresolved_glyphs": [],
               "role": "column"
             },
             {
@@ -5284,6 +6072,7 @@
               "text": "實此是太陽膀胱間",
               "bbox_xyxy": null,
               "note": null,
+              "unresolved_glyphs": [],
               "role": "column"
             },
             {
@@ -5291,6 +6080,7 @@
               "text": "傷寒二日三日內目痛身熱加一倍鼻乾",
               "bbox_xyxy": null,
               "note": null,
+              "unresolved_glyphs": [],
               "role": "column"
             },
             {
@@ -5298,6 +6088,7 @@
               "text": "不睡脈來長此脈往來緩者是無汗惡寒",
               "bbox_xyxy": null,
               "note": null,
+              "unresolved_glyphs": [],
               "role": "column"
             }
           ],
@@ -5330,6 +6121,7 @@
               "text": "用葛根有汗桂枝湯一劑便寔惡寒大柴",
               "bbox_xyxy": null,
               "note": null,
+              "unresolved_glyphs": [],
               "role": "column"
             },
             {
@@ -5337,6 +6129,7 @@
               "text": "胡此是陽明胃經位",
               "bbox_xyxy": null,
               "note": null,
+              "unresolved_glyphs": [],
               "role": "column"
             },
             {
@@ -5344,13 +6137,15 @@
               "text": "三日四日病轉深耳聾胸脇痛如針寒熱",
               "bbox_xyxy": null,
               "note": null,
+              "unresolved_glyphs": [],
               "role": "column"
             },
             {
               "id": "f028-R-04",
-              "text": "嘔{通|逆}口乾苦此脈循脇絡耳眞強{勝|騰}之脈",
+              "text": "嘔通口乾苦此脈循脇絡耳眞強勝之脈",
               "bbox_xyxy": null,
               "note": null,
+              "unresolved_glyphs": [],
               "role": "column"
             },
             {
@@ -5358,6 +6153,7 @@
               "text": "渴",
               "bbox_xyxy": null,
               "note": "「此」「脈」間左側小字",
+              "unresolved_glyphs": [],
               "role": "inline-note"
             },
             {
@@ -5365,13 +6161,15 @@
               "text": "眞可見小柴胡要酌斟似瘧女人血結類",
               "bbox_xyxy": null,
               "note": null,
+              "unresolved_glyphs": [],
               "role": "column"
             },
             {
               "id": "f028-R-06",
-              "text": "此是少陽膽經尋",
+              "text": "此是少陽胆經尋",
               "bbox_xyxy": null,
               "note": null,
+              "unresolved_glyphs": [],
               "role": "column"
             },
             {
@@ -5379,6 +6177,7 @@
               "text": "病傳四日及五日腹痛咽自温利自利而",
               "bbox_xyxy": null,
               "note": null,
+              "unresolved_glyphs": [],
               "role": "column"
             },
             {
@@ -5386,6 +6185,7 @@
               "text": "乾",
               "bbox_xyxy": null,
               "note": "「咽」「自」間右側小字",
+              "unresolved_glyphs": [],
               "role": "inline-note"
             }
           ],
@@ -5399,6 +6199,7 @@
               "text": "渴脈沉細脈布脾胃絡咽嗌四逆湯中治",
               "bbox_xyxy": null,
               "note": null,
+              "unresolved_glyphs": [],
               "role": "column"
             },
             {
@@ -5406,6 +6207,7 @@
               "text": "臟寒腹滿脈浮桂枝單胸滿痰多瓜吐之",
               "bbox_xyxy": null,
               "note": null,
+              "unresolved_glyphs": [],
               "role": "column"
             },
             {
@@ -5413,6 +6215,7 @@
               "text": "此是太陰脾經間",
               "bbox_xyxy": null,
               "note": null,
+              "unresolved_glyphs": [],
               "role": "column"
             },
             {
@@ -5420,6 +6223,7 @@
               "text": "傷寒五日六日來多眠口燥舌乾讝此脈",
               "bbox_xyxy": null,
               "note": null,
+              "unresolved_glyphs": [],
               "role": "column"
             },
             {
@@ -5427,6 +6231,7 @@
               "text": "絡肺繫舌本指下脈沉貫腎來舌乾須用",
               "bbox_xyxy": null,
               "note": null,
+              "unresolved_glyphs": [],
               "role": "column"
             },
             {
@@ -5434,6 +6239,7 @@
               "text": "小承氣不乾不渴四逆瘥汗出亡陽猪膚",
               "bbox_xyxy": null,
               "note": null,
+              "unresolved_glyphs": [],
               "role": "column"
             },
             {
@@ -5441,6 +6247,7 @@
               "text": "屬此是少陰腎經脈",
               "bbox_xyxy": null,
               "note": null,
+              "unresolved_glyphs": [],
               "role": "column"
             }
           ],
@@ -5473,13 +6280,30 @@
               "text": "傷寒六日七日間煩滿囊縮脈微緩筋急",
               "bbox_xyxy": null,
               "note": null,
+              "unresolved_glyphs": [],
               "role": "column"
             },
             {
               "id": "f029-R-02",
-              "text": "唇青四體疼脈尋陰氣絡到肝脈若不{濟|滯}",
+              "text": "唇青四體疼脈尋陰氣絡到肝脈若不{濟|滯|浮}",
               "bbox_xyxy": null,
               "note": null,
+              "unresolved_glyphs": [
+                {
+                  "raw_text_codepoint_range": [
+                    15,
+                    22
+                  ],
+                  "raw_text": "{濟|滯|浮}",
+                  "raw_candidates": [
+                    "濟",
+                    "滯",
+                    "浮"
+                  ],
+                  "confidence": "unresolved",
+                  "note": "覆核裁決請見 proof-unit-coverage.private.json"
+                }
+              ],
               "role": "column"
             },
             {
@@ -5487,6 +6311,7 @@
               "text": "小建中浮緩似瘧妙各半囊縮汗毒承氣",
               "bbox_xyxy": null,
               "note": null,
+              "unresolved_glyphs": [],
               "role": "column"
             },
             {
@@ -5494,6 +6319,7 @@
               "text": "如此是厥陰肝經類",
               "bbox_xyxy": null,
               "note": null,
+              "unresolved_glyphs": [],
               "role": "column"
             },
             {
@@ -5501,6 +6327,7 @@
               "text": "傷寒觀舌說",
               "bbox_xyxy": null,
               "note": null,
+              "unresolved_glyphs": [],
               "role": "heading"
             },
             {
@@ -5508,13 +6335,15 @@
               "text": "觀舌者不離五行生尅之說也其舌色紅",
               "bbox_xyxy": null,
               "note": null,
+              "unresolved_glyphs": [],
               "role": "column"
             },
             {
               "id": "f029-R-07",
-              "text": "者洩大黃者下之白者表之黑者温之如",
+              "text": "者洩火黃者下之白者表之黑者温之如",
               "bbox_xyxy": null,
               "note": null,
+              "unresolved_glyphs": [],
               "role": "column"
             }
           ],
@@ -5528,6 +6357,7 @@
               "text": "黑白相兼是火無氣多死黃白相兼金土",
               "bbox_xyxy": null,
               "note": null,
+              "unresolved_glyphs": [],
               "role": "column"
             },
             {
@@ -5535,6 +6365,7 @@
               "text": "旺火氣衰可表可下如黑紅白者凶中有",
               "bbox_xyxy": null,
               "note": null,
+              "unresolved_glyphs": [],
               "role": "column"
             },
             {
@@ -5542,6 +6373,7 @@
               "text": "吉如紅黃黑凶中有救如黑中有黃者生",
               "bbox_xyxy": null,
               "note": null,
+              "unresolved_glyphs": [],
               "role": "column"
             },
             {
@@ -5549,6 +6381,7 @@
               "text": "如純黑者死如白中黑班點者死如舌尖",
               "bbox_xyxy": null,
               "note": null,
+              "unresolved_glyphs": [],
               "role": "column"
             },
             {
@@ -5556,6 +6389,7 @@
               "text": "有刺者死如舌腫如煮熟者死如紅黃者",
               "bbox_xyxy": null,
               "note": null,
+              "unresolved_glyphs": [],
               "role": "column"
             },
             {
@@ -5563,6 +6397,7 @@
               "text": "火土燥而金水弱宜急下滋陰降火觀其",
               "bbox_xyxy": null,
               "note": null,
+              "unresolved_glyphs": [],
               "role": "column"
             },
             {
@@ -5570,6 +6405,7 @@
               "text": "輕重看其虚實何必多說純色者死焦乾",
               "bbox_xyxy": null,
               "note": null,
+              "unresolved_glyphs": [],
               "role": "column"
             }
           ],
@@ -5602,6 +6438,7 @@
               "text": "者死○看傷寒將病扶人起先現面容顏",
               "bbox_xyxy": null,
               "note": "「死」後原有墨圈",
+              "unresolved_glyphs": [],
               "role": "column"
             },
             {
@@ -5609,6 +6446,7 @@
               "text": "色手足冷熱陰陽二症精神強弱次診脈",
               "bbox_xyxy": null,
               "note": null,
+              "unresolved_glyphs": [],
               "role": "column"
             },
             {
@@ -5616,6 +6454,7 @@
               "text": "理審來歷現其舌色也現舌者非現舌也",
               "bbox_xyxy": null,
               "note": null,
+              "unresolved_glyphs": [],
               "role": "column"
             },
             {
@@ -5623,6 +6462,7 @@
               "text": "現人之心也舌為心之苗咽乃肺之系耳",
               "bbox_xyxy": null,
               "note": null,
+              "unresolved_glyphs": [],
               "role": "column"
             },
             {
@@ -5630,6 +6470,7 @@
               "text": "為腎之竅唇為脾之門目是肝之精也舌",
               "bbox_xyxy": null,
               "note": null,
+              "unresolved_glyphs": [],
               "role": "column"
             },
             {
@@ -5637,6 +6478,7 @@
               "text": "屬火當赤色若是眞正傷寒舌有白胎為",
               "bbox_xyxy": null,
               "note": null,
+              "unresolved_glyphs": [],
               "role": "column"
             },
             {
@@ -5644,6 +6486,7 @@
               "text": "金乗火位水子助母之勢而欺火此乃寒",
               "bbox_xyxy": null,
               "note": null,
+              "unresolved_glyphs": [],
               "role": "column"
             }
           ],
@@ -5657,6 +6500,7 @@
               "text": "之甚也故有白胎入陽明經舌白變黃色",
               "bbox_xyxy": null,
               "note": null,
+              "unresolved_glyphs": [],
               "role": "column"
             },
             {
@@ -5664,6 +6508,7 @@
               "text": "則焦因陽明內寔熱急也當下入少陽經",
               "bbox_xyxy": null,
               "note": null,
+              "unresolved_glyphs": [],
               "role": "column"
             },
             {
@@ -5671,6 +6516,7 @@
               "text": "白胎白屑用小柴胡湯陽明黃色須用大",
               "bbox_xyxy": null,
               "note": null,
+              "unresolved_glyphs": [],
               "role": "column"
             },
             {
@@ -5678,6 +6524,7 @@
               "text": "柴胡湯下之入少陰經舌變諸色此五臟",
               "bbox_xyxy": null,
               "note": null,
+              "unresolved_glyphs": [],
               "role": "column"
             },
             {
@@ -5685,6 +6532,7 @@
               "text": "邪氣之所干如傷寒初發不現舌其病在",
               "bbox_xyxy": null,
               "note": null,
+              "unresolved_glyphs": [],
               "role": "column"
             },
             {
@@ -5692,6 +6540,7 @@
               "text": "表輕也入裏則生白胎白沫白屑如大小",
               "bbox_xyxy": null,
               "note": null,
+              "unresolved_glyphs": [],
               "role": "column"
             },
             {
@@ -5699,6 +6548,7 @@
               "text": "有淡黑班不治如温疫傷寒舌赤色温氣",
               "bbox_xyxy": null,
               "note": null,
+              "unresolved_glyphs": [],
               "role": "column"
             }
           ],
@@ -5731,6 +6581,7 @@
               "text": "從內發外入裏故有白色經云傷寒多死",
               "bbox_xyxy": null,
               "note": null,
+              "unresolved_glyphs": [],
               "role": "column"
             },
             {
@@ -5738,6 +6589,7 @@
               "text": "下虚人",
               "bbox_xyxy": null,
               "note": null,
+              "unresolved_glyphs": [],
               "role": "column"
             },
             {
@@ -5745,6 +6597,7 @@
               "text": "傷寒五臟受病歌",
               "bbox_xyxy": null,
               "note": null,
+              "unresolved_glyphs": [],
               "role": "heading"
             },
             {
@@ -5752,6 +6605,7 @@
               "text": "心病舌強笑面赤煩燥掌熱口乾讝臍上",
               "bbox_xyxy": null,
               "note": null,
+              "unresolved_glyphs": [],
               "role": "column"
             },
             {
@@ -5759,6 +6613,7 @@
               "text": "動氣洪緊數若是沉微命不全肝家面青",
               "bbox_xyxy": null,
               "note": null,
+              "unresolved_glyphs": [],
               "role": "column"
             },
             {
@@ -5766,6 +6621,7 @@
               "text": "目痛閉筋急怒容臍左氣脈當弦緊又兼",
               "bbox_xyxy": null,
               "note": null,
+              "unresolved_glyphs": [],
               "role": "column"
             },
             {
@@ -5773,6 +6629,7 @@
               "text": "長浮濇短兮名不治脾家不食面皮黃體",
               "bbox_xyxy": null,
               "note": null,
+              "unresolved_glyphs": [],
               "role": "column"
             }
           ],
@@ -5786,6 +6643,7 @@
               "text": "重肢疼喜卧床動氣當臍脈緩大弦長而",
               "bbox_xyxy": null,
               "note": null,
+              "unresolved_glyphs": [],
               "role": "column"
             },
             {
@@ -5793,6 +6651,7 @@
               "text": "緊是凶殃肺家面白帶憂愁吐衂寒温喘",
               "bbox_xyxy": null,
               "note": null,
+              "unresolved_glyphs": [],
               "role": "column"
             },
             {
@@ -5800,6 +6659,7 @@
               "text": "嗽求臍右氣兮沉細濇大而牢者死根由",
               "bbox_xyxy": null,
               "note": null,
+              "unresolved_glyphs": [],
               "role": "column"
             },
             {
@@ -5807,6 +6667,7 @@
               "text": "腎家面黑指爪青耳重足寒泄腹疼臍下",
               "bbox_xyxy": null,
               "note": null,
+              "unresolved_glyphs": [],
               "role": "column"
             },
             {
@@ -5814,6 +6675,7 @@
               "text": "氣兮沉滑脈緩而大者死之形",
               "bbox_xyxy": null,
               "note": null,
+              "unresolved_glyphs": [],
               "role": "column"
             },
             {
@@ -5821,6 +6683,7 @@
               "text": "診傷寒死脈歌",
               "bbox_xyxy": null,
               "note": null,
+              "unresolved_glyphs": [],
               "role": "heading"
             },
             {
@@ -5828,6 +6691,7 @@
               "text": "熱病診得脈浮洪細小何勞用神功汗後",
               "bbox_xyxy": null,
               "note": null,
+              "unresolved_glyphs": [],
               "role": "column"
             }
           ],
@@ -5860,6 +6724,7 @@
               "text": "脈静當便瘥喘急脈乱命已終",
               "bbox_xyxy": null,
               "note": null,
+              "unresolved_glyphs": [],
               "role": "column"
             },
             {
@@ -5867,6 +6732,7 @@
               "text": "陰毒傷寒歌",
               "bbox_xyxy": null,
               "note": null,
+              "unresolved_glyphs": [],
               "role": "heading"
             },
             {
@@ -5874,6 +6740,7 @@
               "text": "陰毒傷寒身体重背強眼痛不堪任小腹",
               "bbox_xyxy": null,
               "note": null,
+              "unresolved_glyphs": [],
               "role": "column"
             },
             {
@@ -5881,6 +6748,7 @@
               "text": "急疼口青黑毒氣冲心轉不禁四肢厥冷",
               "bbox_xyxy": null,
               "note": null,
+              "unresolved_glyphs": [],
               "role": "column"
             },
             {
@@ -5888,6 +6756,7 @@
               "text": "惟思吐咽喉不利脈沉細若還連灸臍輪",
               "bbox_xyxy": null,
               "note": null,
+              "unresolved_glyphs": [],
               "role": "column"
             },
             {
@@ -5895,6 +6764,7 @@
               "text": "下六日見過深堪喜",
               "bbox_xyxy": null,
               "note": null,
+              "unresolved_glyphs": [],
               "role": "column"
             },
             {
@@ -5902,6 +6772,7 @@
               "text": "陽毒傷寒歌",
               "bbox_xyxy": null,
               "note": null,
+              "unresolved_glyphs": [],
               "role": "heading"
             }
           ],
@@ -5915,6 +6786,7 @@
               "text": "陽毒健乱四肢煩面赤生花作點班狂言",
               "bbox_xyxy": null,
               "note": null,
+              "unresolved_glyphs": [],
               "role": "column"
             },
             {
@@ -5922,6 +6794,7 @@
               "text": "妄語如鬼神下利頻多喉不安汗出遍身",
               "bbox_xyxy": null,
               "note": null,
+              "unresolved_glyphs": [],
               "role": "column"
             },
             {
@@ -5929,6 +6802,7 @@
               "text": "應大瘥魚口開張命必翻有藥不喜但欲",
               "bbox_xyxy": null,
               "note": null,
+              "unresolved_glyphs": [],
               "role": "column"
             },
             {
@@ -5936,6 +6810,7 @@
               "text": "服能過七日暫能安",
               "bbox_xyxy": null,
               "note": null,
+              "unresolved_glyphs": [],
               "role": "column"
             },
             {
@@ -5943,13 +6818,29 @@
               "text": "傷寒出汗",
               "bbox_xyxy": null,
               "note": null,
+              "unresolved_glyphs": [],
               "role": "heading"
             },
             {
               "id": "f032-L-06",
-              "text": "寅申己亥日一四七有汗子午卯酉日二",
+              "text": "寅申{己|巳}亥日一四七有汗子午卯酉日二",
               "bbox_xyxy": null,
               "note": "干支與汗期數字保留原序，末接下欄",
+              "unresolved_glyphs": [
+                {
+                  "raw_text_codepoint_range": [
+                    2,
+                    7
+                  ],
+                  "raw_text": "{己|巳}",
+                  "raw_candidates": [
+                    "己",
+                    "巳"
+                  ],
+                  "confidence": "unresolved",
+                  "note": "覆核裁決請見 proof-unit-coverage.private.json"
+                }
+              ],
               "role": "list"
             },
             {
@@ -5957,6 +6848,7 @@
               "text": "五八有汗辰戌丑未日三六九有汗",
               "bbox_xyxy": null,
               "note": null,
+              "unresolved_glyphs": [],
               "role": "list"
             }
           ],
@@ -5989,6 +6881,7 @@
               "text": "出汗定時",
               "bbox_xyxy": null,
               "note": null,
+              "unresolved_glyphs": [],
               "role": "heading"
             },
             {
@@ -5996,6 +6889,7 @@
               "text": "太陽巳午未時陽明申酉戌時少陽寅卯",
               "bbox_xyxy": null,
               "note": null,
+              "unresolved_glyphs": [],
               "role": "list"
             },
             {
@@ -6003,6 +6897,7 @@
               "text": "辰時三陰亥子丑時",
               "bbox_xyxy": null,
               "note": null,
+              "unresolved_glyphs": [],
               "role": "list"
             },
             {
@@ -6010,6 +6905,7 @@
               "text": "傷寒用藥法",
               "bbox_xyxy": null,
               "note": null,
+              "unresolved_glyphs": [],
               "role": "heading"
             },
             {
@@ -6017,6 +6913,7 @@
               "text": "發熱憎寒体痛時脈浮無汗怎生醫十神",
               "bbox_xyxy": null,
               "note": null,
+              "unresolved_glyphs": [],
               "role": "column"
             },
             {
@@ -6024,13 +6921,43 @@
               "text": "五積香蘇散有汗傷風用桂枝○汗後仍",
               "bbox_xyxy": null,
               "note": null,
+              "unresolved_glyphs": [],
               "role": "column"
             },
             {
               "id": "f033-R-07",
-              "text": "前病不除三朝四日莫{躊|躕}{躇|躅}或用參蘇或",
+              "text": "前病不除三朝四日莫{躊|躕}{躇|躅|躕}或用參蘇或",
               "bbox_xyxy": null,
               "note": null,
+              "unresolved_glyphs": [
+                {
+                  "raw_text_codepoint_range": [
+                    9,
+                    14
+                  ],
+                  "raw_text": "{躊|躕}",
+                  "raw_candidates": [
+                    "躊",
+                    "躕"
+                  ],
+                  "confidence": "unresolved",
+                  "note": "覆核裁決請見 proof-unit-coverage.private.json"
+                },
+                {
+                  "raw_text_codepoint_range": [
+                    14,
+                    21
+                  ],
+                  "raw_text": "{躇|躅|躕}",
+                  "raw_candidates": [
+                    "躇",
+                    "躅",
+                    "躕"
+                  ],
+                  "confidence": "unresolved",
+                  "note": "覆核裁決請見 proof-unit-coverage.private.json"
+                }
+              ],
               "role": "column"
             }
           ],
@@ -6041,9 +6968,37 @@
           "units": [
             {
               "id": "f033-L-01",
-              "text": "敗毒加些良有病當舒○病傳入裏腹滿",
+              "text": "敗毒加些良{有|劑}病當舒○病傳入裏腹{滿|膈}",
               "bbox_xyxy": null,
               "note": "「腹」下字有下緣墨拖，暫讀滿",
+              "unresolved_glyphs": [
+                {
+                  "raw_text_codepoint_range": [
+                    5,
+                    10
+                  ],
+                  "raw_text": "{有|劑}",
+                  "raw_candidates": [
+                    "有",
+                    "劑"
+                  ],
+                  "confidence": "unresolved",
+                  "note": "覆核裁決請見 proof-unit-coverage.private.json"
+                },
+                {
+                  "raw_text_codepoint_range": [
+                    19,
+                    24
+                  ],
+                  "raw_text": "{滿|膈}",
+                  "raw_candidates": [
+                    "滿",
+                    "膈"
+                  ],
+                  "confidence": "unresolved",
+                  "note": "覆核裁決請見 proof-unit-coverage.private.json"
+                }
+              ],
               "role": "column"
             },
             {
@@ -6051,6 +7006,7 @@
               "text": "滿口乾熱盛小柴管病若仍前熱泄多加",
               "bbox_xyxy": null,
               "note": null,
+              "unresolved_glyphs": [],
               "role": "column"
             },
             {
@@ -6058,6 +7014,7 @@
               "text": "上柴苓湯一碗○六七日來病轉熱前後",
               "bbox_xyxy": null,
               "note": null,
+              "unresolved_glyphs": [],
               "role": "column"
             },
             {
@@ -6065,6 +7022,7 @@
               "text": "不通好飲啜或有乱語及尋衣大柴承氣",
               "bbox_xyxy": null,
               "note": null,
+              "unresolved_glyphs": [],
               "role": "column"
             },
             {
@@ -6072,13 +7030,29 @@
               "text": "可通泄○下後依前熱不休黃連解毒免",
               "bbox_xyxy": null,
               "note": null,
+              "unresolved_glyphs": [],
               "role": "column"
             },
             {
               "id": "f033-L-06",
-              "text": "人憂病後餘熱脈未静白虎竹葉石膏搜",
+              "text": "人憂病後餘熱脈未静白虎竹葉石{膏|羔}投",
               "bbox_xyxy": null,
               "note": null,
+              "unresolved_glyphs": [
+                {
+                  "raw_text_codepoint_range": [
+                    14,
+                    19
+                  ],
+                  "raw_text": "{膏|羔}",
+                  "raw_candidates": [
+                    "膏",
+                    "羔"
+                  ],
+                  "confidence": "unresolved",
+                  "note": "覆核裁決請見 proof-unit-coverage.private.json"
+                }
+              ],
               "role": "column"
             },
             {
@@ -6086,6 +7060,7 @@
               "text": "○陽厥還須用大柴不然承氣也當該陰",
               "bbox_xyxy": null,
               "note": null,
+              "unresolved_glyphs": [],
               "role": "column"
             }
           ],
@@ -6115,9 +7090,10 @@
           "units": [
             {
               "id": "f034-R-01",
-              "text": "厥四逆並眞武三建加之自{忖|恃}裁○胸膈",
+              "text": "厥四逆並眞武三建加之自忖裁○胸膈",
               "bbox_xyxy": null,
               "note": null,
+              "unresolved_glyphs": [],
               "role": "column"
             },
             {
@@ -6125,6 +7101,7 @@
               "text": "停痰氣悶時且用瓜蒂吐之宜怔忡水氣",
               "bbox_xyxy": null,
               "note": null,
+              "unresolved_glyphs": [],
               "role": "column"
             },
             {
@@ -6132,13 +7109,30 @@
               "text": "微有喘靑龍十棗最堪醫○陽毒班治如",
               "bbox_xyxy": null,
               "note": null,
+              "unresolved_glyphs": [],
               "role": "column"
             },
             {
               "id": "f034-R-04",
-              "text": "何梔子大黃黑奴散咽喉腫疼可須治甘",
+              "text": "何梔子大黃黑奴{散|移|影}咽喉腫疼可須治甘",
               "bbox_xyxy": null,
               "note": null,
+              "unresolved_glyphs": [
+                {
+                  "raw_text_codepoint_range": [
+                    7,
+                    14
+                  ],
+                  "raw_text": "{散|移|影}",
+                  "raw_candidates": [
+                    "散",
+                    "移",
+                    "影"
+                  ],
+                  "confidence": "unresolved",
+                  "note": "覆核裁決請見 proof-unit-coverage.private.json"
+                }
+              ],
               "role": "column"
             },
             {
@@ -6146,6 +7140,7 @@
               "text": "桔湯能愈此痾○膈痰冷氣如何治理中",
               "bbox_xyxy": null,
               "note": null,
+              "unresolved_glyphs": [],
               "role": "column"
             },
             {
@@ -6153,13 +7148,30 @@
               "text": "丸子君須記去血還須抵當湯噫氣不絕",
               "bbox_xyxy": null,
               "note": null,
+              "unresolved_glyphs": [],
               "role": "column"
             },
             {
               "id": "f034-R-07",
-              "text": "旋覆{革|花}○小便不通五苓宜猪苓八正皆",
+              "text": "旋覆{革|花|華}○小便不通五苓宜猪苓八正皆",
               "bbox_xyxy": null,
               "note": null,
+              "unresolved_glyphs": [
+                {
+                  "raw_text_codepoint_range": [
+                    2,
+                    9
+                  ],
+                  "raw_text": "{革|花|華}",
+                  "raw_candidates": [
+                    "革",
+                    "花",
+                    "華"
+                  ],
+                  "confidence": "unresolved",
+                  "note": "覆核裁決請見 proof-unit-coverage.private.json"
+                }
+              ],
               "role": "column"
             }
           ],
@@ -6170,9 +7182,24 @@
           "units": [
             {
               "id": "f034-L-01",
-              "text": "曰奇大便不通蜜導法硝黃服後餘其臍",
+              "text": "曰奇大便不通{蜜|塞}導法硝黃服後熨其臍",
               "bbox_xyxy": null,
               "note": null,
+              "unresolved_glyphs": [
+                {
+                  "raw_text_codepoint_range": [
+                    6,
+                    11
+                  ],
+                  "raw_text": "{蜜|塞}",
+                  "raw_candidates": [
+                    "蜜",
+                    "塞"
+                  ],
+                  "confidence": "unresolved",
+                  "note": "覆核裁決請見 proof-unit-coverage.private.json"
+                }
+              ],
               "role": "column"
             },
             {
@@ -6180,6 +7207,7 @@
               "text": "○熱吐五苓加半夏冷吐四逆茱萸加狐",
               "bbox_xyxy": null,
               "note": null,
+              "unresolved_glyphs": [],
               "role": "column"
             },
             {
@@ -6187,27 +7215,59 @@
               "text": "惑聲嗄人不曉大黃牡蠣衆皆誇○發黃",
               "bbox_xyxy": null,
               "note": null,
+              "unresolved_glyphs": [],
               "role": "column"
             },
             {
               "id": "f034-L-04",
-              "text": "梔子柏皮同退痘茵陳極有功治蠱桃仁",
+              "text": "梔子柏皮同退疸茵陳極有功治{蠱|暑}桃仁",
               "bbox_xyxy": null,
               "note": null,
+              "unresolved_glyphs": [
+                {
+                  "raw_text_codepoint_range": [
+                    13,
+                    18
+                  ],
+                  "raw_text": "{蠱|暑}",
+                  "raw_candidates": [
+                    "蠱",
+                    "暑"
+                  ],
+                  "confidence": "unresolved",
+                  "note": "覆核裁決請見 proof-unit-coverage.private.json"
+                }
+              ],
               "role": "column"
             },
             {
               "id": "f034-L-05",
-              "text": "犀角類大黃甘遂解結胸○昏沉多睡萎",
+              "text": "犀角類大黃甘遂解結胸○昏沉多睡{萎|姜}",
               "bbox_xyxy": null,
               "note": null,
+              "unresolved_glyphs": [
+                {
+                  "raw_text_codepoint_range": [
+                    15,
+                    20
+                  ],
+                  "raw_text": "{萎|姜}",
+                  "raw_candidates": [
+                    "萎",
+                    "姜"
+                  ],
+                  "confidence": "unresolved",
+                  "note": "覆核裁決請見 proof-unit-coverage.private.json"
+                }
+              ],
               "role": "column"
             },
             {
               "id": "f034-L-06",
-              "text": "蕤湯煩燥不眠酸棗方少陰自利白通美",
+              "text": "附湯煩燥不眠酸棗方少陰自利白通美",
               "bbox_xyxy": null,
               "note": null,
+              "unresolved_glyphs": [],
               "role": "column"
             },
             {
@@ -6215,6 +7275,7 @@
               "text": "脚氣續命越婢當○柔痙桂枝加乾葛剛",
               "bbox_xyxy": null,
               "note": null,
+              "unresolved_glyphs": [],
               "role": "column"
             }
           ],
@@ -6247,13 +7308,15 @@
               "text": "痙麻黃葛根和陰症似陽四逆宜陽症似",
               "bbox_xyxy": null,
               "note": null,
+              "unresolved_glyphs": [],
               "role": "column"
             },
             {
               "id": "f035-R-02",
-              "text": "陰白虎奪○食復勞復怎生醫枳實支子",
+              "text": "陰白虎奪○食復勞復怎生醫枳寔支子",
               "bbox_xyxy": null,
               "note": null,
+              "unresolved_glyphs": [],
               "role": "column"
             },
             {
@@ -6261,6 +7324,7 @@
               "text": "內中隨陰陽二易如何治燒褌鼠糞湯要",
               "bbox_xyxy": null,
               "note": null,
+              "unresolved_glyphs": [],
               "role": "column"
             },
             {
@@ -6268,13 +7332,15 @@
               "text": "知○吐蛔烏梅與理中風濕黃芪术附通",
               "bbox_xyxy": null,
               "note": null,
+              "unresolved_glyphs": [],
               "role": "column"
             },
             {
               "id": "f035-R-05",
-              "text": "腹痛急疼如何治桂枝加芍大黃中○吐",
+              "text": "腹痛急疼如何治桂枝加於大黃中○吐",
               "bbox_xyxy": null,
               "note": null,
+              "unresolved_glyphs": [],
               "role": "column"
             },
             {
@@ -6282,6 +7348,7 @@
               "text": "血解毒與三黃肉瞤筋惕眞武湯肺寔喘",
               "bbox_xyxy": null,
               "note": null,
+              "unresolved_glyphs": [],
               "role": "column"
             },
             {
@@ -6289,6 +7356,7 @@
               "text": "嗽青龍美衂血不止茅花嘗○",
               "bbox_xyxy": null,
               "note": "正文止於此欄；近摺有不接文字的微淡圓痕，未判是筆記",
+              "unresolved_glyphs": [],
               "role": "column"
             }
           ],
@@ -7516,7 +8584,10 @@
     },
     "unresolved_inline_markers": 36,
     "nonspace_text_codepoints_including_reading_markers": 6315,
-    "visible_han_codepoints_outside_uncertainty_markers": 6112
+    "visible_han_codepoints_outside_uncertainty_markers": 6112,
+    "reviewed_body_frames": 34,
+    "reviewed_units": 627,
+    "release_inline_unresolved_markers": 31
   },
   "official_manifest_sha256": "b15c187be9c18b4569e81c352be38070dc955b63670694839fb88a15fa301647",
   "source_rights": "Public Domain Mark 1.0 in the official IIIF manifest.",

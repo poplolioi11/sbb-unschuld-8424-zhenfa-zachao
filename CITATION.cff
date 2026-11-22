@@ -2,7 +2,7 @@ cff-version: 1.2.0
 type: dataset
 title: '診法雜抄（柏林國家圖書館 Slg. Unschuld 8424） / Zhenfa zachao [Miscellaneous Notes on Diagnostic
   Methods]: Transcription Dataset'
-version: 0.1.0
+version: 0.2.0
 message: Please cite this dataset version and source copy.
 authors:
 - family-names: Chu

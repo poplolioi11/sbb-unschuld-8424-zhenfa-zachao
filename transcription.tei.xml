@@ -10,10 +10,10 @@
         </respStmt>
       </titleStmt>
       <editionStmt>
-        <edition>0.1.0</edition>
+        <edition>0.2.0</edition>
       </editionStmt>
       <publicationStmt>
-        <p>2026-11-22. AI-assisted initial transcription with source references and marked uncertainties. Human full-text double proofreading, expert review, peer review and accuracy measurement were not performed.</p>
+        <p>2026-11-22. Source-image review compared independent observations with the initial transcription and records 59 image-supported changes. Uncertain readings remain marked. Human full-text double proofreading, expert review, peer review and accuracy measurement were not performed.</p>
       </publicationStmt>
       <sourceDesc>
         <p>Staatsbibliothek zu Berlin Slg. Unschuld 8424（PPN1688511644） <ref target="https://resolver.staatsbibliothek-berlin.de/SBB0002B2A400000000">Source catalogue</ref>
@@ -65,13 +65,13 @@
           <ab type="column" n="f003-R-02" xml:id="u-f003-R-02">春寅卯月木旺肝胆當令其脉弦長也</ab>
           <ab type="column" n="f003-R-03" xml:id="u-f003-R-03">脉濇浮短為鬼病在肝胆金尅木也</ab>
           <ab type="column" n="f003-R-04" xml:id="u-f003-R-04">遲緩為妻病在脾胃沉小者母也洪</ab>
-          <ab type="column" n="f003-R-05" xml:id="u-f003-R-05">大者子也春得脾而不□</ab>
+          <ab type="column" n="f003-R-05" xml:id="u-f003-R-05">大者子也春得脾而不療</ab>
           <ab type="column" n="f003-R-06" xml:id="u-f003-R-06">夏巳午月火旺心與小腸當令其脉洪</ab>
           <ab type="column" n="f003-R-07" xml:id="u-f003-R-07">大沉小為鬼病在心小腸濇短為妻</ab>
         </div>
         <div type="surface" n="L">
           <ab type="column" n="f003-L-01" xml:id="u-f003-L-01">病在肺與大腸弦長者母也遲緩者</ab>
-          <ab type="column" n="f003-L-02" xml:id="u-f003-L-02">子也夏得肺而難□</ab>
+          <ab type="column" n="f003-L-02" xml:id="u-f003-L-02">子也夏得肺而難瘥</ab>
           <ab type="column" n="f003-L-03" xml:id="u-f003-L-03">秋申酉月金旺肺與大腸當令其脉浮</ab>
           <ab type="column" n="f003-L-04" xml:id="u-f003-L-04">濇而短洪大為鬼病在肺與大腸弦</ab>
           <ab type="column" n="f003-L-05" xml:id="u-f003-L-05">長為妻病在肝胆遲緩者母也沉小</ab>
@@ -88,20 +88,20 @@
           <ab type="column" n="f004-R-01" xml:id="u-f004-R-01">在心小腸濇短者母也弦長子也冬</ab>
           <ab type="column" n="f004-R-02" xml:id="u-f004-R-02">見心而不治</ab>
           <ab type="column" n="f004-R-03" xml:id="u-f004-R-03">四季辰戌丑未月土各旺十八日脾與</ab>
-          <ab type="column" n="f004-R-04" xml:id="u-f004-R-04">胃當令其脈遲緩如春風攏柳弦長</ab>
+          <ab type="column" n="f004-R-04" xml:id="u-f004-R-04">胃當令其脈遲緩如春風{攏|擺}柳弦長</ab>
           <ab type="column" n="f004-R-05" xml:id="u-f004-R-05">為鬼病在脾胃沉小為妻病在腎與</ab>
           <ab type="column" n="f004-R-06" xml:id="u-f004-R-06">膀胱洪大者母也濇短者子也</ab>
           <ab type="heading" n="f004-R-07" xml:id="u-f004-R-07">臟腑說</ab>
         </div>
         <div type="surface" n="L">
-          <ab type="column" n="f004-L-01" xml:id="u-f004-L-01">臟{䐗|者}藏也藏精氣而不洩故滿而不</ab>
+          <ab type="column" n="f004-L-01" xml:id="u-f004-L-01">臟䐗藏也藏精氣而不洩故滿而不</ab>
           <ab type="column" n="f004-L-02" xml:id="u-f004-L-02">實也腑者聚也聚諸物而不滿故滿</ab>
           <ab type="column" n="f004-L-03" xml:id="u-f004-L-03">而不滿也二者相為表裏則一身之</ab>
           <ab type="column" n="f004-L-04" xml:id="u-f004-L-04">管轄也</ab>
           <ab type="heading" n="f004-L-05" xml:id="u-f004-L-05">五臟通面上五竅</ab>
           <ab type="column" n="f004-L-06" xml:id="u-f004-L-06">舌為心之苗咽乃肺之系目為腎之</ab>
           <ab type="inline-note" n="f004-L-06n" xml:id="u-f004-L-06n">肝</ab>
-          <ab type="column" n="f004-L-07" xml:id="u-f004-L-07">精脣乃脾之門耳為腎之竅也</ab>
+          <ab type="column" n="f004-L-07" xml:id="u-f004-L-07">精唇乃脾之門耳為腎之竅也</ab>
         </div>
       </div>
       <div n="5" type="scan" corresp="https://content.staatsbibliothek-berlin.de/dc/1688511644-0005/canvas">
@@ -115,12 +115,12 @@
         </div>
         <div type="surface" n="R肝">
           <ab type="table-label" n="f005-R肝-01" xml:id="u-f005-R肝-01">肝</ab>
-          <ab type="table-column" n="f005-R肝-02" xml:id="u-f005-R肝-02">春令東方甲乙木與膽相合脈弦長目乃肝之精面色青好食酸性發怒</ab>
+          <ab type="table-column" n="f005-R肝-02" xml:id="u-f005-R肝-02">春令東方甲乙木與胆相合脈弦長目乃肝之精面色青好食酸性發怒</ab>
           <ab type="table-column" n="f005-R肝-03" xml:id="u-f005-R肝-03">相反難治</ab>
         </div>
         <div type="surface" n="R脾">
           <ab type="table-label" n="f005-R脾-01" xml:id="u-f005-R脾-01">脾</ab>
-          <ab type="table-column" n="f005-R脾-02" xml:id="u-f005-R脾-02">四季月中央戊己土與胃相合脈遲緩如春風攏柳唇乃脾之門面色好食</ab>
+          <ab type="table-column" n="f005-R脾-02" xml:id="u-f005-R脾-02">四季月中{央|丑}戌己土與胃相合脈遲緩如春風{攏|擺}柳唇乃脾之門面色好食</ab>
           <ab type="inline-note" n="f005-R脾-02n" xml:id="u-f005-R脾-02n">黃</ab>
           <ab type="table-column" n="f005-R脾-03" xml:id="u-f005-R脾-03">甘性多眠体重相反不治</ab>
         </div>
@@ -132,7 +132,7 @@
         </div>
         <div type="surface" n="R腎">
           <ab type="table-label" n="f005-R腎-01" xml:id="u-f005-R腎-01">腎</ab>
-          <ab type="table-column" n="f005-R腎-02" xml:id="u-f005-R腎-02">冬令北方壬癸水與膀胱相合脈沉小耳乃腎之竅面色黑指甲青下洩足</ab>
+          <ab type="table-column" n="f005-R腎-02" xml:id="u-f005-R腎-02">冬令北方壬癸水與膀胱相合脈沉小耳乃腎之竅面色黑指甲青下{洩|湧}足</ab>
           <ab type="table-column" n="f005-R腎-03" xml:id="u-f005-R腎-03">冷性吟好食鹹反難治</ab>
         </div>
         <div type="surface" n="L">
@@ -144,8 +144,8 @@
           <ab type="table-subcolumn" n="f005-L小腸-03" xml:id="u-f005-L小腸-03">君火也</ab>
         </div>
         <div type="surface" n="L膽">
-          <ab type="table-label" n="f005-L膽-01" xml:id="u-f005-L膽-01">膽</ab>
-          <ab type="table-subcolumn" n="f005-L膽-02" xml:id="u-f005-L膽-02">肝與膽</ab>
+          <ab type="table-label" n="f005-L膽-01" xml:id="u-f005-L膽-01">胆</ab>
+          <ab type="table-subcolumn" n="f005-L膽-02" xml:id="u-f005-L膽-02">肝與胆</ab>
           <ab type="table-subcolumn" n="f005-L膽-03" xml:id="u-f005-L膽-03">風木也</ab>
         </div>
         <div type="surface" n="L胃">
@@ -266,7 +266,7 @@
           <ab type="inline-note" n="f006-L-02n" xml:id="u-f006-L-02n">日</ab>
           <ab type="column" n="f006-L-03" xml:id="u-f006-L-03">飲食多少大小便或秘或利目認人</ab>
           <ab type="column" n="f006-L-04" xml:id="u-f006-L-04">耳听見人否眼目直視神氣已散魚</ab>
-          <ab type="column" n="f006-L-05" xml:id="u-f006-L-05">口大張喘促難痊再看尺脈足踝骨</ab>
+          <ab type="column" n="f006-L-05" xml:id="u-f006-L-05">口大張喘促難瘥再看尺脈足踝骨</ab>
           <ab type="column" n="f006-L-06" xml:id="u-f006-L-06">太溪脈在否切者切其原因審得輕</ab>
           <ab type="column" n="f006-L-07" xml:id="u-f006-L-07">重虚實寒熱然後擇方用藥須要</ab>
           <ab type="inline-note" n="f006-L-07na" xml:id="u-f006-L-07na">斟</ab>
@@ -295,7 +295,7 @@
           <ab type="heading" n="f007-R-07" xml:id="u-f007-R-07">聽聲</ab>
         </div>
         <div type="surface" n="L">
-          <ab type="column" n="f007-L-01" xml:id="u-f007-L-01">肝病聲暴怒脾病思念歌唱心病{嘻|喜}</ab>
+          <ab type="column" n="f007-L-01" xml:id="u-f007-L-01">肝病聲暴怒脾病思念歌唱心病嘻</ab>
           <ab type="column" n="f007-L-02" xml:id="u-f007-L-02">笑肺多憂愁腎病沉吟恐懼</ab>
           <ab type="heading" n="f007-L-03" xml:id="u-f007-L-03">辨味</ab>
         </div>
@@ -330,7 +330,7 @@
           <ab type="column" n="f008-L-03" xml:id="u-f008-L-03">也十二{□|三}日終</ab>
           <ab type="column" n="f008-L-04" xml:id="u-f008-L-04">口鼻氣出不面唇反黑似煤皮毛焦乾爪</ab>
           <ab type="column" n="f008-L-05" xml:id="u-f008-L-05">枯肺絕也三五日終</ab>
-          <ab type="column" n="f008-L-06" xml:id="u-f008-L-06">面黑{薰|黧}{痛|瘡}目無光自汗如水腰折髮結腎</ab>
+          <ab type="column" n="f008-L-06" xml:id="u-f008-L-06">面黑{薰|黧}痛目無光自汗如水腰折髮結腎</ab>
           <ab type="column" n="f008-L-07" xml:id="u-f008-L-07">絕也四五日終</ab>
         </div>
       </div>
@@ -428,9 +428,9 @@
         </div>
         <div type="surface" n="L">
           <ab type="column" n="f013-L-01" xml:id="u-f013-L-01">肺為華盖居上膈只許清虚嫌滯塞</ab>
-          <ab type="column" n="f013-L-02" xml:id="u-f013-L-02">七情四氣有一傷欬為喘又而為嗽</ab>
+          <ab type="column" n="f013-L-02" xml:id="u-f013-L-02">七情四氣有一傷發為喘又而為嗽</ab>
           <ab type="column" n="f013-L-03" xml:id="u-f013-L-03">肺氣風寒咳痰清其聲清利無他說</ab>
-          <ab type="column" n="f013-L-04" xml:id="u-f013-L-04">肺寔風熱痰稠白其聲乾燥多咽{噬|唾|嗌}</ab>
+          <ab type="column" n="f013-L-04" xml:id="u-f013-L-04">肺寔風熱痰稠白其聲乾燥多咽嗌</ab>
           <ab type="column" n="f013-L-05" xml:id="u-f013-L-05">蘇沉九寶治風寒人參敗毒除風熱</ab>
           <ab type="column" n="f013-L-06" xml:id="u-f013-L-06">四季參蘇飲可兼天秋金沸稱奇絕</ab>
           <ab type="column" n="f013-L-07" xml:id="u-f013-L-07">肺痿咯血甘桔湯加上黃連真秘訣</ab>
@@ -439,12 +439,12 @@
       <div n="14" type="scan" corresp="https://content.staatsbibliothek-berlin.de/dc/1688511644-0014/canvas">
         <div type="surface" n="R">
           <ab type="heading" n="f014-R-01" xml:id="u-f014-R-01">宿食</ab>
-          <ab type="column" n="f014-R-02" xml:id="u-f014-R-02">宿食謂何不克消只因体虚脾胃弱</ab>
-          <ab type="column" n="f014-R-03" xml:id="u-f014-R-03">最怕過{食|滄}飲生冷遂成積滯不停調</ab>
-          <ab type="column" n="f014-R-04" xml:id="u-f014-R-04">吞酸嘔惡並{噯|噎}噫胸滿氣膈或熱潮</ab>
+          <ab type="column" n="f014-R-02" xml:id="u-f014-R-02">宿食謂何不克消只因躰虚脾胃弱</ab>
+          <ab type="column" n="f014-R-03" xml:id="u-f014-R-03">最怕過湌飲生冷遂成積滯不停調</ab>
+          <ab type="column" n="f014-R-04" xml:id="u-f014-R-04">吞酸嘔惡並{噯|噎|噫}噫胸滿氣膈或熱潮</ab>
           <ab type="column" n="f014-R-05" xml:id="u-f014-R-05">或秘或利無比對或有頭疼等樣症</ab>
           <ab type="column" n="f014-R-06" xml:id="u-f014-R-06">醫治之法甚容易量人虚寔用藥高</ab>
-          <ab type="column" n="f014-R-07" xml:id="u-f014-R-07">輕者三稜紅丸子重則大黃蒔伴交</ab>
+          <ab type="column" n="f014-R-07" xml:id="u-f014-R-07">輕者三稜紅丸子重則大黃{芍|蒔}伴交</ab>
         </div>
         <div type="surface" n="L">
           <ab type="column" n="f014-L-01" xml:id="u-f014-L-01">虚寒脾積並感應寔熱神芎黑丸調</ab>
@@ -452,7 +452,7 @@
           <ab type="heading" n="f014-L-03" xml:id="u-f014-L-03">水腫</ab>
           <ab type="column" n="f014-L-04" xml:id="u-f014-L-04">水腫之病出乎脾時醫不識亂猜疑</ab>
           <ab type="column" n="f014-L-05" xml:id="u-f014-L-05">腎水脾土兩要固脾土一虧水無圍</ab>
-          <ab type="column" n="f014-L-06" xml:id="u-f014-L-06">泛濫{逬|逆}流四肢去令人浮腫黃光輝</ab>
+          <ab type="column" n="f014-L-06" xml:id="u-f014-L-06">泛濫迸流四肢去令人浮腫黃光輝</ab>
           <ab type="column" n="f014-L-07" xml:id="u-f014-L-07">風腫氣腫並血腫陽水陰也要知水</ab>
           <ab type="inline-note" n="f014-L-07n" xml:id="u-f014-L-07n">水</ab>
         </div>
@@ -464,7 +464,7 @@
           <ab type="column" n="f015-R-03" xml:id="u-f015-R-03">陽水身熱陰水冷利水和脾搃治之</ab>
           <ab type="column" n="f015-R-04" xml:id="u-f015-R-04">木香流氣除三腫甚者當先用利宜</ab>
           <ab type="column" n="f015-R-05" xml:id="u-f015-R-05">陽水身熱八正散陰水身凉五苓奇</ab>
-          <ab type="column" n="f015-R-06" xml:id="u-f015-R-06">水腫通用牛黃散香平散予世間稀</ab>
+          <ab type="column" n="f015-R-06" xml:id="u-f015-R-06">水腫通用牛黃散香平散子世間稀</ab>
           <ab type="heading" n="f015-R-07" xml:id="u-f015-R-07">七診</ab>
         </div>
         <div type="surface" n="L">
@@ -506,7 +506,7 @@
         <div type="surface" n="L關">
           <ab type="table-label" n="f016-L關-01" xml:id="u-f016-L關-01">左關</ab>
           <ab type="table-subcolumn" n="f016-L關-02" xml:id="u-f016-L關-02">血海風木</ab>
-          <ab type="table-subcolumn" n="f016-L關-03" xml:id="u-f016-L關-03">足少陽膽</ab>
+          <ab type="table-subcolumn" n="f016-L關-03" xml:id="u-f016-L關-03">足少陽胆</ab>
           <ab type="table-subcolumn" n="f016-L關-04" xml:id="u-f016-L關-04">足厥陰肝</ab>
           <ab type="table-subcolumn" n="f016-L關-05" xml:id="u-f016-L關-05">甲乙木脈</ab>
           <ab type="table-subcolumn" n="f016-L關-06" xml:id="u-f016-L關-06">弦長也</ab>
@@ -569,7 +569,7 @@
           <ab type="column" n="f018-R-02" xml:id="u-f018-R-02">惟有緩脈居四季各旺一十八日尋</ab>
           <ab type="heading" n="f018-R-03" xml:id="u-f018-R-03">六經本脈歌</ab>
           <ab type="column" n="f018-R-04" xml:id="u-f018-R-04">浮脈為表太陽經陽明屬胃脈長宗</ab>
-          <ab type="column" n="f018-R-05" xml:id="u-f018-R-05">膽為少陽弦脈是太陰屬土細而沉</ab>
+          <ab type="column" n="f018-R-05" xml:id="u-f018-R-05">胆為少陽弦脈是太陰屬土細而沉</ab>
           <ab type="column" n="f018-R-06" xml:id="u-f018-R-06">惟有少陰沉咽痛厥陰囊縮現微沉</ab>
           <ab type="column" n="f018-R-07" xml:id="u-f018-R-07">識得六經本病脈醫家至此道通神</ab>
         </div>
@@ -591,24 +591,24 @@
           <ab type="column" n="f019-R-04" xml:id="u-f019-R-04">浮脈若居兩寸間肺風咳嗽喘促難</ab>
           <ab type="column" n="f019-R-05" xml:id="u-f019-R-05">吐咯膿血兼便秘心驚舌強語狂言</ab>
           <ab type="column" n="f019-R-06" xml:id="u-f019-R-06">浮到關中瀉泄頻上氣喘急飲食{臌|懶|餒}</ab>
-          <ab type="column" n="f019-R-07" xml:id="u-f019-R-07">風痺麻木筋攣縮腸風腰痛與身疼</ab>
+          <ab type="column" n="f019-R-07" xml:id="u-f019-R-07">風癱麻木筋攣縮腸風腰痛與身疼</ab>
         </div>
         <div type="surface" n="L">
-          <ab type="column" n="f019-L-01" xml:id="u-f019-L-01">浮臨左尺小腸殃腰痛足痛大便強</ab>
+          <ab type="column" n="f019-L-01" xml:id="u-f019-L-01">浮臨左尺小腸{疦|疚}腰痛足痛大便強</ab>
           <ab type="column" n="f019-L-02" xml:id="u-f019-L-02">腎虚膝腫痠麻木腿腫乏力又生瘡</ab>
           <ab type="heading" n="f019-L-03" xml:id="u-f019-L-03">沉脈</ab>
           <ab type="column" n="f019-L-04" xml:id="u-f019-L-04">沉脈居於寸部寒胸{臌|鼓}喘嗽飲食翻</ab>
-          <ab type="column" n="f019-L-05" xml:id="u-f019-L-05">膈氣痰多兼嘔血尿{驟|騎}無寢小便難</ab>
-          <ab type="column" n="f019-L-06" xml:id="u-f019-L-06">關脈沉兮腹虚鳴{疳|痞}氣少食怒生嗔</ab>
+          <ab type="column" n="f019-L-05" xml:id="u-f019-L-05">膈氣痰多兼嘔血尿駛無寢小便難</ab>
+          <ab type="column" n="f019-L-06" xml:id="u-f019-L-06">關脈沉兮腹虚鳴痞氣少食怒生嗔</ab>
           <ab type="column" n="f019-L-07" xml:id="u-f019-L-07">心腹脇痛吐紅洩手足痿痺最難任</ab>
         </div>
       </div>
       <div n="20" type="scan" corresp="https://content.staatsbibliothek-berlin.de/dc/1688511644-0020/canvas">
         <div type="surface" n="R">
           <ab type="column" n="f020-R-01" xml:id="u-f020-R-01">尺部脈沉氣滯腰小便淋閉脹難消</ab>
-          <ab type="column" n="f020-R-02" xml:id="u-f020-R-02">陰癲足腫疝氣欬足腫麻木不相饒</ab>
+          <ab type="column" n="f020-R-02" xml:id="u-f020-R-02">陰癲足腫疝氣發足腫麻木不相饒</ab>
           <ab type="heading" n="f020-R-03" xml:id="u-f020-R-03">遲脈</ab>
-          <ab type="column" n="f020-R-04" xml:id="u-f020-R-04">寸部脈遲心氣寒吐逆咳嗽飲{漿|水}難</ab>
+          <ab type="column" n="f020-R-04" xml:id="u-f020-R-04">寸部脈遲心氣寒吐逆咳嗽飲漿難</ab>
           <ab type="column" n="f020-R-05" xml:id="u-f020-R-05">虚汗腹腫小便數痞膈怔忡患伏梁</ab>
           <ab type="column" n="f020-R-06" xml:id="u-f020-R-06">遲脈急急到關中痞痰虫疼食上壅</ab>
           <ab type="column" n="f020-R-07" xml:id="u-f020-R-07">下泄痰嗽筋攣縮霍乱麻木多悸驚</ab>
@@ -618,10 +618,10 @@
           <ab type="column" n="f020-L-02" xml:id="u-f020-L-02">臍腫軟痛陰溢汗大便溏泄豈謬言</ab>
           <ab type="heading" n="f020-L-03" xml:id="u-f020-L-03">數脈</ab>
           <ab type="column" n="f020-L-04" xml:id="u-f020-L-04">數脈為熱寸口邊頭目咽痛又狂言</ab>
-          <ab type="column" n="f020-L-05" xml:id="u-f020-L-05">嗽血煩{喝|渴}大腸擁小便{驟|騎}濇條苗連</ab>
+          <ab type="column" n="f020-L-05" xml:id="u-f020-L-05">嗽血煩喝大腸{擁|穢|□}小便駛瀝條苗連</ab>
           <ab type="inline-note" n="f020-L-06n" xml:id="u-f020-L-06n">數</ab>
           <ab type="column" n="f020-L-06" xml:id="u-f020-L-06">臨脈臨關霍乱煩口苦乾渴並胃翻</ab>
-          <ab type="column" n="f020-L-07" xml:id="u-f020-L-07">肝經受熱通兩目不膽氣也傷残然</ab>
+          <ab type="column" n="f020-L-07" xml:id="u-f020-L-07">肝經受熱通兩目不胆氣也傷残然</ab>
           <ab type="inline-note" n="f020-L-07n" xml:id="u-f020-L-07n">然</ab>
         </div>
       </div>
@@ -672,13 +672,13 @@
           <ab type="table-subcolumn" n="f021-R緩-03" xml:id="u-f021-R緩-03">脈陰陽將復愈也</ab>
         </div>
         <div type="surface" n="L">
-          <ab type="heading" n="f021-L-01" xml:id="u-f021-L-01">傷寒脈訣不與雜症相同</ab>
+          <ab type="heading" n="f021-L-01" xml:id="u-f021-L-01">傷寒脈訣不與襍症相同</ab>
           <ab type="column" n="f021-L-02" xml:id="u-f021-L-02">大脈為陽是血虚滿指散漫氣常餘</ab>
           <ab type="column" n="f021-L-03" xml:id="u-f021-L-03">浮大晝加為病進陰症現之命頗宜</ab>
           <ab type="column" n="f021-L-04" xml:id="u-f021-L-04">重尋不足輕舉餘如木漂浮水面兮</ab>
           <ab type="column" n="f021-L-05" xml:id="u-f021-L-05">浮緊傷寒病在表浮緩傷風用桂枝</ab>
           <ab type="column" n="f021-L-06" xml:id="u-f021-L-06">數脈頻來六至多浮而數者表邪應</ab>
-          <ab type="column" n="f021-L-07" xml:id="u-f021-L-07">沉數之時為裏熱隨之尺寸可言病</ab>
+          <ab type="column" n="f021-L-07" xml:id="u-f021-L-07">沉數之時為裏熱隨之尺寸可言痾</ab>
         </div>
       </div>
       <div n="22" type="scan" corresp="https://content.staatsbibliothek-berlin.de/dc/1688511644-0022/canvas">
@@ -694,10 +694,10 @@
         <div type="surface" n="L">
           <ab type="column" n="f022-L-01" xml:id="u-f022-L-01">為寒為痛為水濕半表半裏少陽經</ab>
           <ab type="column" n="f022-L-02" xml:id="u-f022-L-02">緩無偏勝去來遲四肢柔和緩脉施</ab>
-          <ab type="column" n="f022-L-03" xml:id="u-f022-L-03">過經病後得此脈總是陰陽復{恃|持}時</ab>
+          <ab type="column" n="f022-L-03" xml:id="u-f022-L-03">過經病後得此脈總是陰陽復{恃|持|將}時</ab>
           <ab type="column" n="f022-L-04" xml:id="u-f022-L-04">弦而有力名曰緊緊是寒邪痛怎當</ab>
           <ab type="column" n="f022-L-05" xml:id="u-f022-L-05">頭痛背強腰脊痛惡寒無汗症麻黃</ab>
-          <ab type="column" n="f022-L-06" xml:id="u-f022-L-06">一息三至脈名遲遲則為陰病臟兮</ab>
+          <ab type="column" n="f022-L-06" xml:id="u-f022-L-06">一息三至脈名遲遲則為陰病腑兮</ab>
           <ab type="column" n="f022-L-07" xml:id="u-f022-L-07">寸關尺部沉遲等此是陰經寒中之</ab>
         </div>
       </div>
@@ -735,10 +735,10 @@
         <div type="surface" n="L">
           <ab type="column" n="f024-L-01" xml:id="u-f024-L-01">腦疼嘔頻頻食後傷寒精神損</ab>
           <ab type="column" n="f024-L-02" xml:id="u-f024-L-02">命脈洪大心胸熱潮渴三焦血氣結四枝</ab>
-          <ab type="column" n="f024-L-03" xml:id="u-f024-L-03">倦怠少精神食后傷風精氣別</ab>
+          <ab type="column" n="f024-L-03" xml:id="u-f024-L-03">倦急少精神食后傷風精氣別</ab>
           <ab type="column" n="f024-L-04" xml:id="u-f024-L-04">命脈微小號平和腎氣應教嘔逆多手足</ab>
           <ab type="column" n="f024-L-05" xml:id="u-f024-L-05">冷寒脾胃冷口淡無味不調和</ab>
-          <ab type="heading" n="f024-L-06" xml:id="u-f024-L-06">傷寒活人{賊|賦}賦</ab>
+          <ab type="heading" n="f024-L-06" xml:id="u-f024-L-06">傷寒活人賊賦</ab>
         </div>
       </div>
       <div n="25" type="scan" corresp="https://content.staatsbibliothek-berlin.de/dc/1688511644-0025/canvas">
@@ -763,11 +763,11 @@
       </div>
       <div n="26" type="scan" corresp="https://content.staatsbibliothek-berlin.de/dc/1688511644-0026/canvas">
         <div type="surface" n="R">
-          <ab type="column" n="f026-R-01" xml:id="u-f026-R-01">夫傷寒始自太陽{遞|遂}傳陽明至於厥陰而</ab>
+          <ab type="column" n="f026-R-01" xml:id="u-f026-R-01">夫傷寒始自太陽送傳陽明至於厥陰而</ab>
           <ab type="column" n="f026-R-02" xml:id="u-f026-R-02">止六經既別法治不同太陽屬膀胱非發</ab>
-          <ab type="column" n="f026-R-03" xml:id="u-f026-R-03">汗則不愈必用麻黃者以麻黃生於中{年|牟}</ab>
-          <ab type="column" n="f026-R-04" xml:id="u-f026-R-04">雪深五尺有麻黃處雪則不{驟|聚}蓋此藥能</ab>
-          <ab type="column" n="f026-R-05" xml:id="u-f026-R-05">通內陽郁外寒也陽明屬胃非通泄則不</ab>
+          <ab type="column" n="f026-R-03" xml:id="u-f026-R-03">汗則不愈必用麻黃者以麻黃生於中年</ab>
+          <ab type="column" n="f026-R-04" xml:id="u-f026-R-04">雪深五尺有麻黃處雪則不驟蓋此藥能</ab>
+          <ab type="column" n="f026-R-05" xml:id="u-f026-R-05">通內陽却外寒也陽明屬胃非通泄則不</ab>
           <ab type="column" n="f026-R-06" xml:id="u-f026-R-06">愈必用大黃芒硝以利之少陽屬胆無出</ab>
           <ab type="column" n="f026-R-07" xml:id="u-f026-R-07">入道柴胡與半夏能利能汗佐以子芩非</ab>
         </div>
@@ -787,7 +787,7 @@
           <ab type="column" n="f027-R-02" xml:id="u-f027-R-02">經雖用附子復用麻黃則知少陰亦自太</ab>
           <ab type="column" n="f027-R-03" xml:id="u-f027-R-03">陽出厥陰用桂自少陰出明矣及其二陽</ab>
           <ab type="column" n="f027-R-04" xml:id="u-f027-R-04">鬱閉皆當自陽明出故三陰皆有下症如</ab>
-          <ab type="column" n="f027-R-05" xml:id="u-f027-R-05">少陰口燥咽乾下利清水太陰腸滿{啼|時}痛</ab>
+          <ab type="column" n="f027-R-05" xml:id="u-f027-R-05">少陰口燥咽乾下利清水太陰腸滿{啼|時|轉}痛</ab>
           <ab type="column" n="f027-R-06" xml:id="u-f027-R-06">厥陰舌卷囊縮皆當下之學者宜詳審不</ab>
           <ab type="column" n="f027-R-07" xml:id="u-f027-R-07">可妄投也</ab>
         </div>
@@ -806,10 +806,10 @@
           <ab type="column" n="f028-R-01" xml:id="u-f028-R-01">用葛根有汗桂枝湯一劑便寔惡寒大柴</ab>
           <ab type="column" n="f028-R-02" xml:id="u-f028-R-02">胡此是陽明胃經位</ab>
           <ab type="column" n="f028-R-03" xml:id="u-f028-R-03">三日四日病轉深耳聾胸脇痛如針寒熱</ab>
-          <ab type="column" n="f028-R-04" xml:id="u-f028-R-04">嘔{通|逆}口乾苦此脈循脇絡耳眞強{勝|騰}之脈</ab>
+          <ab type="column" n="f028-R-04" xml:id="u-f028-R-04">嘔通口乾苦此脈循脇絡耳眞強勝之脈</ab>
           <ab type="inline-note" n="f028-R-04n" xml:id="u-f028-R-04n">渴</ab>
           <ab type="column" n="f028-R-05" xml:id="u-f028-R-05">眞可見小柴胡要酌斟似瘧女人血結類</ab>
-          <ab type="column" n="f028-R-06" xml:id="u-f028-R-06">此是少陽膽經尋</ab>
+          <ab type="column" n="f028-R-06" xml:id="u-f028-R-06">此是少陽胆經尋</ab>
           <ab type="column" n="f028-R-07" xml:id="u-f028-R-07">病傳四日及五日腹痛咽自温利自利而</ab>
           <ab type="inline-note" n="f028-R-07n" xml:id="u-f028-R-07n">乾</ab>
         </div>
@@ -826,12 +826,12 @@
       <div n="29" type="scan" corresp="https://content.staatsbibliothek-berlin.de/dc/1688511644-0029/canvas">
         <div type="surface" n="R">
           <ab type="column" n="f029-R-01" xml:id="u-f029-R-01">傷寒六日七日間煩滿囊縮脈微緩筋急</ab>
-          <ab type="column" n="f029-R-02" xml:id="u-f029-R-02">唇青四體疼脈尋陰氣絡到肝脈若不{濟|滯}</ab>
+          <ab type="column" n="f029-R-02" xml:id="u-f029-R-02">唇青四體疼脈尋陰氣絡到肝脈若不{濟|滯|浮}</ab>
           <ab type="column" n="f029-R-03" xml:id="u-f029-R-03">小建中浮緩似瘧妙各半囊縮汗毒承氣</ab>
           <ab type="column" n="f029-R-04" xml:id="u-f029-R-04">如此是厥陰肝經類</ab>
           <ab type="heading" n="f029-R-05" xml:id="u-f029-R-05">傷寒觀舌說</ab>
           <ab type="column" n="f029-R-06" xml:id="u-f029-R-06">觀舌者不離五行生尅之說也其舌色紅</ab>
-          <ab type="column" n="f029-R-07" xml:id="u-f029-R-07">者洩大黃者下之白者表之黑者温之如</ab>
+          <ab type="column" n="f029-R-07" xml:id="u-f029-R-07">者洩火黃者下之白者表之黑者温之如</ab>
         </div>
         <div type="surface" n="L">
           <ab type="column" n="f029-L-01" xml:id="u-f029-L-01">黑白相兼是火無氣多死黃白相兼金土</ab>
@@ -899,7 +899,7 @@
           <ab type="column" n="f032-L-03" xml:id="u-f032-L-03">應大瘥魚口開張命必翻有藥不喜但欲</ab>
           <ab type="column" n="f032-L-04" xml:id="u-f032-L-04">服能過七日暫能安</ab>
           <ab type="heading" n="f032-L-05" xml:id="u-f032-L-05">傷寒出汗</ab>
-          <ab type="list" n="f032-L-06" xml:id="u-f032-L-06">寅申己亥日一四七有汗子午卯酉日二</ab>
+          <ab type="list" n="f032-L-06" xml:id="u-f032-L-06">寅申{己|巳}亥日一四七有汗子午卯酉日二</ab>
           <ab type="list" n="f032-L-07" xml:id="u-f032-L-07">五八有汗辰戌丑未日三六九有汗</ab>
         </div>
       </div>
@@ -911,45 +911,45 @@
           <ab type="heading" n="f033-R-04" xml:id="u-f033-R-04">傷寒用藥法</ab>
           <ab type="column" n="f033-R-05" xml:id="u-f033-R-05">發熱憎寒体痛時脈浮無汗怎生醫十神</ab>
           <ab type="column" n="f033-R-06" xml:id="u-f033-R-06">五積香蘇散有汗傷風用桂枝○汗後仍</ab>
-          <ab type="column" n="f033-R-07" xml:id="u-f033-R-07">前病不除三朝四日莫{躊|躕}{躇|躅}或用參蘇或</ab>
+          <ab type="column" n="f033-R-07" xml:id="u-f033-R-07">前病不除三朝四日莫{躊|躕}{躇|躅|躕}或用參蘇或</ab>
         </div>
         <div type="surface" n="L">
-          <ab type="column" n="f033-L-01" xml:id="u-f033-L-01">敗毒加些良有病當舒○病傳入裏腹滿</ab>
+          <ab type="column" n="f033-L-01" xml:id="u-f033-L-01">敗毒加些良{有|劑}病當舒○病傳入裏腹{滿|膈}</ab>
           <ab type="column" n="f033-L-02" xml:id="u-f033-L-02">滿口乾熱盛小柴管病若仍前熱泄多加</ab>
           <ab type="column" n="f033-L-03" xml:id="u-f033-L-03">上柴苓湯一碗○六七日來病轉熱前後</ab>
           <ab type="column" n="f033-L-04" xml:id="u-f033-L-04">不通好飲啜或有乱語及尋衣大柴承氣</ab>
           <ab type="column" n="f033-L-05" xml:id="u-f033-L-05">可通泄○下後依前熱不休黃連解毒免</ab>
-          <ab type="column" n="f033-L-06" xml:id="u-f033-L-06">人憂病後餘熱脈未静白虎竹葉石膏搜</ab>
+          <ab type="column" n="f033-L-06" xml:id="u-f033-L-06">人憂病後餘熱脈未静白虎竹葉石{膏|羔}投</ab>
           <ab type="column" n="f033-L-07" xml:id="u-f033-L-07">○陽厥還須用大柴不然承氣也當該陰</ab>
         </div>
       </div>
       <div n="34" type="scan" corresp="https://content.staatsbibliothek-berlin.de/dc/1688511644-0034/canvas">
         <div type="surface" n="R">
-          <ab type="column" n="f034-R-01" xml:id="u-f034-R-01">厥四逆並眞武三建加之自{忖|恃}裁○胸膈</ab>
+          <ab type="column" n="f034-R-01" xml:id="u-f034-R-01">厥四逆並眞武三建加之自忖裁○胸膈</ab>
           <ab type="column" n="f034-R-02" xml:id="u-f034-R-02">停痰氣悶時且用瓜蒂吐之宜怔忡水氣</ab>
           <ab type="column" n="f034-R-03" xml:id="u-f034-R-03">微有喘靑龍十棗最堪醫○陽毒班治如</ab>
-          <ab type="column" n="f034-R-04" xml:id="u-f034-R-04">何梔子大黃黑奴散咽喉腫疼可須治甘</ab>
+          <ab type="column" n="f034-R-04" xml:id="u-f034-R-04">何梔子大黃黑奴{散|移|影}咽喉腫疼可須治甘</ab>
           <ab type="column" n="f034-R-05" xml:id="u-f034-R-05">桔湯能愈此痾○膈痰冷氣如何治理中</ab>
           <ab type="column" n="f034-R-06" xml:id="u-f034-R-06">丸子君須記去血還須抵當湯噫氣不絕</ab>
-          <ab type="column" n="f034-R-07" xml:id="u-f034-R-07">旋覆{革|花}○小便不通五苓宜猪苓八正皆</ab>
+          <ab type="column" n="f034-R-07" xml:id="u-f034-R-07">旋覆{革|花|華}○小便不通五苓宜猪苓八正皆</ab>
         </div>
         <div type="surface" n="L">
-          <ab type="column" n="f034-L-01" xml:id="u-f034-L-01">曰奇大便不通蜜導法硝黃服後餘其臍</ab>
+          <ab type="column" n="f034-L-01" xml:id="u-f034-L-01">曰奇大便不通{蜜|塞}導法硝黃服後熨其臍</ab>
           <ab type="column" n="f034-L-02" xml:id="u-f034-L-02">○熱吐五苓加半夏冷吐四逆茱萸加狐</ab>
           <ab type="column" n="f034-L-03" xml:id="u-f034-L-03">惑聲嗄人不曉大黃牡蠣衆皆誇○發黃</ab>
-          <ab type="column" n="f034-L-04" xml:id="u-f034-L-04">梔子柏皮同退痘茵陳極有功治蠱桃仁</ab>
-          <ab type="column" n="f034-L-05" xml:id="u-f034-L-05">犀角類大黃甘遂解結胸○昏沉多睡萎</ab>
-          <ab type="column" n="f034-L-06" xml:id="u-f034-L-06">蕤湯煩燥不眠酸棗方少陰自利白通美</ab>
+          <ab type="column" n="f034-L-04" xml:id="u-f034-L-04">梔子柏皮同退疸茵陳極有功治{蠱|暑}桃仁</ab>
+          <ab type="column" n="f034-L-05" xml:id="u-f034-L-05">犀角類大黃甘遂解結胸○昏沉多睡{萎|姜}</ab>
+          <ab type="column" n="f034-L-06" xml:id="u-f034-L-06">附湯煩燥不眠酸棗方少陰自利白通美</ab>
           <ab type="column" n="f034-L-07" xml:id="u-f034-L-07">脚氣續命越婢當○柔痙桂枝加乾葛剛</ab>
         </div>
       </div>
       <div n="35" type="scan" corresp="https://content.staatsbibliothek-berlin.de/dc/1688511644-0035/canvas">
         <div type="surface" n="R">
           <ab type="column" n="f035-R-01" xml:id="u-f035-R-01">痙麻黃葛根和陰症似陽四逆宜陽症似</ab>
-          <ab type="column" n="f035-R-02" xml:id="u-f035-R-02">陰白虎奪○食復勞復怎生醫枳實支子</ab>
+          <ab type="column" n="f035-R-02" xml:id="u-f035-R-02">陰白虎奪○食復勞復怎生醫枳寔支子</ab>
           <ab type="column" n="f035-R-03" xml:id="u-f035-R-03">內中隨陰陽二易如何治燒褌鼠糞湯要</ab>
           <ab type="column" n="f035-R-04" xml:id="u-f035-R-04">知○吐蛔烏梅與理中風濕黃芪术附通</ab>
-          <ab type="column" n="f035-R-05" xml:id="u-f035-R-05">腹痛急疼如何治桂枝加芍大黃中○吐</ab>
+          <ab type="column" n="f035-R-05" xml:id="u-f035-R-05">腹痛急疼如何治桂枝加於大黃中○吐</ab>
           <ab type="column" n="f035-R-06" xml:id="u-f035-R-06">血解毒與三黃肉瞤筋惕眞武湯肺寔喘</ab>
           <ab type="column" n="f035-R-07" xml:id="u-f035-R-07">嗽青龍美衂血不止茅花嘗○</ab>
         </div>
