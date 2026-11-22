@@ -1,0 +1,1939 @@
+{
+  "source": "https://resolver.staatsbibliothek-berlin.de/SBB0002B2A400000000",
+  "image_viewer": "https://content.staatsbibliothek-berlin.de/dc/PPN1688511644/manifest",
+  "source_rights": "https://creativecommons.org/publicdomain/mark/1.0/",
+  "shelfmark": "Staatsbibliothek zu Berlin Slg. Unschuld 8424（PPN1688511644）",
+  "data_version": "0.1.0",
+  "image_inventory": [
+    {
+      "image": 1,
+      "label": " -  [1]",
+      "id": "https://content.staatsbibliothek-berlin.de/dc/1688511644-0001/canvas",
+      "locator": "https://content.staatsbibliothek-berlin.de/dc/1688511644-0001/canvas",
+      "sha256": "a7a94ab579eda7f005badfea399170063f98d5e1660cc521c7969decce6e7fed",
+      "width": 848,
+      "height": 1833,
+      "layout": {
+        "type": "cover",
+        "right_zone": "unassigned",
+        "left_zone": "unassigned",
+        "visual_note": "窄幅深色書衣，白色剝斑大小不一，未見可辨題名",
+        "blocks": []
+      },
+      "writing_status": "layout_reviewed_only"
+    },
+    {
+      "image": 2,
+      "label": "[1] [2]",
+      "id": "https://content.staatsbibliothek-berlin.de/dc/1688511644-0002/canvas",
+      "locator": "https://content.staatsbibliothek-berlin.de/dc/1688511644-0002/canvas",
+      "sha256": "70aa5c8f7c7630c8ae6d4376dacf9ffe75ce6dbd3981c17b16533115dd8d9caf",
+      "width": 1532,
+      "height": 1818,
+      "layout": {
+        "type": "body",
+        "right_zone": "empty",
+        "left_zone": "three-table-bands",
+        "visual_note": "左面三個圖式或文字帶清楚可分；中折近底有破洞陳漬，字行大多仍存",
+        "blocks": [
+          {
+            "region": "L五行所生",
+            "bbox_xyxy": [
+              40,
+              210,
+              755,
+              800
+            ],
+            "comment": "整區，含近折題及分列五單元",
+            "coordinate_scope": "observed_region_approximate"
+          },
+          {
+            "region": "L相生",
+            "bbox_xyxy": [
+              40,
+              900,
+              755,
+              1255
+            ],
+            "comment": "整區",
+            "coordinate_scope": "observed_region_approximate"
+          },
+          {
+            "region": "L相尅",
+            "bbox_xyxy": [
+              40,
+              1235,
+              755,
+              1700
+            ],
+            "comment": "整區",
+            "coordinate_scope": "observed_region_approximate"
+          }
+        ]
+      },
+      "writing_status": "image_initial_with_uncertainties"
+    },
+    {
+      "image": 3,
+      "label": "[2] [3]",
+      "id": "https://content.staatsbibliothek-berlin.de/dc/1688511644-0003/canvas",
+      "locator": "https://content.staatsbibliothek-berlin.de/dc/1688511644-0003/canvas",
+      "sha256": "2608ce1f5ce3682936cc287b7f35e42ee262353c8679e6183e595917adde89e5",
+      "width": 1532,
+      "height": 1818,
+      "layout": {
+        "type": "body",
+        "right_zone": "main",
+        "left_zone": "main-and-small",
+        "visual_note": "左右直欄密寫，左葉中折與底端小字從原行分開讀；近底有水痕",
+        "blocks": [
+          {
+            "region": "Lsmall",
+            "bbox_xyxy": [
+              132,
+              1130,
+              266,
+              1690
+            ],
+            "comment": "保留試錄所列兩小字行的區域，具體補讀位置未定",
+            "coordinate_scope": "observed_region_approximate"
+          }
+        ]
+      },
+      "writing_status": "image_initial_with_uncertainties"
+    },
+    {
+      "image": 4,
+      "label": "[3] [4]",
+      "id": "https://content.staatsbibliothek-berlin.de/dc/1688511644-0004/canvas",
+      "locator": "https://content.staatsbibliothek-berlin.de/dc/1688511644-0004/canvas",
+      "sha256": "fb46d6b6f9c0168009318da816e24e3f9c82f7f3810f040a42eb8240e9b712e9",
+      "width": 1547,
+      "height": 1818,
+      "layout": {
+        "type": "body",
+        "right_zone": "main-and-heading",
+        "left_zone": "main-and-small",
+        "visual_note": "右末下條題「臟腑說」，左有題頭及「腎」旁小字；中折近底孔損",
+        "blocks": [
+          {
+            "region": "L",
+            "bbox_xyxy": [
+              40,
+              200,
+              755,
+              1670
+            ],
+            "comment": "左半正文區，含「肝」小字，近底損痕局部越入",
+            "coordinate_scope": "observed_region_approximate"
+          }
+        ]
+      },
+      "writing_status": "image_initial_with_uncertainties"
+    },
+    {
+      "image": 5,
+      "label": "[4] [5]",
+      "id": "https://content.staatsbibliothek-berlin.de/dc/1688511644-0005/canvas",
+      "locator": "https://content.staatsbibliothek-berlin.de/dc/1688511644-0005/canvas",
+      "sha256": "54905ae21d9c166d05a5282bb77d987f17fd8fc5610dedb230cd1cfc61abf190",
+      "width": 1559,
+      "height": 1818,
+      "layout": {
+        "type": "body",
+        "right_zone": "five-organ-table",
+        "left_zone": "six-fu-and-emotion-tables",
+        "visual_note": "兩半皆大小異字列，左含雙行細註與圈符；中折下部水痕孔損",
+        "blocks": [
+          {
+            "region": "R",
+            "bbox_xyxy": [
+              850,
+              75,
+              1525,
+              1705
+            ],
+            "comment": "五臟分表區，欄首臟名橫向安排",
+            "coordinate_scope": "observed_region_approximate"
+          },
+          {
+            "region": "L",
+            "bbox_xyxy": [
+              130,
+              78,
+              775,
+              1605
+            ],
+            "comment": "六腑、七情及九氣多列分組總區",
+            "coordinate_scope": "observed_region_approximate"
+          },
+          {
+            "region": "R心",
+            "bbox_xyxy": [
+              1287,
+              90,
+              1428,
+              1676
+            ],
+            "comment": "「心」橫標及其以下兩窄欄",
+            "coordinate_scope": "observed_region_approximate"
+          },
+          {
+            "region": "R肝",
+            "bbox_xyxy": [
+              1180,
+              96,
+              1294,
+              1676
+            ],
+            "comment": "「肝」橫標及其以下兩窄欄",
+            "coordinate_scope": "observed_region_approximate"
+          },
+          {
+            "region": "R脾",
+            "bbox_xyxy": [
+              1072,
+              95,
+              1217,
+              1702
+            ],
+            "comment": "「脾」橫標及其雙欄，含「黃」補字",
+            "coordinate_scope": "observed_region_approximate"
+          },
+          {
+            "region": "R肺",
+            "bbox_xyxy": [
+              967,
+              93,
+              1113,
+              1690
+            ],
+            "comment": "「肺」橫標及雙欄，含「合」補字",
+            "coordinate_scope": "observed_region_approximate"
+          },
+          {
+            "region": "R腎",
+            "bbox_xyxy": [
+              854,
+              94,
+              978,
+              1705
+            ],
+            "comment": "「腎」橫標及雙欄",
+            "coordinate_scope": "observed_region_approximate"
+          },
+          {
+            "region": "L小腸",
+            "bbox_xyxy": [
+              552,
+              87,
+              681,
+              489
+            ],
+            "comment": "條名及左右窄墨欄",
+            "coordinate_scope": "observed_region_approximate"
+          },
+          {
+            "region": "L膽",
+            "bbox_xyxy": [
+              544,
+              469,
+              667,
+              806
+            ],
+            "comment": "條名及左右窄墨欄",
+            "coordinate_scope": "observed_region_approximate"
+          },
+          {
+            "region": "L胃",
+            "bbox_xyxy": [
+              537,
+              796,
+              656,
+              1139
+            ],
+            "comment": "條名及左右窄墨欄",
+            "coordinate_scope": "observed_region_approximate"
+          },
+          {
+            "region": "L大腸",
+            "bbox_xyxy": [
+              537,
+              1136,
+              649,
+              1586
+            ],
+            "comment": "條名及左右窄墨欄",
+            "coordinate_scope": "observed_region_approximate"
+          },
+          {
+            "region": "L膀胱",
+            "bbox_xyxy": [
+              405,
+              86,
+              555,
+              558
+            ],
+            "comment": "條名及左右窄墨欄",
+            "coordinate_scope": "observed_region_approximate"
+          },
+          {
+            "region": "L三焦",
+            "bbox_xyxy": [
+              409,
+              600,
+              544,
+              1083
+            ],
+            "comment": "條名及左右窄墨欄",
+            "coordinate_scope": "observed_region_approximate"
+          },
+          {
+            "region": "L七情",
+            "bbox_xyxy": [
+              297,
+              305,
+              427,
+              877
+            ],
+            "comment": "七情長題所在直欄",
+            "coordinate_scope": "observed_region_approximate"
+          },
+          {
+            "region": "L九氣",
+            "bbox_xyxy": [
+              304,
+              900,
+              453,
+              1500
+            ],
+            "comment": "九氣以下的窄列及右側圓記",
+            "coordinate_scope": "observed_region_approximate"
+          }
+        ]
+      },
+      "writing_status": "image_initial_with_uncertainties"
+    },
+    {
+      "image": 6,
+      "label": "[5] [6]",
+      "id": "https://content.staatsbibliothek-berlin.de/dc/1688511644-0006/canvas",
+      "locator": "https://content.staatsbibliothek-berlin.de/dc/1688511644-0006/canvas",
+      "sha256": "2b82f6dac04e629eb95da990f215c682a88f075b96b1726f50ef42210152634e",
+      "width": 1559,
+      "height": 1818,
+      "layout": {
+        "type": "body",
+        "right_zone": "main-and-small",
+        "left_zone": "main",
+        "visual_note": "右首「六忌屬外感」等大／小字有不同版面，左直欄密寫；近底有水痕",
+        "blocks": [
+          {
+            "region": "R",
+            "bbox_xyxy": [
+              790,
+              95,
+              1490,
+              1700
+            ],
+            "comment": "六忌小字分表及望聞問切段",
+            "coordinate_scope": "observed_region_approximate"
+          },
+          {
+            "region": "R風",
+            "bbox_xyxy": [
+              1253,
+              90,
+              1388,
+              318
+            ],
+            "comment": "風字與兩行窄字",
+            "coordinate_scope": "observed_region_approximate"
+          },
+          {
+            "region": "R寒",
+            "bbox_xyxy": [
+              1260,
+              316,
+              1395,
+              573
+            ],
+            "comment": "寒字與兩行窄字",
+            "coordinate_scope": "observed_region_approximate"
+          },
+          {
+            "region": "R暑",
+            "bbox_xyxy": [
+              1265,
+              587,
+              1401,
+              872
+            ],
+            "comment": "暑字與兩行窄字",
+            "coordinate_scope": "observed_region_approximate"
+          },
+          {
+            "region": "R濕",
+            "bbox_xyxy": [
+              1267,
+              893,
+              1389,
+              1171
+            ],
+            "comment": "濕字與兩行窄字",
+            "coordinate_scope": "observed_region_approximate"
+          },
+          {
+            "region": "R燥",
+            "bbox_xyxy": [
+              1272,
+              1203,
+              1403,
+              1487
+            ],
+            "comment": "燥字與兩行窄字",
+            "coordinate_scope": "observed_region_approximate"
+          },
+          {
+            "region": "R熱",
+            "bbox_xyxy": [
+              1281,
+              1469,
+              1407,
+              1696
+            ],
+            "comment": "熱字與兩行窄字",
+            "coordinate_scope": "observed_region_approximate"
+          }
+        ]
+      },
+      "writing_status": "image_initial_with_uncertainties"
+    },
+    {
+      "image": 7,
+      "label": "[6] [7]",
+      "id": "https://content.staatsbibliothek-berlin.de/dc/1688511644-0007/canvas",
+      "locator": "https://content.staatsbibliothek-berlin.de/dc/1688511644-0007/canvas",
+      "sha256": "4da2be8db8daf57c4b03b854192ee02f3949085b4a256889ee456716a8b55480",
+      "width": 1559,
+      "height": 1818,
+      "layout": {
+        "type": "body",
+        "right_zone": "section-and-list",
+        "left_zone": "main-and-list",
+        "visual_note": "右起「觀色」與多欄列表，左有較短欄；中折下部水痕",
+        "blocks": [
+          {
+            "region": "R",
+            "bbox_xyxy": [
+              786,
+              179,
+              1515,
+              1530
+            ],
+            "comment": "觀色段，五行屬性小字位於各色右旁",
+            "coordinate_scope": "observed_region_approximate"
+          },
+          {
+            "region": "L辨味",
+            "bbox_xyxy": [
+              344,
+              194,
+              469,
+              1636
+            ],
+            "comment": "同一直欄五個由上至下的臟味詞組",
+            "coordinate_scope": "observed_region_approximate"
+          }
+        ]
+      },
+      "writing_status": "image_initial_with_uncertainties"
+    },
+    {
+      "image": 8,
+      "label": "[7] [8]",
+      "id": "https://content.staatsbibliothek-berlin.de/dc/1688511644-0008/canvas",
+      "locator": "https://content.staatsbibliothek-berlin.de/dc/1688511644-0008/canvas",
+      "sha256": "12e312db6b32c53831e03407d45e05d3ed68711ee79fce5f3b4feec46b760987",
+      "width": 1559,
+      "height": 1818,
+      "layout": {
+        "type": "body",
+        "right_zone": "section-and-main",
+        "left_zone": "main",
+        "visual_note": "右首「察色死症致」等短題及下段直列；中折近底有小缺",
+        "blocks": [
+          {
+            "region": "R",
+            "bbox_xyxy": [
+              790,
+              112,
+              1515,
+              1730
+            ],
+            "comment": "題及兩層詩句，以右、左各兩個相對欄位成行",
+            "coordinate_scope": "observed_region_approximate"
+          }
+        ]
+      },
+      "writing_status": "image_initial_with_uncertainties"
+    },
+    {
+      "image": 9,
+      "label": "[8] [9]",
+      "id": "https://content.staatsbibliothek-berlin.de/dc/1688511644-0009/canvas",
+      "locator": "https://content.staatsbibliothek-berlin.de/dc/1688511644-0009/canvas",
+      "sha256": "93ae3f09f2da15c106ef208a1c7d9e9a5f97bc1f90c8d98bdc42f55e2e1d0e5f",
+      "width": 1559,
+      "height": 1818,
+      "layout": {
+        "type": "body",
+        "right_zone": "section-and-main",
+        "left_zone": "section-and-main",
+        "visual_note": "右有「五臟病反死症」，中段「看病日忌」之後續寫至左面；中折底端較深水痕",
+        "blocks": []
+      },
+      "writing_status": "image_initial_with_uncertainties"
+    },
+    {
+      "image": 10,
+      "label": "[9] [10]",
+      "id": "https://content.staatsbibliothek-berlin.de/dc/1688511644-0010/canvas",
+      "locator": "https://content.staatsbibliothek-berlin.de/dc/1688511644-0010/canvas",
+      "sha256": "de9713c270d115620c8408e1a98e607c36d553d21389e8ae04adcc08bdc5b467",
+      "width": 1529,
+      "height": 1818,
+      "layout": {
+        "type": "body",
+        "right_zone": "section-and-main",
+        "left_zone": "section-and-main",
+        "visual_note": "右「風」，左「寒」「暑」各有題，左下深色水痕越中縫",
+        "blocks": [
+          {
+            "region": "fold",
+            "bbox_xyxy": [
+              620,
+              20,
+              860,
+              1780
+            ],
+            "comment": "中央修補帶與褐漬，部分臨字",
+            "coordinate_scope": "observed_region_approximate"
+          }
+        ]
+      },
+      "writing_status": "image_initial_with_uncertainties"
+    },
+    {
+      "image": 11,
+      "label": "[10] [11]",
+      "id": "https://content.staatsbibliothek-berlin.de/dc/1688511644-0011/canvas",
+      "locator": "https://content.staatsbibliothek-berlin.de/dc/1688511644-0011/canvas",
+      "sha256": "c98f5a7e11a292bcbd33f07e3c947ff52af5431ab99685f08c2b7e0a634a025d",
+      "width": 1520,
+      "height": 1818,
+      "layout": {
+        "type": "body",
+        "right_zone": "section-and-main",
+        "left_zone": "section-and-main",
+        "visual_note": "右有「濕」，左側含「夏之時……」的較短條；中折色深，底緣淡紋",
+        "blocks": []
+      },
+      "writing_status": "image_initial_with_uncertainties"
+    },
+    {
+      "image": 12,
+      "label": "[11] [12]",
+      "id": "https://content.staatsbibliothek-berlin.de/dc/1688511644-0012/canvas",
+      "locator": "https://content.staatsbibliothek-berlin.de/dc/1688511644-0012/canvas",
+      "sha256": "86f181da10c14a6495fe7f7e1ba15ebfd0d4fa5b85e58ebeee01c088dc46e702",
+      "width": 1520,
+      "height": 1818,
+      "layout": {
+        "type": "body",
+        "right_zone": "main",
+        "left_zone": "main",
+        "visual_note": "左右密寫而上方平齊度不一；中折底有微凹，暫未見整欄缺",
+        "blocks": []
+      },
+      "writing_status": "image_initial_with_uncertainties"
+    },
+    {
+      "image": 13,
+      "label": "[12] [13]",
+      "id": "https://content.staatsbibliothek-berlin.de/dc/1688511644-0013/canvas",
+      "locator": "https://content.staatsbibliothek-berlin.de/dc/1688511644-0013/canvas",
+      "sha256": "bee5867b912cd5f0cb86d256ddf4119a56b73ec7afac170f27b3770c261caf14",
+      "width": 1526,
+      "height": 1818,
+      "layout": {
+        "type": "body",
+        "right_zone": "main",
+        "left_zone": "main",
+        "visual_note": "兩面均有密欄，中折連續；右頁遍及近下緣",
+        "blocks": []
+      },
+      "writing_status": "image_initial_with_uncertainties"
+    },
+    {
+      "image": 14,
+      "label": "[13] [14]",
+      "id": "https://content.staatsbibliothek-berlin.de/dc/1688511644-0014/canvas",
+      "locator": "https://content.staatsbibliothek-berlin.de/dc/1688511644-0014/canvas",
+      "sha256": "2aee99aed67bbf5dbd4b4b11b5ef0d41e75fbcbb26dafb050ac8586b0c9252fc",
+      "width": 1541,
+      "height": 1818,
+      "layout": {
+        "type": "body",
+        "right_zone": "section-and-main",
+        "left_zone": "section-and-main",
+        "visual_note": "「宿食」「水」「風」等題單占短欄，中折左側有淡長折痕",
+        "blocks": []
+      },
+      "writing_status": "image_initial_with_uncertainties"
+    },
+    {
+      "image": 15,
+      "label": "[14] [15]",
+      "id": "https://content.staatsbibliothek-berlin.de/dc/1688511644-0015/canvas",
+      "locator": "https://content.staatsbibliothek-berlin.de/dc/1688511644-0015/canvas",
+      "sha256": "6a4f7ba8e0a2ff5e83af1e476e07067367b8cb3d48183d83dab2a026396f3d14",
+      "width": 1541,
+      "height": 1818,
+      "layout": {
+        "type": "body",
+        "right_zone": "main",
+        "left_zone": "main",
+        "visual_note": "兩面直欄較多，左側有較短欄中段題，底端稍失齊",
+        "blocks": []
+      },
+      "writing_status": "image_initial_with_uncertainties"
+    },
+    {
+      "image": 16,
+      "label": "[15] [16]",
+      "id": "https://content.staatsbibliothek-berlin.de/dc/1688511644-0016/canvas",
+      "locator": "https://content.staatsbibliothek-berlin.de/dc/1688511644-0016/canvas",
+      "sha256": "51d36b4b039ae89aa3cd4c3d3d82c6d5c3fc120132bc0fb343762c3c85062015",
+      "width": 1554,
+      "height": 1818,
+      "layout": {
+        "type": "body",
+        "right_zone": "main",
+        "left_zone": "table-and-main",
+        "visual_note": "左側「左合」「左關」「左尺」大字與旁列小字讀序需獨立；中折近底微皺",
+        "blocks": [
+          {
+            "region": "L寸",
+            "bbox_xyxy": [
+              83,
+              107,
+              332,
+              612
+            ],
+            "comment": "大字「左合」及小「寸」和四個子欄",
+            "coordinate_scope": "observed_region_approximate"
+          },
+          {
+            "region": "L關",
+            "bbox_xyxy": [
+              44,
+              610,
+              330,
+              1055
+            ],
+            "comment": "大字「左關」及五個子欄",
+            "coordinate_scope": "observed_region_approximate"
+          },
+          {
+            "region": "L尺",
+            "bbox_xyxy": [
+              72,
+              1055,
+              350,
+              1740
+            ],
+            "comment": "大字「左尺」及四個子欄與尾短欄",
+            "coordinate_scope": "observed_region_approximate"
+          }
+        ]
+      },
+      "writing_status": "image_initial_with_uncertainties"
+    },
+    {
+      "image": 17,
+      "label": "[16] [17]",
+      "id": "https://content.staatsbibliothek-berlin.de/dc/1688511644-0017/canvas",
+      "locator": "https://content.staatsbibliothek-berlin.de/dc/1688511644-0017/canvas",
+      "sha256": "c98f90ba46183dabb8889567732ffadc1aac69942ea06cb30fe9fe9f72de3dc7",
+      "width": 1554,
+      "height": 1818,
+      "layout": {
+        "type": "body",
+        "right_zone": "table-and-main",
+        "left_zone": "main",
+        "visual_note": "右側「右合」「右關」「右尺」大字與旁小字；左葉上緣有單寫圈符",
+        "blocks": [
+          {
+            "region": "R寸",
+            "bbox_xyxy": [
+              1205,
+              98,
+              1410,
+              545
+            ],
+            "comment": "大字「右合」及小「寸」和四個子欄",
+            "coordinate_scope": "observed_region_approximate"
+          },
+          {
+            "region": "R關",
+            "bbox_xyxy": [
+              1198,
+              555,
+              1410,
+              1030
+            ],
+            "comment": "大字「右關」與四個子欄",
+            "coordinate_scope": "observed_region_approximate"
+          },
+          {
+            "region": "R尺",
+            "bbox_xyxy": [
+              1192,
+              1035,
+              1409,
+              1648
+            ],
+            "comment": "大字「右尺」與四個子欄及尾短欄",
+            "coordinate_scope": "observed_region_approximate"
+          },
+          {
+            "region": "Lmargin",
+            "bbox_xyxy": [
+              54,
+              45,
+              104,
+              102
+            ],
+            "comment": "孤立墨圈",
+            "coordinate_scope": "observed_region_approximate"
+          }
+        ]
+      },
+      "writing_status": "image_initial_with_uncertainties"
+    },
+    {
+      "image": 18,
+      "label": "[17] [18]",
+      "id": "https://content.staatsbibliothek-berlin.de/dc/1688511644-0018/canvas",
+      "locator": "https://content.staatsbibliothek-berlin.de/dc/1688511644-0018/canvas",
+      "sha256": "31d8ea4c1aee2409cda8f61cd497012da9c13fca541cd989d7ce8b78efe5385c",
+      "width": 1554,
+      "height": 1818,
+      "layout": {
+        "type": "body",
+        "right_zone": "main",
+        "left_zone": "main",
+        "visual_note": "密直欄，若干短欄或方整段落分隔，未見獨立大圖",
+        "blocks": []
+      },
+      "writing_status": "image_initial_with_uncertainties"
+    },
+    {
+      "image": 19,
+      "label": "[18] [19]",
+      "id": "https://content.staatsbibliothek-berlin.de/dc/1688511644-0019/canvas",
+      "locator": "https://content.staatsbibliothek-berlin.de/dc/1688511644-0019/canvas",
+      "sha256": "b000fe0a44230f95ae51454106e14897ab0c8642c6c04da7809f56b40e4c48b6",
+      "width": 1554,
+      "height": 1818,
+      "layout": {
+        "type": "body",
+        "right_zone": "main-and-heading",
+        "left_zone": "main-and-heading",
+        "visual_note": "「浮脈」「沉脈」各有單獨名目，右緣與中折處有細淡紙紋",
+        "blocks": []
+      },
+      "writing_status": "image_initial_with_uncertainties"
+    },
+    {
+      "image": 20,
+      "label": "[19] [20]",
+      "id": "https://content.staatsbibliothek-berlin.de/dc/1688511644-0020/canvas",
+      "locator": "https://content.staatsbibliothek-berlin.de/dc/1688511644-0020/canvas",
+      "sha256": "15041b0671de553081c0127f9fdee117d27f9e3fb151e9adf64a5ef2493fbe7f",
+      "width": 1523,
+      "height": 1818,
+      "layout": {
+        "type": "body",
+        "right_zone": "main-and-heading",
+        "left_zone": "main",
+        "visual_note": "「遲脈」「數脈」單獨名目後有直欄，文字密而中折清楚",
+        "blocks": []
+      },
+      "writing_status": "image_initial_with_uncertainties"
+    },
+    {
+      "image": 21,
+      "label": "[20] [21]",
+      "id": "https://content.staatsbibliothek-berlin.de/dc/1688511644-0021/canvas",
+      "locator": "https://content.staatsbibliothek-berlin.de/dc/1688511644-0021/canvas",
+      "sha256": "fb4566d4cb2e9c347522e2a96362b7570825f3f494022106557f19fe61352f22",
+      "width": 1523,
+      "height": 1818,
+      "layout": {
+        "type": "body",
+        "right_zone": "main-and-annotations",
+        "left_zone": "section-and-main",
+        "visual_note": "右面近中折多種字級與名目，左面「傷寒脈訣」另起",
+        "blocks": [
+          {
+            "region": "Rtable-right",
+            "bbox_xyxy": [
+              1047,
+              180,
+              1176,
+              1640
+            ],
+            "comment": "浮、沉、遲、數等四組",
+            "coordinate_scope": "observed_region_approximate"
+          },
+          {
+            "region": "Rtable-left",
+            "bbox_xyxy": [
+              842,
+              180,
+              985,
+              1695
+            ],
+            "comment": "滑、濇、大、緩等四組",
+            "coordinate_scope": "observed_region_approximate"
+          },
+          {
+            "region": "R浮",
+            "bbox_xyxy": [
+              1058,
+              195,
+              1166,
+              553
+            ],
+            "comment": "右組首標及兩子欄",
+            "coordinate_scope": "observed_region_approximate"
+          },
+          {
+            "region": "R沉",
+            "bbox_xyxy": [
+              1048,
+              608,
+              1166,
+              916
+            ],
+            "comment": "右組第二標及兩子欄",
+            "coordinate_scope": "observed_region_approximate"
+          },
+          {
+            "region": "R遲",
+            "bbox_xyxy": [
+              1049,
+              920,
+              1180,
+              1211
+            ],
+            "comment": "右組第三標及兩子欄",
+            "coordinate_scope": "observed_region_approximate"
+          },
+          {
+            "region": "R數",
+            "bbox_xyxy": [
+              1054,
+              1220,
+              1185,
+              1623
+            ],
+            "comment": "右組末標及兩子欄",
+            "coordinate_scope": "observed_region_approximate"
+          },
+          {
+            "region": "R滑",
+            "bbox_xyxy": [
+              848,
+              191,
+              976,
+              563
+            ],
+            "comment": "左組首標及兩子欄",
+            "coordinate_scope": "observed_region_approximate"
+          },
+          {
+            "region": "R濇",
+            "bbox_xyxy": [
+              848,
+              605,
+              981,
+              906
+            ],
+            "comment": "左組第二標及兩子欄",
+            "coordinate_scope": "observed_region_approximate"
+          },
+          {
+            "region": "R大",
+            "bbox_xyxy": [
+              846,
+              908,
+              982,
+              1218
+            ],
+            "comment": "左組第三標及兩子欄",
+            "coordinate_scope": "observed_region_approximate"
+          },
+          {
+            "region": "R緩",
+            "bbox_xyxy": [
+              841,
+              1223,
+              990,
+              1704
+            ],
+            "comment": "左組末標及兩子欄",
+            "coordinate_scope": "observed_region_approximate"
+          }
+        ]
+      },
+      "writing_status": "image_initial_with_uncertainties"
+    },
+    {
+      "image": 22,
+      "label": "[21] [22]",
+      "id": "https://content.staatsbibliothek-berlin.de/dc/1688511644-0022/canvas",
+      "locator": "https://content.staatsbibliothek-berlin.de/dc/1688511644-0022/canvas",
+      "sha256": "24f9193623cc170cfb1f358caa0d208ee3cc08b572930be6b309717a49519d70",
+      "width": 1523,
+      "height": 1818,
+      "layout": {
+        "type": "body",
+        "right_zone": "main",
+        "left_zone": "main",
+        "visual_note": "雙面密欄，上緣與下緣均仍見行文",
+        "blocks": []
+      },
+      "writing_status": "image_initial_with_uncertainties"
+    },
+    {
+      "image": 23,
+      "label": "[22] [23]",
+      "id": "https://content.staatsbibliothek-berlin.de/dc/1688511644-0023/canvas",
+      "locator": "https://content.staatsbibliothek-berlin.de/dc/1688511644-0023/canvas",
+      "sha256": "1983b7e0597e6547defc409e689de0e5216d5375e018c9fcc418db08935509a1",
+      "width": 1523,
+      "height": 1818,
+      "layout": {
+        "type": "body",
+        "right_zone": "heading-and-list",
+        "left_zone": "list",
+        "visual_note": "「脈訣」後多列自冠臟名，兩半都有列表式行文",
+        "blocks": []
+      },
+      "writing_status": "image_initial_with_uncertainties"
+    },
+    {
+      "image": 24,
+      "label": "[23] [24]",
+      "id": "https://content.staatsbibliothek-berlin.de/dc/1688511644-0024/canvas",
+      "locator": "https://content.staatsbibliothek-berlin.de/dc/1688511644-0024/canvas",
+      "sha256": "2d2472e96c62472b10864d4a4a4e318363477ce0d49b306336a41991db19defb",
+      "width": 1532,
+      "height": 1818,
+      "layout": {
+        "type": "body",
+        "right_zone": "main",
+        "left_zone": "main-and-heading",
+        "visual_note": "右面密寫，最左「傷寒治人臟腑」另起題樣",
+        "blocks": []
+      },
+      "writing_status": "image_initial_with_uncertainties"
+    },
+    {
+      "image": 25,
+      "label": "[24] [25]",
+      "id": "https://content.staatsbibliothek-berlin.de/dc/1688511644-0025/canvas",
+      "locator": "https://content.staatsbibliothek-berlin.de/dc/1688511644-0025/canvas",
+      "sha256": "53e2f4ec13fcca1dd2e3f3671a3b10ab69cc28a57107efdd29ca36af58dc5cb3",
+      "width": 1532,
+      "height": 1818,
+      "layout": {
+        "type": "body",
+        "right_zone": "main",
+        "left_zone": "main-and-heading",
+        "visual_note": "雙面直欄，左端短題，摺線可見無明顯整欄缺",
+        "blocks": []
+      },
+      "writing_status": "image_initial_with_uncertainties"
+    },
+    {
+      "image": 26,
+      "label": "[25] [26]",
+      "id": "https://content.staatsbibliothek-berlin.de/dc/1688511644-0026/canvas",
+      "locator": "https://content.staatsbibliothek-berlin.de/dc/1688511644-0026/canvas",
+      "sha256": "824fef3b9f5d55c793f2955ed338f0897e4d82cbea43b2cf6e5f0a9978ecf4f7",
+      "width": 1541,
+      "height": 1818,
+      "layout": {
+        "type": "body",
+        "right_zone": "main",
+        "left_zone": "main",
+        "visual_note": "前幾欄有條目起語「夫傷寒」等；全幅密寫，紙面底微污",
+        "blocks": []
+      },
+      "writing_status": "image_initial_with_uncertainties"
+    },
+    {
+      "image": 27,
+      "label": "[26] [27]",
+      "id": "https://content.staatsbibliothek-berlin.de/dc/1688511644-0027/canvas",
+      "locator": "https://content.staatsbibliothek-berlin.de/dc/1688511644-0027/canvas",
+      "sha256": "f053d747518112b265c30858961082d650c2b2c4abd416c6321c9666aed83fb1",
+      "width": 1541,
+      "height": 1818,
+      "layout": {
+        "type": "body",
+        "right_zone": "main",
+        "left_zone": "heading-and-main",
+        "visual_note": "右面說理，右面末至中線另題，左面續寫；局部可見較短行",
+        "blocks": []
+      },
+      "writing_status": "image_initial_with_uncertainties"
+    },
+    {
+      "image": 28,
+      "label": "[27] [28]",
+      "id": "https://content.staatsbibliothek-berlin.de/dc/1688511644-0028/canvas",
+      "locator": "https://content.staatsbibliothek-berlin.de/dc/1688511644-0028/canvas",
+      "sha256": "023ad3f9e5c40ebc2cb022d89d796ba6d763583ad695157e38c64f183381a914",
+      "width": 1541,
+      "height": 1818,
+      "layout": {
+        "type": "body",
+        "right_zone": "main",
+        "left_zone": "main",
+        "visual_note": "雙面滿列，中折及底緣可辨，外緣有散紙斑",
+        "blocks": []
+      },
+      "writing_status": "image_initial_with_uncertainties"
+    },
+    {
+      "image": 29,
+      "label": "[28] [29]",
+      "id": "https://content.staatsbibliothek-berlin.de/dc/1688511644-0029/canvas",
+      "locator": "https://content.staatsbibliothek-berlin.de/dc/1688511644-0029/canvas",
+      "sha256": "e0ac175ba34b74973e1b10f8fa777db1d664c64a60bd4064a11a764bea8677d6",
+      "width": 1541,
+      "height": 1818,
+      "layout": {
+        "type": "body",
+        "right_zone": "main",
+        "left_zone": "main-and-headings",
+        "visual_note": "全幅大多密欄，右側具「傷寒觀舌說」題樣，文字跨至左面",
+        "blocks": []
+      },
+      "writing_status": "image_initial_with_uncertainties"
+    },
+    {
+      "image": 30,
+      "label": "[29] [30]",
+      "id": "https://content.staatsbibliothek-berlin.de/dc/1688511644-0030/canvas",
+      "locator": "https://content.staatsbibliothek-berlin.de/dc/1688511644-0030/canvas",
+      "sha256": "44aa82d1ea3fcd3c1f4425370e522bff75acc3c54e6e59ad452f716b1972cea4",
+      "width": 1550,
+      "height": 1818,
+      "layout": {
+        "type": "body",
+        "right_zone": "main",
+        "left_zone": "main",
+        "visual_note": "雙面密欄數列帶圈符，未見大面積缺字",
+        "blocks": []
+      },
+      "writing_status": "image_initial_with_uncertainties"
+    },
+    {
+      "image": 31,
+      "label": "[30] [31]",
+      "id": "https://content.staatsbibliothek-berlin.de/dc/1688511644-0031/canvas",
+      "locator": "https://content.staatsbibliothek-berlin.de/dc/1688511644-0031/canvas",
+      "sha256": "4716b6ecc6ea6d0317e19e93d97dd29b5ed57521a55fe0acbceaf2271d311003",
+      "width": 1560,
+      "height": 1818,
+      "layout": {
+        "type": "body",
+        "right_zone": "heading-and-main",
+        "left_zone": "main",
+        "visual_note": "右面中段「傷寒五臟受病歌」另寫，左面續歌並見「診傷寒死脈歌」",
+        "blocks": []
+      },
+      "writing_status": "image_initial_with_uncertainties"
+    },
+    {
+      "image": 32,
+      "label": "[31] [32]",
+      "id": "https://content.staatsbibliothek-berlin.de/dc/1688511644-0032/canvas",
+      "locator": "https://content.staatsbibliothek-berlin.de/dc/1688511644-0032/canvas",
+      "sha256": "f5c5817e7e2c4b1d80cb1ab4ebe23a6af89563c1fad3086e1443379c96291261",
+      "width": 1560,
+      "height": 1818,
+      "layout": {
+        "type": "body",
+        "right_zone": "heading-and-main",
+        "left_zone": "main-and-list",
+        "visual_note": "右面「陰毒傷寒歌」「陽毒傷寒歌」另寫，左面「傷寒出汗」下按干支與日數列欄",
+        "blocks": []
+      },
+      "writing_status": "image_initial_with_uncertainties"
+    },
+    {
+      "image": 33,
+      "label": "[32] [33]",
+      "id": "https://content.staatsbibliothek-berlin.de/dc/1688511644-0033/canvas",
+      "locator": "https://content.staatsbibliothek-berlin.de/dc/1688511644-0033/canvas",
+      "sha256": "ec8ab00838452e8c6e9e92253e74be783defab6c3005d7657ce85d78a8688bec",
+      "width": 1560,
+      "height": 1818,
+      "layout": {
+        "type": "body",
+        "right_zone": "heading-and-main",
+        "left_zone": "main-and-list",
+        "visual_note": "右首「出汗定時」下列干支時點，另見「傷寒用藥法」段。左面反覆見原圈符",
+        "blocks": []
+      },
+      "writing_status": "image_initial_with_uncertainties"
+    },
+    {
+      "image": 34,
+      "label": "[33] [34]",
+      "id": "https://content.staatsbibliothek-berlin.de/dc/1688511644-0034/canvas",
+      "locator": "https://content.staatsbibliothek-berlin.de/dc/1688511644-0034/canvas",
+      "sha256": "c36cfa03407cd578733f1471b8219712e52149b5a1922fb7846089fffb30698f",
+      "width": 1560,
+      "height": 1818,
+      "layout": {
+        "type": "body",
+        "right_zone": "main",
+        "left_zone": "main-and-list",
+        "visual_note": "雙面密欄，左面多圈符，仍可見末段文字",
+        "blocks": []
+      },
+      "writing_status": "image_initial_with_uncertainties"
+    },
+    {
+      "image": 35,
+      "label": "[34] [35]",
+      "id": "https://content.staatsbibliothek-berlin.de/dc/1688511644-0035/canvas",
+      "locator": "https://content.staatsbibliothek-berlin.de/dc/1688511644-0035/canvas",
+      "sha256": "c72d23e621de898525414048f5e047583ce3b7a57bcf21ec199dd2f5c295b056",
+      "width": 1560,
+      "height": 1818,
+      "layout": {
+        "type": "body",
+        "right_zone": "main",
+        "left_zone": "empty-with-marks",
+        "visual_note": "右葉有末段，末欄「嘗」後一個原墨圈，近中折偏上的微淡圓痕留疑。左葉兩處大黑形似孔或紙痕，未見新的文字欄",
+        "blocks": []
+      },
+      "writing_status": "image_initial_with_uncertainties"
+    },
+    {
+      "image": 36,
+      "label": "[35] [36]",
+      "id": "https://content.staatsbibliothek-berlin.de/dc/1688511644-0036/canvas",
+      "locator": "https://content.staatsbibliothek-berlin.de/dc/1688511644-0036/canvas",
+      "sha256": "58acd4349b4086889e181d836b12bab6bce3cfbe872ec4e725db07e78f5cb6d6",
+      "width": 1560,
+      "height": 1818,
+      "layout": {
+        "type": "no-confirmed-writing",
+        "right_zone": "marks-only",
+        "left_zone": "damaged-and-marks",
+        "visual_note": "原尺寸回看左上緣破失與分散黑形，黑形與孔洞不規則相通；近左中上有一淡灰印痕，無連續可認成字筆畫；不推定是否曾有稿",
+        "blocks": [
+          {
+            "region": "Ldamage",
+            "bbox_xyxy": [
+              52,
+              59,
+              760,
+              1735
+            ],
+            "comment": "原件黑孔、邊破和淡灰未判墨跡分布",
+            "coordinate_scope": "observed_region_approximate"
+          }
+        ]
+      },
+      "writing_status": "layout_reviewed_only"
+    },
+    {
+      "image": 37,
+      "label": " -  [37]",
+      "id": "https://content.staatsbibliothek-berlin.de/dc/1688511644-0037/canvas",
+      "locator": "https://content.staatsbibliothek-berlin.de/dc/1688511644-0037/canvas",
+      "sha256": "31e307a7570a70e794cda8acb89dc5f308165fc6a1335c16e95898cb2a20e973",
+      "width": 849,
+      "height": 1818,
+      "layout": {
+        "type": "cover",
+        "right_zone": "unassigned",
+        "left_zone": "unassigned",
+        "visual_note": "窄幅書衣，深底大塊磨耗露色，未見題字",
+        "blocks": []
+      },
+      "writing_status": "layout_reviewed_only"
+    },
+    {
+      "image": 38,
+      "label": " -  [38]",
+      "id": "https://content.staatsbibliothek-berlin.de/dc/1688511644-0038/canvas",
+      "locator": "https://content.staatsbibliothek-berlin.de/dc/1688511644-0038/canvas",
+      "sha256": "cc6005c7cd5b3568f4135d7da81a0a928d424beba97b61bd5a75e44007d1be70",
+      "width": 1581,
+      "height": 1833,
+      "layout": {
+        "type": "blank-side",
+        "right_zone": "marks-only",
+        "left_zone": "unresolved-isolated-trace",
+        "visual_note": "對折兩面，右頂及中部有不規則孔洞痕，底見散點。左面上部另有小幅孤立近字淡痕，未確認為獨立抄字",
+        "blocks": [
+          {
+            "region": "Ltrace",
+            "bbox_xyxy": [
+              584,
+              325,
+              656,
+              402
+            ],
+            "comment": "左面上部孤立近「成」形的淡痕，筆構及來源未定",
+            "coordinate_scope": "observed_region_approximate"
+          }
+        ]
+      },
+      "writing_status": "layout_reviewed_only"
+    },
+    {
+      "image": 39,
+      "label": " -  [39]",
+      "id": "https://content.staatsbibliothek-berlin.de/dc/1688511644-0039/canvas",
+      "locator": "https://content.staatsbibliothek-berlin.de/dc/1688511644-0039/canvas",
+      "sha256": "00b870a5201c37268e38c2338c828fb2e32c949e07e033bdde66f2a488a88415",
+      "width": 1581,
+      "height": 1818,
+      "layout": {
+        "type": "blank-side",
+        "right_zone": "marks-only",
+        "left_zone": "marks-only",
+        "visual_note": "對折兩面，右內側較黑短形，左微孔痕",
+        "blocks": []
+      },
+      "writing_status": "layout_reviewed_only"
+    },
+    {
+      "image": 40,
+      "label": " -  [40]",
+      "id": "https://content.staatsbibliothek-berlin.de/dc/1688511644-0040/canvas",
+      "locator": "https://content.staatsbibliothek-berlin.de/dc/1688511644-0040/canvas",
+      "sha256": "da3f20367723f549f22cdb34976a53fad77dafb8de99a1b4144537bde0af6a23",
+      "width": 1581,
+      "height": 1818,
+      "layout": {
+        "type": "blank-side",
+        "right_zone": "paper-only",
+        "left_zone": "paper-only",
+        "visual_note": "細長折線與水平紙紋，未見獨立墨欄",
+        "blocks": []
+      },
+      "writing_status": "layout_reviewed_only"
+    },
+    {
+      "image": 41,
+      "label": " -  [41]",
+      "id": "https://content.staatsbibliothek-berlin.de/dc/1688511644-0041/canvas",
+      "locator": "https://content.staatsbibliothek-berlin.de/dc/1688511644-0041/canvas",
+      "sha256": "825f0811447456fe3f633d5a34242b6a50445ee1770d8225b083a1e860166a7f",
+      "width": 1581,
+      "height": 1818,
+      "layout": {
+        "type": "blank-side",
+        "right_zone": "paper-only",
+        "left_zone": "paper-only",
+        "visual_note": "散點和淡橫紋，無可辨筆畫",
+        "blocks": []
+      },
+      "writing_status": "layout_reviewed_only"
+    },
+    {
+      "image": 42,
+      "label": " -  [42]",
+      "id": "https://content.staatsbibliothek-berlin.de/dc/1688511644-0042/canvas",
+      "locator": "https://content.staatsbibliothek-berlin.de/dc/1688511644-0042/canvas",
+      "sha256": "c59a6bab678cbde6fec8b6d656d501d97e07df36710b6bed84354168bed33d4a",
+      "width": 1581,
+      "height": 1818,
+      "layout": {
+        "type": "blank-side",
+        "right_zone": "possible-show-through",
+        "left_zone": "possible-show-through",
+        "visual_note": "右半面淡直帶與紙纖維混合，左有些許暗點",
+        "blocks": []
+      },
+      "writing_status": "layout_reviewed_only"
+    },
+    {
+      "image": 43,
+      "label": " -  [43]",
+      "id": "https://content.staatsbibliothek-berlin.de/dc/1688511644-0043/canvas",
+      "locator": "https://content.staatsbibliothek-berlin.de/dc/1688511644-0043/canvas",
+      "sha256": "393bfd96abd8ab7252e5db7015bbc09f3bc8618026e00c8f368d475c83ae78f0",
+      "width": 1581,
+      "height": 1818,
+      "layout": {
+        "type": "blank-side",
+        "right_zone": "paper-only",
+        "left_zone": "paper-only",
+        "visual_note": "紙色略深，折線及邊緣陰影",
+        "blocks": []
+      },
+      "writing_status": "layout_reviewed_only"
+    },
+    {
+      "image": 44,
+      "label": " -  [44]",
+      "id": "https://content.staatsbibliothek-berlin.de/dc/1688511644-0044/canvas",
+      "locator": "https://content.staatsbibliothek-berlin.de/dc/1688511644-0044/canvas",
+      "sha256": "6064639afe76da5eb4ebb783c077c3b8e6985fb323503addd079ac9236555efb",
+      "width": 1581,
+      "height": 1818,
+      "layout": {
+        "type": "blank-side",
+        "right_zone": "paper-only",
+        "left_zone": "marks-only",
+        "visual_note": "近折線左面有斜痕，未見組字",
+        "blocks": []
+      },
+      "writing_status": "layout_reviewed_only"
+    },
+    {
+      "image": 45,
+      "label": " -  [45]",
+      "id": "https://content.staatsbibliothek-berlin.de/dc/1688511644-0045/canvas",
+      "locator": "https://content.staatsbibliothek-berlin.de/dc/1688511644-0045/canvas",
+      "sha256": "d827b27aef0f73e40699ac81ac3eff6ca60d02e1c57f39580235b56a05a2c216",
+      "width": 1581,
+      "height": 1818,
+      "layout": {
+        "type": "blank-side",
+        "right_zone": "paper-only",
+        "left_zone": "marks-only",
+        "visual_note": "左面半幅有灰斜痕，幾條皺線，無組字",
+        "blocks": []
+      },
+      "writing_status": "layout_reviewed_only"
+    },
+    {
+      "image": 46,
+      "label": " -  [46]",
+      "id": "https://content.staatsbibliothek-berlin.de/dc/1688511644-0046/canvas",
+      "locator": "https://content.staatsbibliothek-berlin.de/dc/1688511644-0046/canvas",
+      "sha256": "e6b934cd57177abb5296d8515adcc8e499af9ca20196ebc7776ad40563caca9c",
+      "width": 1554,
+      "height": 1818,
+      "layout": {
+        "type": "blank-side",
+        "right_zone": "possible-show-through",
+        "left_zone": "possible-show-through",
+        "visual_note": "中央摺線色深，左右淡紋",
+        "blocks": []
+      },
+      "writing_status": "layout_reviewed_only"
+    },
+    {
+      "image": 47,
+      "label": " -  [47]",
+      "id": "https://content.staatsbibliothek-berlin.de/dc/1688511644-0047/canvas",
+      "locator": "https://content.staatsbibliothek-berlin.de/dc/1688511644-0047/canvas",
+      "sha256": "83ebc16befd22326d98708a85fd1e6aab9ed09325942aa8c7c81f1111ac089e7",
+      "width": 1554,
+      "height": 1818,
+      "layout": {
+        "type": "blank-side",
+        "right_zone": "paper-only",
+        "left_zone": "possible-show-through",
+        "visual_note": "左中稀淡成帶，未見原面筆鋒",
+        "blocks": []
+      },
+      "writing_status": "layout_reviewed_only"
+    },
+    {
+      "image": 48,
+      "label": " -  [48]",
+      "id": "https://content.staatsbibliothek-berlin.de/dc/1688511644-0048/canvas",
+      "locator": "https://content.staatsbibliothek-berlin.de/dc/1688511644-0048/canvas",
+      "sha256": "91d194764d836e6d526b7ee88a2f96c25c60935f23fcaa8179e3028c7596d188",
+      "width": 1554,
+      "height": 1818,
+      "layout": {
+        "type": "blank-side",
+        "right_zone": "possible-show-through",
+        "left_zone": "possible-show-through",
+        "visual_note": "原尺寸抽核，中段藍灰色淡列與紙底相融，近似透背",
+        "blocks": []
+      },
+      "writing_status": "layout_reviewed_only"
+    },
+    {
+      "image": 49,
+      "label": " -  [49]",
+      "id": "https://content.staatsbibliothek-berlin.de/dc/1688511644-0049/canvas",
+      "locator": "https://content.staatsbibliothek-berlin.de/dc/1688511644-0049/canvas",
+      "sha256": "088de3148d5de466756f93d144d1d7455e7c65d4633cc41827f9fda9c8394aa8",
+      "width": 1554,
+      "height": 1818,
+      "layout": {
+        "type": "blank-side",
+        "right_zone": "possible-show-through",
+        "left_zone": "marks-only",
+        "visual_note": "左緣大範圍直道痕，另有斜淺線",
+        "blocks": []
+      },
+      "writing_status": "layout_reviewed_only"
+    },
+    {
+      "image": 50,
+      "label": " -  [50]",
+      "id": "https://content.staatsbibliothek-berlin.de/dc/1688511644-0050/canvas",
+      "locator": "https://content.staatsbibliothek-berlin.de/dc/1688511644-0050/canvas",
+      "sha256": "9c437334c26a979a5b1e7e059f71d2752641c41c653083bf961e4d6e737fcc88",
+      "width": 1554,
+      "height": 1818,
+      "layout": {
+        "type": "blank-side",
+        "right_zone": "possible-show-through",
+        "left_zone": "possible-show-through",
+        "visual_note": "兩面散色、下緣薄暗",
+        "blocks": []
+      },
+      "writing_status": "layout_reviewed_only"
+    },
+    {
+      "image": 51,
+      "label": " -  [51]",
+      "id": "https://content.staatsbibliothek-berlin.de/dc/1688511644-0051/canvas",
+      "locator": "https://content.staatsbibliothek-berlin.de/dc/1688511644-0051/canvas",
+      "sha256": "024500bb69044055f9a01a5690be628ca3f56d9c20e83e98c1f1c50fdfceb28a",
+      "width": 1539,
+      "height": 1818,
+      "layout": {
+        "type": "blank-side",
+        "right_zone": "possible-show-through",
+        "left_zone": "marks-only",
+        "visual_note": "左中有小斑點，右側細淡紋",
+        "blocks": []
+      },
+      "writing_status": "layout_reviewed_only"
+    },
+    {
+      "image": 52,
+      "label": " -  [52]",
+      "id": "https://content.staatsbibliothek-berlin.de/dc/1688511644-0052/canvas",
+      "locator": "https://content.staatsbibliothek-berlin.de/dc/1688511644-0052/canvas",
+      "sha256": "5b6f821d574448b824ecd012994c9670ef1b0302b6700b12670f34949b382dde",
+      "width": 1539,
+      "height": 1818,
+      "layout": {
+        "type": "blank-side",
+        "right_zone": "marks-only",
+        "left_zone": "paper-only",
+        "visual_note": "右頁上半有數橘褐斑",
+        "blocks": []
+      },
+      "writing_status": "layout_reviewed_only"
+    },
+    {
+      "image": 53,
+      "label": " -  [53]",
+      "id": "https://content.staatsbibliothek-berlin.de/dc/1688511644-0053/canvas",
+      "locator": "https://content.staatsbibliothek-berlin.de/dc/1688511644-0053/canvas",
+      "sha256": "54ba635357c628cd84441dbd5b14b35e5a7e9b087118cb5489fa8c5f1e9b523e",
+      "width": 1539,
+      "height": 1818,
+      "layout": {
+        "type": "blank-side",
+        "right_zone": "possible-show-through",
+        "left_zone": "possible-show-through",
+        "visual_note": "摺面斑駁，近左底淺色塊",
+        "blocks": []
+      },
+      "writing_status": "layout_reviewed_only"
+    },
+    {
+      "image": 54,
+      "label": " -  [54]",
+      "id": "https://content.staatsbibliothek-berlin.de/dc/1688511644-0054/canvas",
+      "locator": "https://content.staatsbibliothek-berlin.de/dc/1688511644-0054/canvas",
+      "sha256": "af59bd554ba80a382cab60e7ee835dc565347fccc6ceca6728f3fd97864a433c",
+      "width": 1539,
+      "height": 1818,
+      "layout": {
+        "type": "blank-side",
+        "right_zone": "paper-only",
+        "left_zone": "marks-only",
+        "visual_note": "左下若干不規則孔點與紙痕",
+        "blocks": []
+      },
+      "writing_status": "layout_reviewed_only"
+    },
+    {
+      "image": 55,
+      "label": " -  [55]",
+      "id": "https://content.staatsbibliothek-berlin.de/dc/1688511644-0055/canvas",
+      "locator": "https://content.staatsbibliothek-berlin.de/dc/1688511644-0055/canvas",
+      "sha256": "23acee935080e557a7f49f3dbd8f4e75b9c83c7c3b88047b08c7acaea58dbc4d",
+      "width": 1539,
+      "height": 1818,
+      "layout": {
+        "type": "blank-side",
+        "right_zone": "possible-show-through",
+        "left_zone": "possible-show-through",
+        "visual_note": "兩面下部散小黑點，淡列少許",
+        "blocks": []
+      },
+      "writing_status": "layout_reviewed_only"
+    },
+    {
+      "image": 56,
+      "label": " -  [56]",
+      "id": "https://content.staatsbibliothek-berlin.de/dc/1688511644-0056/canvas",
+      "locator": "https://content.staatsbibliothek-berlin.de/dc/1688511644-0056/canvas",
+      "sha256": "75371a4d014b7e4319f82588f031179823cd05ceac6d0f32b2c5588682d0f067",
+      "width": 1554,
+      "height": 1818,
+      "layout": {
+        "type": "blank-side",
+        "right_zone": "paper-only",
+        "left_zone": "marks-only",
+        "visual_note": "左中一明顯灰褐斑，周圍見紙紋",
+        "blocks": []
+      },
+      "writing_status": "layout_reviewed_only"
+    },
+    {
+      "image": 57,
+      "label": " -  [57]",
+      "id": "https://content.staatsbibliothek-berlin.de/dc/1688511644-0057/canvas",
+      "locator": "https://content.staatsbibliothek-berlin.de/dc/1688511644-0057/canvas",
+      "sha256": "f2fe5ba24f5fca80edb1194089a4bec7ed11cdd93a35480bc1b506e57d308039",
+      "width": 1554,
+      "height": 1818,
+      "layout": {
+        "type": "blank-side",
+        "right_zone": "possible-show-through",
+        "left_zone": "marks-only",
+        "visual_note": "左中小折斜痕，右下略見潮線",
+        "blocks": []
+      },
+      "writing_status": "layout_reviewed_only"
+    },
+    {
+      "image": 58,
+      "label": " -  [58]",
+      "id": "https://content.staatsbibliothek-berlin.de/dc/1688511644-0058/canvas",
+      "locator": "https://content.staatsbibliothek-berlin.de/dc/1688511644-0058/canvas",
+      "sha256": "79ad661a858dedfb3c48d9b8e1f9a14df3395a2d47d0714f9e76cd82f92bce81",
+      "width": 1566,
+      "height": 1818,
+      "layout": {
+        "type": "blank-side",
+        "right_zone": "possible-show-through",
+        "left_zone": "possible-show-through",
+        "visual_note": "紙色混濁，中央折線細痕",
+        "blocks": []
+      },
+      "writing_status": "layout_reviewed_only"
+    },
+    {
+      "image": 59,
+      "label": " -  [59]",
+      "id": "https://content.staatsbibliothek-berlin.de/dc/1688511644-0059/canvas",
+      "locator": "https://content.staatsbibliothek-berlin.de/dc/1688511644-0059/canvas",
+      "sha256": "370967f19d7cf70516b3492980706817e5bb303e8a0ecc13784437b4f341eb53",
+      "width": 1566,
+      "height": 1818,
+      "layout": {
+        "type": "blank-side",
+        "right_zone": "possible-show-through",
+        "left_zone": "marks-only",
+        "visual_note": "左下側斑與小缺，右面淡列",
+        "blocks": []
+      },
+      "writing_status": "layout_reviewed_only"
+    },
+    {
+      "image": 60,
+      "label": " -  [60]",
+      "id": "https://content.staatsbibliothek-berlin.de/dc/1688511644-0060/canvas",
+      "locator": "https://content.staatsbibliothek-berlin.de/dc/1688511644-0060/canvas",
+      "sha256": "0d433e4d651060538c0b8b1cf622df8ff980cbf78f46f85cbb18cb2fc3cbaa5b",
+      "width": 1566,
+      "height": 1818,
+      "layout": {
+        "type": "blank-side",
+        "right_zone": "possible-show-through",
+        "left_zone": "marks-only",
+        "visual_note": "左下邊緣水痕，兩面紙纖維略透",
+        "blocks": []
+      },
+      "writing_status": "layout_reviewed_only"
+    },
+    {
+      "image": 61,
+      "label": " -  [61]",
+      "id": "https://content.staatsbibliothek-berlin.de/dc/1688511644-0061/canvas",
+      "locator": "https://content.staatsbibliothek-berlin.de/dc/1688511644-0061/canvas",
+      "sha256": "65d3f7eb0ee4177fb66644ed04f40fb6f7a5aa6740f71511daed15a104c26b03",
+      "width": 1566,
+      "height": 1818,
+      "layout": {
+        "type": "blank-side",
+        "right_zone": "possible-show-through",
+        "left_zone": "possible-show-through",
+        "visual_note": "兩面下角有水印，直向淡帶較明顯",
+        "blocks": []
+      },
+      "writing_status": "layout_reviewed_only"
+    },
+    {
+      "image": 62,
+      "label": " -  [62]",
+      "id": "https://content.staatsbibliothek-berlin.de/dc/1688511644-0062/canvas",
+      "locator": "https://content.staatsbibliothek-berlin.de/dc/1688511644-0062/canvas",
+      "sha256": "e83996af9477e7ea9f00de11365bcec883182ec942e34477675aff5476cc8cf2",
+      "width": 1566,
+      "height": 1818,
+      "layout": {
+        "type": "blank-side",
+        "right_zone": "possible-show-through",
+        "left_zone": "possible-show-through",
+        "visual_note": "兩面底側有潮斑，主面無獨立墨欄",
+        "blocks": []
+      },
+      "writing_status": "layout_reviewed_only"
+    },
+    {
+      "image": 63,
+      "label": " -  [63]",
+      "id": "https://content.staatsbibliothek-berlin.de/dc/1688511644-0063/canvas",
+      "locator": "https://content.staatsbibliothek-berlin.de/dc/1688511644-0063/canvas",
+      "sha256": "35cbc868a1590c31fe1a19b46b1c628848101f3f8c6a1e35f7fc39201593e64c",
+      "width": 1549,
+      "height": 1818,
+      "layout": {
+        "type": "blank-side",
+        "right_zone": "possible-show-through",
+        "left_zone": "possible-show-through",
+        "visual_note": "原尺寸抽核，左半摺縫及下角深斑，兩面直向藍灰色淡印",
+        "blocks": []
+      },
+      "writing_status": "layout_reviewed_only"
+    },
+    {
+      "image": 64,
+      "label": " -  [64]",
+      "id": "https://content.staatsbibliothek-berlin.de/dc/1688511644-0064/canvas",
+      "locator": "https://content.staatsbibliothek-berlin.de/dc/1688511644-0064/canvas",
+      "sha256": "7fa747d6a3e56b3ae488eca418736545ea3ae4bbf1582c4187b211eea9ef6c31",
+      "width": 1550,
+      "height": 1818,
+      "layout": {
+        "type": "blank-side",
+        "right_zone": "possible-show-through",
+        "left_zone": "marks-only",
+        "visual_note": "左下褐色小缺；右側纖維淡紋",
+        "blocks": []
+      },
+      "writing_status": "layout_reviewed_only"
+    },
+    {
+      "image": 65,
+      "label": " -  [65]",
+      "id": "https://content.staatsbibliothek-berlin.de/dc/1688511644-0065/canvas",
+      "locator": "https://content.staatsbibliothek-berlin.de/dc/1688511644-0065/canvas",
+      "sha256": "5667f7ca67b64c7202da91d114c97ffce0d8a94cdf1af7ea705cdcf3bea86e4d",
+      "width": 1550,
+      "height": 1818,
+      "layout": {
+        "type": "blank-side",
+        "right_zone": "marks-only",
+        "left_zone": "marks-only",
+        "visual_note": "左右下緣角孔斑，紙面淺淡纖維",
+        "blocks": []
+      },
+      "writing_status": "layout_reviewed_only"
+    },
+    {
+      "image": 66,
+      "label": " -  [66]",
+      "id": "https://content.staatsbibliothek-berlin.de/dc/1688511644-0066/canvas",
+      "locator": "https://content.staatsbibliothek-berlin.de/dc/1688511644-0066/canvas",
+      "sha256": "8f5c5ea83ab2ca7056fce1b34ee5ceb3b47445fecbe93c0a2cc7fda3f573b6b3",
+      "width": 1550,
+      "height": 1818,
+      "layout": {
+        "type": "blank-side",
+        "right_zone": "marks-only",
+        "left_zone": "marks-only",
+        "visual_note": "左右下角孔洞和污色",
+        "blocks": []
+      },
+      "writing_status": "layout_reviewed_only"
+    },
+    {
+      "image": 67,
+      "label": " -  [67]",
+      "id": "https://content.staatsbibliothek-berlin.de/dc/1688511644-0067/canvas",
+      "locator": "https://content.staatsbibliothek-berlin.de/dc/1688511644-0067/canvas",
+      "sha256": "ed9cde099aa161b567e31c69a0bc0268d0ac67685f011761b182250df3e08a10",
+      "width": 1550,
+      "height": 1818,
+      "layout": {
+        "type": "blank-side",
+        "right_zone": "marks-only",
+        "left_zone": "marks-only",
+        "visual_note": "左、右下角缺且有褐斑",
+        "blocks": []
+      },
+      "writing_status": "layout_reviewed_only"
+    },
+    {
+      "image": 68,
+      "label": " -  [68]",
+      "id": "https://content.staatsbibliothek-berlin.de/dc/1688511644-0068/canvas",
+      "locator": "https://content.staatsbibliothek-berlin.de/dc/1688511644-0068/canvas",
+      "sha256": "ef47ce3c0ef26b7e4c8821f93bc27f3e555b82cc25e90896eb06cbf1fe0423a3",
+      "width": 1560,
+      "height": 1818,
+      "layout": {
+        "type": "blank-side",
+        "right_zone": "marks-only",
+        "left_zone": "marks-only",
+        "visual_note": "兩下角潮斑孔損，中心紙面走向較平",
+        "blocks": []
+      },
+      "writing_status": "layout_reviewed_only"
+    },
+    {
+      "image": 69,
+      "label": " -  [69]",
+      "id": "https://content.staatsbibliothek-berlin.de/dc/1688511644-0069/canvas",
+      "locator": "https://content.staatsbibliothek-berlin.de/dc/1688511644-0069/canvas",
+      "sha256": "ae13a5489ae449af756c99c05865771e8d85c14d7c6484c3f492c0a772245090",
+      "width": 1560,
+      "height": 1818,
+      "layout": {
+        "type": "blank-side",
+        "right_zone": "marks-only",
+        "left_zone": "marks-only",
+        "visual_note": "左右下角水跡孔痕清楚",
+        "blocks": []
+      },
+      "writing_status": "layout_reviewed_only"
+    },
+    {
+      "image": 70,
+      "label": " -  [70]",
+      "id": "https://content.staatsbibliothek-berlin.de/dc/1688511644-0070/canvas",
+      "locator": "https://content.staatsbibliothek-berlin.de/dc/1688511644-0070/canvas",
+      "sha256": "8cf05c267e695960afce878210c5e88c2255a1c802868df98cd39e71f8cc21e3",
+      "width": 1572,
+      "height": 1818,
+      "layout": {
+        "type": "blank-side",
+        "right_zone": "marks-only",
+        "left_zone": "marks-only",
+        "visual_note": "左右下角水跡較深，各有黑孔痕",
+        "blocks": []
+      },
+      "writing_status": "layout_reviewed_only"
+    },
+    {
+      "image": 71,
+      "label": " -  [71]",
+      "id": "https://content.staatsbibliothek-berlin.de/dc/1688511644-0071/canvas",
+      "locator": "https://content.staatsbibliothek-berlin.de/dc/1688511644-0071/canvas",
+      "sha256": "8b7ea57cc2d00df5873a94f996e631c186d09e214d4efa26a585d0ac9e20320c",
+      "width": 1571,
+      "height": 1818,
+      "layout": {
+        "type": "blank-side",
+        "right_zone": "marks-only",
+        "left_zone": "marks-only",
+        "visual_note": "右下狹長孔痕，左下褐斑，中折上緣小缺",
+        "blocks": []
+      },
+      "writing_status": "layout_reviewed_only"
+    },
+    {
+      "image": 72,
+      "label": " -  [72]",
+      "id": "https://content.staatsbibliothek-berlin.de/dc/1688511644-0072/canvas",
+      "locator": "https://content.staatsbibliothek-berlin.de/dc/1688511644-0072/canvas",
+      "sha256": "fbf0bdd73c0d0ae0d537ef41cd9a0816cf6120f3842e8cb62f0cc0010c40d573",
+      "width": 1552,
+      "height": 1818,
+      "layout": {
+        "type": "blank-side",
+        "right_zone": "marks-only",
+        "left_zone": "marks-only",
+        "visual_note": "原尺寸抽核，左緣及左上多處深孔與撕裂，右下褐斑，未見可確認的獨立文字",
+        "blocks": []
+      },
+      "writing_status": "layout_reviewed_only"
+    },
+    {
+      "image": 73,
+      "label": " -  [73]",
+      "id": "https://content.staatsbibliothek-berlin.de/dc/1688511644-0073/canvas",
+      "locator": "https://content.staatsbibliothek-berlin.de/dc/1688511644-0073/canvas",
+      "sha256": "0f18c0fbd4a4c01e1f1595fbae1ca0842fb0d1023bf8a804f773867887b89224",
+      "width": 899,
+      "height": 1893,
+      "layout": {
+        "type": "wrapper-front",
+        "right_zone": "unassigned",
+        "left_zone": "unassigned",
+        "visual_note": "原尺寸回看，黑色套面附長形紙片、紅色殘痕，殘片無充分連續筆畫可據以釋題",
+        "blocks": [
+          {
+            "region": "wrapper-label",
+            "bbox_xyxy": [
+              185,
+              215,
+              737,
+              1740
+            ],
+            "comment": "外套紙片及紅痕，未辨題字",
+            "coordinate_scope": "observed_region_approximate"
+          }
+        ]
+      },
+      "writing_status": "paratext_traces_unreadable"
+    },
+    {
+      "image": 74,
+      "label": " -  [74]",
+      "id": "https://content.staatsbibliothek-berlin.de/dc/1688511644-0074/canvas",
+      "locator": "https://content.staatsbibliothek-berlin.de/dc/1688511644-0074/canvas",
+      "sha256": "8771f6e5eebbee1d946ec6aeda123cf363546be7df8a80c48460faa87ae95173",
+      "width": 322,
+      "height": 1014,
+      "layout": {
+        "type": "edge",
+        "right_zone": "unassigned",
+        "left_zone": "unassigned",
+        "visual_note": "縱向狹面露摺疊紙邊，黑衣沿邊",
+        "blocks": []
+      },
+      "writing_status": "layout_reviewed_only"
+    },
+    {
+      "image": 75,
+      "label": " -  [75]",
+      "id": "https://content.staatsbibliothek-berlin.de/dc/1688511644-0075/canvas",
+      "locator": "https://content.staatsbibliothek-berlin.de/dc/1688511644-0075/canvas",
+      "sha256": "18190f6a096a9ba52e30e04b867d7ede85955a80728f837bc8312b87a0491436",
+      "width": 322,
+      "height": 1015,
+      "layout": {
+        "type": "edge",
+        "right_zone": "unassigned",
+        "left_zone": "unassigned",
+        "visual_note": "縱向狹面露摺疊紙邊，可見細繩",
+        "blocks": []
+      },
+      "writing_status": "layout_reviewed_only"
+    },
+    {
+      "image": 76,
+      "label": " -  [76]",
+      "id": "https://content.staatsbibliothek-berlin.de/dc/1688511644-0076/canvas",
+      "locator": "https://content.staatsbibliothek-berlin.de/dc/1688511644-0076/canvas",
+      "sha256": "37ef2c3b963147a43bfb06a652ac37f9dace83856cdb1abc700f320a1f5ba304",
+      "width": 314,
+      "height": 1824,
+      "layout": {
+        "type": "wrapper-edge",
+        "right_zone": "unassigned",
+        "left_zone": "unassigned",
+        "visual_note": "狹長黑色外側，頂端一處露紙",
+        "blocks": []
+      },
+      "writing_status": "layout_reviewed_only"
+    },
+    {
+      "image": 77,
+      "label": " -  [77]",
+      "id": "https://content.staatsbibliothek-berlin.de/dc/1688511644-0077/canvas",
+      "locator": "https://content.staatsbibliothek-berlin.de/dc/1688511644-0077/canvas",
+      "sha256": "1a79efe3c81928cf1ed9a66e428649eed50c2ffbb9cb07499ac312e0714a5462",
+      "width": 305,
+      "height": 1824,
+      "layout": {
+        "type": "wrapper-edge",
+        "right_zone": "unassigned",
+        "left_zone": "unassigned",
+        "visual_note": "狹長黑色外側，頂端一處大片紙頭",
+        "blocks": []
+      },
+      "writing_status": "layout_reviewed_only"
+    },
+    {
+      "image": 78,
+      "label": " -  [78]",
+      "id": "https://content.staatsbibliothek-berlin.de/dc/1688511644-0078/canvas",
+      "locator": "https://content.staatsbibliothek-berlin.de/dc/1688511644-0078/canvas",
+      "sha256": "e076cbcff421f83aff737db363077a8865249a0bfe9714eb3d2e7ee34e10e769",
+      "width": 899,
+      "height": 1893,
+      "layout": {
+        "type": "wrapper-back",
+        "right_zone": "unassigned",
+        "left_zone": "unassigned",
+        "visual_note": "黑色外套背面，上方露紙帶，未見書題",
+        "blocks": []
+      },
+      "writing_status": "layout_reviewed_only"
+    },
+    {
+      "image": 79,
+      "label": " -  [79]",
+      "id": "https://content.staatsbibliothek-berlin.de/dc/1688511644-0079/canvas",
+      "locator": "https://content.staatsbibliothek-berlin.de/dc/1688511644-0079/canvas",
+      "sha256": "6be209bf262626e714c17519f2ef1e42e1b575aac712754104b8f4b14124d6c4",
+      "width": 1755,
+      "height": 1760,
+      "layout": {
+        "type": "calibration",
+        "right_zone": "unassigned",
+        "left_zone": "unassigned",
+        "visual_note": "同 f002 的版面大部被色卡、比例尺及館方名牌覆住；露出的五行橫標在 f002 有完整影像",
+        "blocks": [
+          {
+            "region": "calibration",
+            "bbox_xyxy": [
+              82,
+              315,
+              1740,
+              1730
+            ],
+            "comment": "色卡尺與重攝文字",
+            "coordinate_scope": "observed_region_approximate"
+          }
+        ]
+      },
+      "writing_status": "layout_reviewed_only"
+    }
+  ]
+}

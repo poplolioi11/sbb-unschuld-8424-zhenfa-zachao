@@ -1,0 +1,26 @@
+cff-version: 1.2.0
+type: dataset
+title: '診法雜抄（柏林國家圖書館 Slg. Unschuld 8424） / Zhenfa zachao [Miscellaneous Notes on Diagnostic
+  Methods]: Transcription Dataset'
+version: 0.1.0
+message: Please cite this dataset version and source copy.
+authors:
+- family-names: Chu
+  given-names: Chen-Yu
+  orcid: https://orcid.org/0009-0003-9738-6914
+date-released: '2026-11-22'
+repository-code: https://github.com/poplolioi11/sbb-unschuld-8424-zhenfa-zachao
+keywords:
+- 診法雜抄
+- 脈診
+- 脈歌
+- 診法史
+- 漢文寫本
+- 柏林國家圖書館
+- Unschuld Collection
+- Pulse diagnosis
+- Zhenfa zachao
+- History of Medicine
+- Literary Chinese
+- Manuscript tables
+- TEI
